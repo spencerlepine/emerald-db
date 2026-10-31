@@ -24,9 +24,12 @@ pokeemerald: `731ad5bfd6e6f265508d0efcca0ba42f9dcf5881`
 | Scripts | script labels | 9361 | 9361 | 100% |  |
 | Scripts | flags + vars | 1826 | 1826 | 100% |  |
 | Art | PNG art files inventoried | 4076 | 4076 | 100% |  |
-| Lore (curated) | named speakers (>=2 lines) mapped to a character | 155 | 0 | 0% |  |
-| Lore (curated) | story characters |  | 0 | — |  |
-| Lore (curated) | organizations |  | 0 | — |  |
-| Lore (curated) | story timeline events |  | 0 | — |  |
+| Lore (curated) | named speakers (>=2 lines) mapped to a character | 86 | 35 | 41% |  |
+| Lore (curated) | named speakers mapped to a character or a trainer name | 86 | 67 | 78% | unmapped: AZUMARILL, AZURILL, BIG BRO, BIG SIS, BLEND MASTER, CLERK, DOCK, FANS, GUIDE, GULPIN, INTERVIEWER, JUDGE, KECLEON, MC, REFEREE, REPORTER, SKITTY, WINGULL, ZIGZAGOON |
+| Lore (curated) | story characters |  | 47 | — |  |
+| Lore (curated) | organizations |  | 25 | — |  |
+| Lore (curated) | story timeline events |  | 45 | — |  |
 | Lore (curated) | region-map locations with lore written | 95 | 0 | 0% |  |
-| Balance | outdoor/dungeon maps with progression row | 181 | 0 | 0% |  |
+| Balance | maps in area_progression (auto) |  | 220 | — |  |
+| Balance | area_progression rows with chapter/badges assigned | 220 | 90 | 41% |  |
+| Balance | area_progression rows with gating (requires) written | 220 | 0 | 0% |  |

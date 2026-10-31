@@ -47,7 +47,8 @@ TABLE_KEYS = {
 }
 # Tables that use an id column for de-duplication / curated overlays.
 ID_COLUMN = {"entities": "id", "timeline_events": "id", "dialogue": "line_id", "scripts": "script_id",
-             "texts": "text_id", "art_assets": "asset_id", "story_flags": "flag_id", "entity_images": "entity_id"}
+             "texts": "text_id", "art_assets": "asset_id", "story_flags": "flag_id", "entity_images": "entity_id",
+             "area_progression": "map_id"}
 
 
 def run() -> None:
@@ -123,13 +124,20 @@ def _write_build_info(tables) -> None:
 
 def _validate(tables) -> None:
     ids = {r["id"] for r in tables.get("entities", [])}
-    missing = defaultdict(int)
+    flags = {r["flag_id"] for r in tables.get("story_flags", [])}
+    events = {r["id"] for r in tables.get("timeline_events", [])}
+    missing = defaultdict(set)
     for r in tables.get("relationships", []):
         for col in ("source_id", "target_id"):
             if r.get(col) and r[col] not in ids:
-                missing[r[col].split(":")[0]] += 1
+                missing["relationships." + r[col].split(":")[0]].add(r[col])
+    for r in tables.get("timeline_entities", []):
+        if r["entity_id"] not in ids and r["entity_id"] not in flags:
+            missing["timeline_entities"].add(r["entity_id"])
+        if r["event_id"] not in events:
+            missing["timeline_events"].add(r["event_id"])
     if missing:
-        print("  WARNING dangling relationship ids by prefix:", json.dumps(dict(missing)))
+        print("  WARNING dangling ids:", json.dumps({k: sorted(v)[:12] + (["..."] if len(v) > 12 else []) for k, v in missing.items()}, indent=1))
     print(f"  entities={len(ids)} relationships={len(tables.get('relationships', []))}")
 
 
