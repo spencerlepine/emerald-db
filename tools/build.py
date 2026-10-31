@@ -38,6 +38,11 @@ TABLE_KEYS = {
     "timeline_events": ["id", "title", "year", "sequence", "type", "era", "release_year", "canon", "tagline",
                         "description", "lore", "previous_event_id", "lane", "color"],
     "timeline_entities": ["event_id", "entity_id", "relationship"],
+    "scripts": ["script_id", "map_id", "source_file", "source_line", "kind", "commands", "command_list", "texts", "jumps",
+                "movements", "flags_set", "flags_clear", "flags_check", "vars_set", "vars_checked", "items_gives",
+                "items_takes", "items_checks", "species_gives", "species_battles", "species_cry", "trainers", "warps",
+                "marts", "specials", "music"],
+    "art_assets": ["asset_id", "kind", "subkind", "path", "width", "height", "symbols", "referenced_in_code", "art_status"],
 }
 # Tables that use an id column for de-duplication / curated overlays.
 ID_COLUMN = {"entities": "id", "timeline_events": "id", "dialogue": "line_id", "scripts": "script_id",
