@@ -20,16 +20,17 @@ pokeemerald: `731ad5bfd6e6f265508d0efcca0ba42f9dcf5881`
 | World | overworld sprite ids | 255 | 255 | 100% |  |
 | Text | text blocks (.string labels) | 11229 | 11229 | 100% | texts.csv is the source of truth for dialogue |
 | Text | texts referenced by an overworld script | 11229 | 5665 | 50% | rest are used from C code / indirectly |
-| Text | NPCs with attributed dialogue | 2776 | 1926 | 69% |  |
+| Text | NPCs with attributed dialogue | 2776 | 1926 | 69% | all object events incl. props |
+| Text | people NPCs (non-prop sprites) with attributed dialogue | 1818 | 1650 | 91% | rest: scripted cutscene actors without their own script, or NPCs whose text is shown from C |
 | Scripts | script labels | 9361 | 9361 | 100% |  |
 | Scripts | flags + vars | 1826 | 1826 | 100% |  |
 | Art | PNG art files inventoried | 4076 | 4076 | 100% |  |
-| Lore (curated) | named speakers (>=2 lines) mapped to a character | 86 | 35 | 41% |  |
-| Lore (curated) | named speakers mapped to a character or a trainer name | 86 | 67 | 78% | unmapped: AZUMARILL, AZURILL, BIG BRO, BIG SIS, BLEND MASTER, CLERK, DOCK, FANS, GUIDE, GULPIN, INTERVIEWER, JUDGE, KECLEON, MC, REFEREE, REPORTER, SKITTY, WINGULL, ZIGZAGOON |
-| Lore (curated) | story characters |  | 47 | — |  |
+| Lore (curated) | named speakers (>=2 lines) mapped to a character | 86 | 54 | 63% |  |
+| Lore (curated) | named speakers mapped to a character or a trainer name | 86 | 86 | 100% | unmapped:  |
+| Lore (curated) | story characters |  | 59 | — |  |
 | Lore (curated) | organizations |  | 25 | — |  |
 | Lore (curated) | story timeline events |  | 45 | — |  |
 | Lore (curated) | region-map locations with lore written | 95 | 84 | 88% |  |
 | Balance | maps in area_progression (auto) |  | 220 | — |  |
 | Balance | area_progression rows with chapter/badges assigned | 220 | 220 | 100% |  |
-| Balance | area_progression rows with gating (requires) written | 220 | 155 | 70% |  |
+| Balance | area_progression rows with gating (requires) written | 220 | 159 | 72% |  |

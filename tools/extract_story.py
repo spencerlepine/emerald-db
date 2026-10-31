@@ -76,6 +76,21 @@ def extract() -> dict[str, list[dict]]:
                 total += n
         entities.append({"id": cid, "named_dialogue_lines": total})
 
+    # ---- NPC objects that portray a curated character (character-specific sprites only) ----
+    generic = {"object-gfx:" + g for g in ("man-1", "man-2", "man-3", "woman-2", "woman-4", "scientist-1", "expert-m", "gentleman",
+                                           "pokefan-m", "old-man", "old-woman", "nurse", "mart-employee", "reporter-f", "reporter-m",
+                                           "cameraman", "wingull", "contest-judge", "devon-employee", "aqua-member-m", "aqua-member-f",
+                                           "magma-member-m", "magma-member-f", "mr-brineys-boat")}
+    sprite_owner = defaultdict(set)
+    for c in chars:
+        for g in [x for x in c.get("sprite_ids", "").split("|") if x]:
+            sprite_owner[g].add(c["id"])
+    for ent in maps["entities"]:
+        if ent["entity_type"] == "npc":
+            owners = sprite_owner.get(ent.get("graphics", ""), set())
+            if len(owners) == 1 and ent["graphics"] not in generic:
+                rels.append({"source_id": ent["id"], "relationship": "portrays", "target_id": next(iter(owners))})
+
     # ---- area progression ----------------------------------------------------------------
     wild = defaultdict(list)
     for w in maps["wild_encounters"]:

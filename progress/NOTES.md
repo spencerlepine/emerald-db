@@ -31,6 +31,10 @@
 - ~29% of texts are not referenced by any overworld script: they are used
   from C (`src/`) or via `loadword`/tables. A8 will add C-side strings.
 
+- `area_progression.badges_expected` is curated (prefix rules per map); the auto value from the timeline is overwritten. Rematch trainers (`*-2`..`*-5`) are excluded from trainer level ranges.
+- `npc --portrays--> character` links only use character-specific sprites (e.g. `object-gfx:maxie`), not generic ones like `man-1`.
+- Story `year` = chapter (1..45), entity `story_act` = act (1..7 main story, 8 post-game). Timeline `era` names the act.
+
 ## Open questions
 
 - (none yet)

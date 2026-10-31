@@ -13,7 +13,7 @@ map:abandoned-ship-rooms-b1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need k
 map:abandoned-ship-underwater1,7,item:hm-dive|flag:badge07-get,
 map:abandoned-ship-underwater2,7,item:hm-dive|flag:badge07-get,
 map:altering-cave,8,flag:sys-game-clear,Off Route 103; Mystery Event changes its Pokémon.
-map:ancient-tomb,8,item:hm-flash|flag:badge02-get|flag:regi-doors-opened,Registeel (post-game).
+map:ancient-tomb,7,item:hm-flash|flag:badge02-get|flag:regi-doors-opened,Registeel (Lv 40).
 map:aqua-hideout-1f,6,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
 map:aqua-hideout-b1f,6,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
 map:aqua-hideout-b2f,6,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
@@ -25,7 +25,7 @@ map:battle-frontier-outside-west,8,item:ss-ticket,Post-game.
 map:cave-of-origin-1f,7,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
 map:cave-of-origin-b1f,7,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
 map:cave-of-origin-entrance,7,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
-map:desert-ruins,8,item:hm-rock-smash|flag:badge03-get|flag:regi-doors-opened,Regirock (post-game).
+map:desert-ruins,7,item:hm-rock-smash|flag:badge03-get|flag:regi-doors-opened,Regirock (Lv 40).
 map:desert-underpass,8,flag:sys-game-clear,"Post-game, from Route 114."
 map:dewford-town,1,flag:returned-devon-goods,Reached by Mr. Briney's boat (VAR_BOARD_BRINEY_BOAT_STATE).
 map:dewford-town-gym,1,,"Gym 2: Fighting, dark maze."
@@ -43,7 +43,7 @@ map:granite-cave-1f,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bi
 map:granite-cave-b1f,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
 map:granite-cave-b2f,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
 map:granite-cave-stevens-room,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
-map:island-cave,8,flag:regi-doors-opened,Regice (post-game).
+map:island-cave,7,flag:regi-doors-opened,Regice (Lv 40).
 map:jagged-pass,3,,Acro Bike needed to go back up; Magma Hideout entrance needs Magma Emblem.
 map:lavaridge-town,3,,Gym 4; Go-Goggles from rival.
 map:lavaridge-town-gym-1f,3,,Gym 4: Fire.
@@ -62,9 +62,9 @@ map:marine-cave-entrance,8,flag:sys-game-clear|item:hm-dive|flag:badge07-get,App
 map:mauville-city,2,,Gym 3; Rydel's Cycles gives a bike.
 map:mauville-city-gym,2,,Gym 3: Electric.
 map:meteor-falls-1f-1r,3,,Inner areas need Surf and Waterfall (post-game Steven).
-map:meteor-falls-1f-2r,3,,Inner areas need Surf and Waterfall (post-game Steven).
-map:meteor-falls-b1f-1r,3,,Inner areas need Surf and Waterfall (post-game Steven).
-map:meteor-falls-b1f-2r,3,,Inner areas need Surf and Waterfall (post-game Steven).
+map:meteor-falls-1f-2r,5,item:hm-surf|flag:badge05-get,Back of Meteor Falls across the water; dragon tamers ~Lv 37-39.
+map:meteor-falls-b1f-1r,5,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
+map:meteor-falls-b1f-2r,5,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
 map:meteor-falls-stevens-cave,8,item:hm-waterfall|flag:badge08-get|flag:sys-game-clear,Post-game Steven battle.
 map:mirage-tower-1f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
 map:mirage-tower-2f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
@@ -108,7 +108,7 @@ map:new-mauville-inside,3,item:basement-key|item:hm-surf|flag:badge05-get,Wattso
 map:oldale-town,0,,
 map:pacifidlog-town,7,item:hm-surf|flag:badge05-get,
 map:petalburg-city,0,,Gym needs 4 badges (VAR_PETALBURG_GYM_STATE).
-map:petalburg-city-gym,0,,Gym needs 4 badges (VAR_PETALBURG_GYM_STATE).
+map:petalburg-city-gym,4,flag:badge04-get,Norman only accepts challengers with four badges (levels 24-31).
 map:petalburg-woods,0,,Cut tree hides items.
 map:route101,0,,Starter choice.
 map:route102,0,,
@@ -116,10 +116,10 @@ map:route103,0,,West half at start; east half (to Route 110) needs Surf.
 map:route104,0,,North half via Petalburg Woods; flower shop gives Wailmer Pail.
 map:route104-prototype,0,,Unused prototype map.
 map:route105,5,item:hm-surf|flag:badge05-get,Sea route.
-map:route106,1,,Beach part walkable from Dewford; sea needs Surf.
+map:route106,1,,Beach part walkable from Dewford (trainers ~Lv 7-10); swimmers on the sea part (~Lv 26) need Surf.
 map:route107,5,item:hm-surf|flag:badge05-get,Sea route.
 map:route108,5,item:hm-surf|flag:badge05-get,Sea route; Abandoned Ship.
-map:route109,2,,Reached by boat from Dewford; sea part needs Surf.
+map:route109,2,,"Reached by boat from Dewford; beach trainers ~Lv 12-20, swimmers on the sea part (~Lv 27) need Surf."
 map:route109-seashore-house,2,,Beat all trainers in the house for Soda Pop.
 map:route110,2,,Cycling Road needs a Bike; Trick House puzzles gated by badges.
 map:route110-trick-house-puzzle1,2,item:hm-cut|flag:badge01-get,Trick House puzzle 1.
@@ -133,7 +133,7 @@ map:route111,3,item:hm-rock-smash|flag:badge03-get,South part from Mauville; roc
 map:route112,3,,Cable Car runs after the Mt. Chimney events are triggered.
 map:route113,3,,Volcanic ash falls here.
 map:route114,3,,Lanette's house; Fossil Maniac.
-map:route115,1,item:hm-surf|flag:badge05-get,Reachable north of Rustboro; most of it needs Surf/Strength.
+map:route115,1,item:hm-surf|flag:badge05-get,"South end reachable north of Rustboro early, but its trainers (Lv 18-28) and the Meteor Falls side are balanced for after Surf."
 map:route116,1,,East end blocked until Rusturf Tunnel is dug (Rock Smash).
 map:route117,2,,Day Care.
 map:route118,5,item:hm-surf|flag:badge05-get,Needs Surf to cross from Mauville.
@@ -152,9 +152,9 @@ map:route128,7,item:hm-surf|flag:badge05-get,
 map:route129,7,item:hm-surf|flag:badge05-get,
 map:route130,7,item:hm-surf|flag:badge05-get,Mirage Island sometimes appears.
 map:route131,7,item:hm-surf|flag:badge05-get,
-map:route132,8,item:hm-surf|flag:badge05-get,Currents.
-map:route133,8,item:hm-surf|flag:badge05-get,Currents.
-map:route134,8,item:hm-surf|flag:badge05-get,Currents; Sealed Chamber below.
+map:route132,7,item:hm-surf|flag:badge05-get,Currents (reached from Pacifidlog after the crisis).
+map:route133,7,item:hm-surf|flag:badge05-get,Currents.
+map:route134,7,item:hm-surf|flag:badge05-get,Currents; Sealed Chamber below.
 map:rustboro-city,0,,Gym 1.
 map:rustboro-city-gym,0,,"Gym 1: Rock, levels ~12-15."
 map:rusturf-tunnel,1,,Rock Smash rocks block the Verdanturf side until FLAG_RUSTURF_TUNNEL_OPENED.
@@ -177,8 +177,8 @@ map:seafloor-cavern-room6,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:
 map:seafloor-cavern-room7,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
 map:seafloor-cavern-room8,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
 map:seafloor-cavern-room9,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
-map:sealed-chamber-inner-room,8,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party.
-map:sealed-chamber-outer-room,8,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party.
+map:sealed-chamber-inner-room,7,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party; can be done before the League.
+map:sealed-chamber-outer-room,7,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party; can be done before the League.
 map:shoal-cave-high-tide-entrance-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
 map:shoal-cave-high-tide-inner-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
 map:shoal-cave-low-tide-entrance-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
@@ -211,9 +211,9 @@ map:underwater-route126,7,item:hm-dive|flag:badge07-get,Underwater entrance to S
 map:underwater-route127,7,item:hm-dive|flag:badge07-get,
 map:underwater-route128,7,item:hm-dive|flag:badge07-get,Seafloor Cavern entrance.
 map:underwater-route129,7,item:hm-dive|flag:badge07-get,
-map:underwater-route134,8,item:hm-dive|flag:badge07-get,
+map:underwater-route134,7,item:hm-dive|flag:badge07-get,
 map:underwater-seafloor-cavern,7,item:hm-dive|flag:badge07-get,
-map:underwater-sealed-chamber,8,item:hm-dive|flag:badge07-get,
+map:underwater-sealed-chamber,7,item:hm-dive|flag:badge07-get,
 map:underwater-sootopolis-city,7,item:hm-dive|flag:badge07-get,
 map:verdanturf-town,2,,Battle Tent; Rusturf Tunnel east end.
 map:victory-road-1f,8,item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get|item:hm-flash|flag:badge02-get,Wally's final battle.

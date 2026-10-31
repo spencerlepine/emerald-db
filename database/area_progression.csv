@@ -13,7 +13,7 @@ map:abandoned-ship-rooms-b1f,Abandoned Ship · Rooms · B1F,underground,location
 map:abandoned-ship-underwater1,Abandoned Ship · Underwater 1,underwater,location:abandoned-ship,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
 map:abandoned-ship-underwater2,Abandoned Ship · Underwater 2,underwater,location:abandoned-ship,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
 map:altering-cave,Altering Cave,underground,location:altering-cave,,,8,3,29,3,29,land,0,,,flag:sys-game-clear,Off Route 103; Mystery Event changes its Pokémon.
-map:ancient-tomb,Ancient Tomb,underground,location:ancient-tomb,42,regi-trio,8,,,,,,0,,,item:hm-flash|flag:badge02-get|flag:regi-doors-opened,Registeel (post-game).
+map:ancient-tomb,Ancient Tomb,underground,location:ancient-tomb,42,regi-trio,7,,,,,,0,,,item:hm-flash|flag:badge02-get|flag:regi-doors-opened,Registeel (Lv 40).
 map:aqua-hideout-1f,Aqua Hideout · 1F,indoor,location:aqua-hideout,29,aqua-hideout,6,,,,,,1,32,32,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
 map:aqua-hideout-b1f,Aqua Hideout · B1F,indoor,location:aqua-hideout,29,aqua-hideout,6,,,,,,1,31,31,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
 map:aqua-hideout-b2f,Aqua Hideout · B2F,indoor,location:aqua-hideout,29,aqua-hideout,6,,,,,,3,32,34,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
@@ -25,7 +25,7 @@ map:battle-frontier-outside-west,Battle Frontier · Outside West,route,location:
 map:cave-of-origin-1f,Cave Of Origin · 1F,underground,location:cave-of-origin,33,sootopolis-crisis,7,30,36,30,36,land,0,,,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
 map:cave-of-origin-b1f,Cave Of Origin · B1F,underground,location:cave-of-origin,33,sootopolis-crisis,7,,,,,,0,,,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
 map:cave-of-origin-entrance,Cave Of Origin · Entrance,underground,location:cave-of-origin,33,sootopolis-crisis,7,28,36,28,36,land,0,,,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
-map:desert-ruins,Desert Ruins,underground,location:desert-ruins,42,regi-trio,8,,,,,,0,,,item:hm-rock-smash|flag:badge03-get|flag:regi-doors-opened,Regirock (post-game).
+map:desert-ruins,Desert Ruins,underground,location:desert-ruins,42,regi-trio,7,,,,,,0,,,item:hm-rock-smash|flag:badge03-get|flag:regi-doors-opened,Regirock (Lv 40).
 map:desert-underpass,Desert Underpass,underground,location:desert-underpass,,,8,35,45,35,45,land,0,,,flag:sys-game-clear,"Post-game, from Route 114."
 map:dewford-town,Dewford Town,town,location:dewford-town,10,sail-to-dewford,1,,,5,45,good_rod|old_rod|super_rod|water,0,,,flag:returned-devon-goods,Reached by Mr. Briney's boat (VAR_BOARD_BRINEY_BOAT_STATE).
 map:dewford-town-gym,Dewford Town · Gym,indoor,location:dewford-town,11,knuckle-badge,1,,,,,,7,13,19,,"Gym 2: Fighting, dark maze."
@@ -43,7 +43,7 @@ map:granite-cave-1f,Granite Cave · 1F,underground,location:granite-cave,12,lett
 map:granite-cave-b1f,Granite Cave · B1F,underground,location:granite-cave,12,letter-for-steven,1,9,11,9,11,land,0,,,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
 map:granite-cave-b2f,Granite Cave · B2F,underground,location:granite-cave,12,letter-for-steven,1,10,12,5,20,land|rock_smash,0,,,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
 map:granite-cave-stevens-room,Granite Cave · Stevens Room,underground,location:granite-cave,12,letter-for-steven,1,6,10,6,10,land,0,,,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
-map:island-cave,Island Cave,underground,location:island-cave,42,regi-trio,8,,,,,,0,,,flag:regi-doors-opened,Regice (post-game).
+map:island-cave,Island Cave,underground,location:island-cave,42,regi-trio,7,,,,,,0,,,flag:regi-doors-opened,Regice (Lv 40).
 map:jagged-pass,Jagged Pass,route,location:jagged-pass,19,mt-chimney,3,20,22,20,22,land,6,19,22,,Acro Bike needed to go back up; Magma Hideout entrance needs Magma Emblem.
 map:lavaridge-town,Lavaridge Town,town,location:lavaridge-town,20,heat-badge,3,,,,,,0,,,,Gym 4; Go-Goggles from rival.
 map:lavaridge-town-gym-1f,Lavaridge Town · Gym · 1F,indoor,location:lavaridge-town,20,heat-badge,3,,,,,,9,22,29,,Gym 4: Fire.
@@ -62,9 +62,9 @@ map:marine-cave-entrance,Marine Cave · Entrance,underground,location:marine-cav
 map:mauville-city,Mauville City,city,location:mauville-city,15,wally-in-mauville,2,,,,,,1,16,16,,Gym 3; Rydel's Cycles gives a bike.
 map:mauville-city-gym,Mauville City · Gym,indoor,location:mauville-city,16,dynamo-badge,2,,,,,,6,17,24,,Gym 3: Electric.
 map:meteor-falls-1f-1r,Meteor Falls · 1F · 1R,underground,location:meteor-falls,18,meteor-falls-meteorite,3,14,20,5,45,good_rod|land|old_rod|super_rod|water,0,,,,Inner areas need Surf and Waterfall (post-game Steven).
-map:meteor-falls-1f-2r,Meteor Falls · 1F · 2R,underground,location:meteor-falls,,,3,33,40,5,45,good_rod|land|old_rod|super_rod|water,2,37,39,,Inner areas need Surf and Waterfall (post-game Steven).
-map:meteor-falls-b1f-1r,Meteor Falls · B1F · 1R,underground,location:meteor-falls,,,3,33,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,,Inner areas need Surf and Waterfall (post-game Steven).
-map:meteor-falls-b1f-2r,Meteor Falls · B1F · 2R,underground,location:meteor-falls,,,3,25,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,,Inner areas need Surf and Waterfall (post-game Steven).
+map:meteor-falls-1f-2r,Meteor Falls · 1F · 2R,underground,location:meteor-falls,,,5,33,40,5,45,good_rod|land|old_rod|super_rod|water,2,37,39,item:hm-surf|flag:badge05-get,Back of Meteor Falls across the water; dragon tamers ~Lv 37-39.
+map:meteor-falls-b1f-1r,Meteor Falls · B1F · 1R,underground,location:meteor-falls,,,5,33,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
+map:meteor-falls-b1f-2r,Meteor Falls · B1F · 2R,underground,location:meteor-falls,,,5,25,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
 map:meteor-falls-stevens-cave,Meteor Falls · Stevens Cave,underground,location:meteor-falls,41,steven-meteor-falls,8,33,40,33,40,land,1,75,78,item:hm-waterfall|flag:badge08-get|flag:sys-game-clear,Post-game Steven battle.
 map:mirage-tower-1f,Mirage Tower · 1F,underground,location:mirage-tower,,,4,20,24,20,24,land,0,,,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
 map:mirage-tower-2f,Mirage Tower · 2F,underground,location:mirage-tower,,,4,20,24,20,24,land,0,,,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
@@ -108,7 +108,7 @@ map:new-mauville-inside,New Mauville · Inside,underground,location:new-mauville
 map:oldale-town,Oldale Town,town,location:oldale-town,4,first-rival-battle,0,,,,,,0,,,,
 map:pacifidlog-town,Pacifidlog Town,town,location:pacifidlog-town,,,7,,,5,45,good_rod|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get,
 map:petalburg-city,Petalburg City,city,location:petalburg-city,5,wally-catches-ralts,0,,,5,45,good_rod|old_rod|super_rod|water,0,,,,Gym needs 4 badges (VAR_PETALBURG_GYM_STATE).
-map:petalburg-city-gym,Petalburg City · Gym,indoor,location:petalburg-city,5,wally-catches-ralts,0,,,,,,8,26,31,,Gym needs 4 badges (VAR_PETALBURG_GYM_STATE).
+map:petalburg-city-gym,Petalburg City · Gym,indoor,location:petalburg-city,5,wally-catches-ralts,4,,,,,,8,26,31,flag:badge04-get,Norman only accepts challengers with four badges (levels 24-31).
 map:petalburg-woods,Petalburg Woods,route,location:petalburg-woods,6,petalburg-woods-aqua,0,5,6,5,6,land,3,3,9,,Cut tree hides items.
 map:route101,Route 101,route,location:route-101,3,rescue-prof-birch,0,2,3,2,3,land,0,,,,Starter choice.
 map:route102,Route 102,route,location:route-102,5,wally-catches-ralts,0,3,4,3,45,good_rod|land|old_rod|super_rod|water,4,3,5,,
@@ -116,10 +116,10 @@ map:route103,Route 103,route,location:route-103,4,first-rival-battle,0,2,4,2,45,
 map:route104,Route 104,route,location:route-104,9,meet-mr-stone,0,3,5,3,45,good_rod|land|old_rod|super_rod|water,13,5,15,,North half via Petalburg Woods; flower shop gives Wailmer Pail.
 map:route104-prototype,Route 104 · Prototype,route,location:route-104,,,0,,,,,,0,,,,Unused prototype map.
 map:route105,Route 105,route,location:route-105,,,5,,,5,45,good_rod|old_rod|super_rod|water,7,25,26,item:hm-surf|flag:badge05-get,Sea route.
-map:route106,Route 106,route,location:route-106,,,1,,,5,45,good_rod|old_rod|super_rod|water,4,7,26,,Beach part walkable from Dewford; sea needs Surf.
+map:route106,Route 106,route,location:route-106,,,1,,,5,45,good_rod|old_rod|super_rod|water,4,7,26,,Beach part walkable from Dewford (trainers ~Lv 7-10); swimmers on the sea part (~Lv 26) need Surf.
 map:route107,Route 107,route,location:route-107,,,5,,,5,45,good_rod|old_rod|super_rod|water,6,24,27,item:hm-surf|flag:badge05-get,Sea route.
 map:route108,Route 108,route,location:route-108,,,5,,,5,45,good_rod|old_rod|super_rod|water,6,24,26,item:hm-surf|flag:badge05-get,Sea route; Abandoned Ship.
-map:route109,Route 109,route,location:route-109,,,2,,,5,45,good_rod|old_rod|super_rod|water,13,12,27,,Reached by boat from Dewford; sea part needs Surf.
+map:route109,Route 109,route,location:route-109,,,2,,,5,45,good_rod|old_rod|super_rod|water,13,12,27,,"Reached by boat from Dewford; beach trainers ~Lv 12-20, swimmers on the sea part (~Lv 27) need Surf."
 map:route109-seashore-house,Route 109 · Seashore House,indoor,location:route-109,,,2,,,,,,3,11,13,,Beat all trainers in the house for Soda Pop.
 map:route110,Route 110,route,location:route-110,14,route-110-rival,2,12,13,5,45,good_rod|land|old_rod|super_rod|water,20,6,20,,Cycling Road needs a Bike; Trick House puzzles gated by badges.
 map:route110-trick-house-puzzle1,Route 110 · Trick House Puzzle 1,indoor,location:route-110,,,2,,,,,,3,14,16,item:hm-cut|flag:badge01-get,Trick House puzzle 1.
@@ -133,7 +133,7 @@ map:route111,Route 111,route,location:route-111,,,3,19,22,5,45,good_rod|land|old
 map:route112,Route 112,route,location:route-112,,,3,14,16,14,16,land,6,16,18,,Cable Car runs after the Mt. Chimney events are triggered.
 map:route113,Route 113,route,location:route-113,,,3,14,16,14,16,land,10,17,19,,Volcanic ash falls here.
 map:route114,Route 114,route,location:route-114,18,meteor-falls-meteorite,3,15,18,5,45,good_rod|land|old_rod|rock_smash|super_rod|water,12,16,20,,Lanette's house; Fossil Maniac.
-map:route115,Route 115,route,location:route-115,,,1,23,26,5,45,good_rod|land|old_rod|super_rod|water,10,18,28,item:hm-surf|flag:badge05-get,Reachable north of Rustboro; most of it needs Surf/Strength.
+map:route115,Route 115,route,location:route-115,,,1,23,26,5,45,good_rod|land|old_rod|super_rod|water,10,18,28,item:hm-surf|flag:badge05-get,"South end reachable north of Rustboro early, but its trainers (Lv 18-28) and the Meteor Falls side are balanced for after Surf."
 map:route116,Route 116,route,location:route-116,8,devon-goods-stolen,1,6,8,6,8,land,10,8,9,,East end blocked until Rusturf Tunnel is dug (Rock Smash).
 map:route117,Route 117,route,location:route-117,,,2,13,14,5,45,good_rod|land|old_rod|super_rod|water,9,11,17,,Day Care.
 map:route118,Route 118,route,location:route-118,,,5,24,27,5,45,good_rod|land|old_rod|super_rod|water,7,14,26,item:hm-surf|flag:badge05-get,Needs Surf to cross from Mauville.
@@ -152,9 +152,9 @@ map:route128,Route 128,ocean-route,location:route-128,32,seafloor-cavern,7,,,5,4
 map:route129,Route 129,ocean-route,location:route-129,,,7,,,5,45,good_rod|old_rod|super_rod|water,5,26,34,item:hm-surf|flag:badge05-get,
 map:route130,Route 130,ocean-route,location:route-130,,,7,5,50,5,50,good_rod|land|old_rod|super_rod|water,3,33,34,item:hm-surf|flag:badge05-get,Mirage Island sometimes appears.
 map:route131,Route 131,ocean-route,location:route-131,,,7,,,5,45,good_rod|old_rod|super_rod|water,7,33,35,item:hm-surf|flag:badge05-get,
-map:route132,Route 132,ocean-route,location:route-132,,,8,,,5,45,good_rod|old_rod|super_rod|water,8,19,35,item:hm-surf|flag:badge05-get,Currents.
-map:route133,Route 133,ocean-route,location:route-133,,,8,,,5,45,good_rod|old_rod|super_rod|water,7,33,34,item:hm-surf|flag:badge05-get,Currents.
-map:route134,Route 134,ocean-route,location:route-134,,,8,,,5,45,good_rod|old_rod|super_rod|water,9,32,34,item:hm-surf|flag:badge05-get,Currents; Sealed Chamber below.
+map:route132,Route 132,ocean-route,location:route-132,,,7,,,5,45,good_rod|old_rod|super_rod|water,8,19,35,item:hm-surf|flag:badge05-get,Currents (reached from Pacifidlog after the crisis).
+map:route133,Route 133,ocean-route,location:route-133,,,7,,,5,45,good_rod|old_rod|super_rod|water,7,33,34,item:hm-surf|flag:badge05-get,Currents.
+map:route134,Route 134,ocean-route,location:route-134,,,7,,,5,45,good_rod|old_rod|super_rod|water,9,32,34,item:hm-surf|flag:badge05-get,Currents; Sealed Chamber below.
 map:rustboro-city,Rustboro City,city,location:rustboro-city,7,stone-badge,0,,,,,,6,13,15,,Gym 1.
 map:rustboro-city-gym,Rustboro City · Gym,indoor,location:rustboro-city,7,stone-badge,0,,,,,,4,8,15,,"Gym 1: Rock, levels ~12-15."
 map:rusturf-tunnel,Rusturf Tunnel,underground,location:rusturf-tunnel,8,devon-goods-stolen,1,5,8,5,8,land,1,11,11,,Rock Smash rocks block the Verdanturf side until FLAG_RUSTURF_TUNNEL_OPENED.
@@ -177,8 +177,8 @@ map:seafloor-cavern-room6,Seafloor Cavern · Room 6,underground,location:seafloo
 map:seafloor-cavern-room7,Seafloor Cavern · Room 7,underground,location:seafloor-cavern,,,7,28,36,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
 map:seafloor-cavern-room8,Seafloor Cavern · Room 8,underground,location:seafloor-cavern,,,7,28,36,28,36,land,0,,,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
 map:seafloor-cavern-room9,Seafloor Cavern · Room 9,underground,location:seafloor-cavern,32,seafloor-cavern,7,,,,,,1,41,43,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
-map:sealed-chamber-inner-room,Sealed Chamber · Inner Room,underground,location:sealed-chamber,42,regi-trio,8,,,,,,0,,,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party.
-map:sealed-chamber-outer-room,Sealed Chamber · Outer Room,underground,location:sealed-chamber,42,regi-trio,8,,,,,,0,,,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party.
+map:sealed-chamber-inner-room,Sealed Chamber · Inner Room,underground,location:sealed-chamber,42,regi-trio,7,,,,,,0,,,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party; can be done before the League.
+map:sealed-chamber-outer-room,Sealed Chamber · Outer Room,underground,location:sealed-chamber,42,regi-trio,7,,,,,,0,,,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party; can be done before the League.
 map:shoal-cave-high-tide-entrance-room,Shoal Cave · High Tide Entrance Room,underground,location:shoal-cave,,,6,,,,,,0,,,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
 map:shoal-cave-high-tide-inner-room,Shoal Cave · High Tide Inner Room,underground,location:shoal-cave,,,6,,,,,,0,,,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
 map:shoal-cave-low-tide-entrance-room,Shoal Cave · Low Tide Entrance Room,underground,location:shoal-cave,,,6,26,32,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
@@ -211,9 +211,9 @@ map:underwater-route126,Underwater · Route 126,underwater,location:underwater-1
 map:underwater-route127,Underwater · Route 127,underwater,location:underwater-127,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
 map:underwater-route128,Underwater · Route 128,underwater,location:underwater-128,32,seafloor-cavern,7,,,,,,0,,,item:hm-dive|flag:badge07-get,Seafloor Cavern entrance.
 map:underwater-route129,Underwater · Route 129,underwater,location:underwater-129,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
-map:underwater-route134,Underwater · Route 134,underwater,location:underwater-sealed-chamber,,,8,,,,,,0,,,item:hm-dive|flag:badge07-get,
+map:underwater-route134,Underwater · Route 134,underwater,location:underwater-sealed-chamber,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
 map:underwater-seafloor-cavern,Underwater · Seafloor Cavern,underwater,location:underwater-seafloor-cavern,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
-map:underwater-sealed-chamber,Underwater · Sealed Chamber,underwater,location:underwater-sealed-chamber,,,8,,,,,,0,,,item:hm-dive|flag:badge07-get,
+map:underwater-sealed-chamber,Underwater · Sealed Chamber,underwater,location:underwater-sealed-chamber,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
 map:underwater-sootopolis-city,Underwater · Sootopolis City,underwater,location:underwater-sootopolis,,,7,,,,,,0,,,item:hm-dive|flag:badge07-get,
 map:verdanturf-town,Verdanturf Town,town,location:verdanturf-town,17,rusturf-tunnel-opens,2,,,,,,0,,,,Battle Tent; Rusturf Tunnel east end.
 map:victory-road-1f,Victory Road · 1F,underground,location:victory-road,36,victory-road-wally,8,36,40,36,40,land,6,41,45,item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get|item:hm-flash|flag:badge02-get,Wally's final battle.

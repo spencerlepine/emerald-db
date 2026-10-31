@@ -4,7 +4,7 @@ rows.area_progression,220
 rows.art_assets,4430
 rows.dialogue,9605
 rows.easy_chat_words,1008
-rows.entities,6954
+rows.entities,6966
 rows.entity_art,3622
 rows.entity_images,1145
 rows.facility_mons,1042
@@ -13,7 +13,7 @@ rows.map_connections,1461
 rows.map_events,3871
 rows.mart_inventory,326
 rows.metadata,16
-rows.relationships,17972
+rows.relationships,18127
 rows.scripts,9361
 rows.species_evolutions,184
 rows.species_learnsets,19181

@@ -45,6 +45,10 @@ Ids are opaque, stable strings `<type>:<slug>` derived from the game constant
 | `npc:<map>:<n>` | object event n (1-based) on a map | map.json `object_events` |
 | `object-gfx:` | overworld sprite | `object_event_graphics_info*.h` |
 | `tileset:` | tileset | `src/data/tilesets/headers.h` |
+| `nature:` / `decoration:` / `ribbon:` | natures, secret-base decorations, ribbons | `src/pokemon.c`, `src/data/decoration/`, ribbon text |
+| `facility:` / `facility-trainer:<facility>:<name>` | Battle Frontier facilities; frontier / tent / Trainer Hill opponents | `src/data/battle_frontier/` |
+| `contest-opponent:` | contest rivals | `src/data/contest_opponents.h` |
+| `badge:` | the eight gym badges (field move + obedience gates) | `src/party_menu.c`, `src/battle_util.c` |
 | `character:` / `organization:` / `storyline:` | curated lore | `curated/` |
 
 Non-entity rows: script and text ids are assembler labels
@@ -81,10 +85,13 @@ Game data:
 - `map_connections.csv` — edge connections and warps between maps.
 - `map_events.csv` — every object, trigger (coord) and sign/hidden-item (bg) event with coordinates, sprite, script, visibility flag.
 - `mart_inventory.csv` — what each Poké Mart / shop script sells.
+- `area_progression.csv` — one row per playable map: wild level range (land / any method), first-tier trainer level range, first timeline event that visits it, `badges_expected`, `requires` (HM items, badge flags, key items) and `gating_notes`. The balancing reference for adding or moving content.
+- `facility_mons.csv` / `facility_trainer_pools.csv` — Battle Frontier and Battle Tent Pokémon sets and which sets each facility trainer draws from.
+- `easy_chat_words.csv` — every Easy Chat word (used to decode frontier/Trainer Hill speech and by TV/Mauville man features).
 
 Scripts and text:
 
-- `texts.csv` — every `.string` block: `text_id, map_id, source_file, source_line, speaker_label, text (clean), text_raw (exact), used_by_scripts`.
+- `texts.csv` — every `.string` block in the scripts plus every `const u8 x[] = _("…")` string in `src/`: `text_id, map_id, source_file, source_line, speaker_label, text (clean), text_raw (exact), used_by_scripts, text_origin (script|c), text_context`.
 - `scripts.csv` — every script label with what it touches: texts, jumps, movement, flags set/cleared/checked, vars, items given/taken, Pokémon given/battled, trainers, warps, marts, specials, music.
 - `dialogue.csv` — text lines attributed to the NPC / sign / trigger that shows them, in script order, with `role` (dialogue, trainer_intro, trainer_defeat, postbattle, rematch, sign …).
 - `trainer_dialogue.csv` — trainer intro/defeat/not-enough-Pokémon text per trainer.

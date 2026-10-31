@@ -53,7 +53,13 @@ def main() -> None:
     used = sum(1 for x in texts if x.get("used_by_scripts"))
     add("Text", "texts referenced by an overworld script", len(texts), used, "rest are used from C code / indirectly")
     npcs_with = len({d["speaker_entity_id"] for d in dialogue if d["speaker_entity_id"].startswith("npc:")})
-    add("Text", "NPCs with attributed dialogue", by_type["npc"], npcs_with)
+    add("Text", "NPCs with attributed dialogue", by_type["npc"], npcs_with, "all object events incl. props")
+    props = ("item-ball", "cuttable-tree", "breakable-rock", "pushable-boulder", "berry-tree", "doll", "cushion", "fossil", "truck",
+             "moving-box", "boat", "ss-tidal", "cable-car", "statue", "submarine", "shadow", "birchs-bag", "var-")
+    people = {e["id"] for e in ents if e["entity_type"] == "npc" and not any(p in e.get("graphics", "") for p in props)}
+    spoke = {d["speaker_entity_id"] for d in dialogue}
+    add("Text", "people NPCs (non-prop sprites) with attributed dialogue", len(people), len(people & spoke),
+        "rest: scripted cutscene actors without their own script, or NPCs whose text is shown from C")
     add("Scripts", "script labels", len(scripts), len(scripts))
     add("Scripts", "flags + vars", len(flags), len(flags))
     pngs = len(list(SRC.glob("graphics/**/*.png"))) + len(list(SRC.glob("data/tilesets/**/*.png")))
