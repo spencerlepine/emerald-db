@@ -43,8 +43,7 @@ def extract() -> dict[str, list[dict]]:
                                source_file="src/data/trainer_graphics/front_pic_tables.h", image_symbol=sym, image_source_path=path,
                                description="Battle front sprite used by one or more trainers."))
         if path:
-            assets.append({"asset_id": "trainer-front:" + slug(key), "entity_id": tpid(const), "kind": "trainer_front_pic",
-                           "symbol": sym, "path": path, "art_status": "ORIGINAL"})
+            assets.append({"entity_id": tpid(const), "asset_id": path, "role": "trainer_front_pic"})
 
     # parties
     party_text = strip_c_comments(read("src/data/trainer_parties.h"))
@@ -104,7 +103,7 @@ def extract() -> dict[str, list[dict]]:
         for n, t in enumerate(tiers[1:], 2):
             rels.append(rel(trid(tiers[0]), f"rematch_{n}", trid(t)))
         rels.append(rel(trid(tiers[0]), "rematch_location", "map:" + slug(map_const, "MAP_")))
-    return {"entities": entities, "relationships": rels, "trainer_parties": parties, "art_assets": assets}
+    return {"entities": entities, "relationships": rels, "trainer_parties": parties, "entity_art": assets}
 
 
 if __name__ == "__main__":

@@ -9,7 +9,7 @@ from extract_pokemon import iid, mid, tid, tmhm_label, tmhm_list
 
 
 def extract() -> dict[str, list[dict]]:
-    entities, rels, assets = [], [], []
+    entities, rels, assets, links = [], [], [], []
     gfx = incbin_index()
 
     # ---- moves ------------------------------------------------------------
@@ -48,8 +48,9 @@ def extract() -> dict[str, list[dict]]:
         ))
         rels.append(rel(e, "has_type", tid(f.get("type", "TYPE_NORMAL"))))
         if anim:
-            assets.append({"asset_id": "anim:" + slug(anim, "Move_"), "entity_id": e, "kind": "battle_animation",
-                           "symbol": anim, "path": "data/battle_anim_scripts.s", "art_status": "ORIGINAL"})
+            assets.append({"asset_id": "anim:" + anim, "kind": "battle_animation", "subkind": "move",
+                           "path": "data/battle_anim_scripts.s", "symbols": anim, "referenced_in_code": "true", "art_status": "ORIGINAL"})
+            links.append({"entity_id": e, "asset_id": "anim:" + anim, "role": "battle_animation"})
 
     # ---- items ------------------------------------------------------------
     item_text = strip_c_comments(read("src/data/items.h"))
@@ -93,9 +94,8 @@ def extract() -> dict[str, list[dict]]:
             icon_path=icon, **extra,
         ))
         if icon:
-            assets.append({"asset_id": "item-icon:" + slug(const, "ITEM_"), "entity_id": e, "kind": "item_icon",
-                           "symbol": icon_syms[0], "path": icon, "art_status": "ORIGINAL"})
-    return {"entities": entities, "relationships": rels, "art_assets": assets}
+            links.append({"entity_id": e, "asset_id": icon, "role": "item_icon"})
+    return {"entities": entities, "relationships": rels, "art_assets": assets, "entity_art": links}
 
 
 def _berries() -> dict[str, dict]:

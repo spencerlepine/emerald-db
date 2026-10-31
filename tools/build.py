@@ -41,7 +41,7 @@ TABLE_KEYS = {
 }
 # Tables that use an id column for de-duplication / curated overlays.
 ID_COLUMN = {"entities": "id", "timeline_events": "id", "dialogue": "line_id", "scripts": "script_id",
-             "texts": "text_id", "art_assets": "asset_id", "story_flags": "flag_id"}
+             "texts": "text_id", "art_assets": "asset_id", "story_flags": "flag_id", "entity_images": "entity_id"}
 
 
 def run() -> None:
