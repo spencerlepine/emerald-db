@@ -107,22 +107,59 @@ def extract() -> dict[str, list[dict]]:
                      "trainer_level_min": min((x[0] for x in lv), default=""), "trainer_level_max": max((x[1] for x in lv), default=""),
                      "requires": "", "gating_notes": ""})
 
-    # ---- location descriptions from signs ---------------------------------------------------
-    sign_text = {}
-    for ev in maps["map_events"]:
-        if ev["event_kind"] == "bg_sign" and re.search(r"TownSign|CitySign|RouteSign|_Sign$", ev.get("script", "")):
-            sign_text.setdefault(ev["map_id"], ev["script"])
+    # ---- location descriptions (auto) -----------------------------------------------------
+    map_ent = {m["id"]: m for m in maps["entities"] if m["entity_type"] == "map"}
     by_label = {s["script_id"]: s for s in scripts["scripts"]}
     text_by_id = {t["text_id"]: t for t in texts}
-    map_loc = {m["id"]: m.get("location", "") for m in maps["entities"] if m["entity_type"] == "map"}
-    for mp, script in sign_text.items():
-        s = by_label.get(script)
-        if not s or not s.get("texts"):
-            continue
-        t = text_by_id.get(s["texts"].split("|")[0])
-        loc = map_loc.get(mp)
-        if t and loc and re.search(r"TOWN|CITY", t["text"]):
-            entities.append({"id": loc, "sign_text": t["text"], "sign_text_id": t["text_id"]})
+    loc_maps = defaultdict(list)
+    for m in map_ent.values():
+        if m.get("location") and m.get("collection") != "unused":
+            loc_maps[m["location"]].append(m)
+    species_title = {}
+    import extract_pokemon
+    for e in extract_pokemon.extract()["entities"]:
+        if e["entity_type"] == "species":
+            species_title[e["id"]] = e["title"]
+    wild_by_loc = defaultdict(lambda: defaultdict(float))
+    for w in maps["wild_encounters"]:
+        loc = map_ent.get(w["map_id"], {}).get("location")
+        if loc:
+            wild_by_loc[loc][w["species_id"]] += float(w["slot_rate_percent"] or 0) * (3 if w["method"] == "land" else 1)
+    loc_title = {e["id"]: e["title"] for e in maps["entities"] if e["entity_type"] == "location"}
+    for loc, ms in loc_maps.items():
+        outdoor = [m for m in ms if m.get("map_type") in ("town", "city", "route", "ocean-route", "underwater", "underground")]
+        sign = ""
+        for ev in maps["map_events"]:
+            if ev["map_id"] in {m["id"] for m in outdoor} and ev["event_kind"] == "bg_sign":
+                sc = by_label.get(ev.get("script", ""))
+                if sc and sc.get("texts") and map_ent[ev["map_id"]].get("map_type") in ("town", "city") and re.search(r"(Town|City)Sign$", ev["script"]):
+                    t = text_by_id.get(sc["texts"].split("|")[0])
+                    if t:
+                        sign = t["text"].replace("\n", " ")
+                        entities.append({"id": loc, "sign_text": sign, "sign_text_id": t["text_id"]})
+                        break
+        neighbours = sorted({loc_title.get(map_ent.get(r["target_id"], {}).get("location", ""), "") for m in outdoor
+                             for r in maps["relationships"] if r["source_id"] == m["id"] and r["relationship"].startswith("connects_")} - {"", loc_title.get(loc, "")})
+        interiors = [m["title"].split(" · ", 1)[-1] for m in ms if m not in outdoor and " · " in m["title"]]
+        top = sorted(wild_by_loc.get(loc, {}).items(), key=lambda kv: -kv[1])[:6]
+        trainers_here = sum(len(trainer_maps.get(m["id"], [])) for m in ms)
+        bits = []
+        if sign:
+            bits.append(f"Sign: {sign.replace(chr(10), ' ')}")
+        kinds = sorted({m.get("map_type", "") for m in ms if m.get("map_type")})
+        bits.append(f"{len(ms)} map(s) ({', '.join(kinds)})")
+        if neighbours:
+            bits.append("connects to " + ", ".join(neighbours))
+        if interiors:
+            bits.append("buildings/areas: " + ", ".join(dict.fromkeys(interiors))[:300])
+        if top:
+            bits.append("wild Pokémon: " + ", ".join(species_title.get(sp, sp) for sp, _ in top))
+        if trainers_here:
+            bits.append(f"{trainers_here} trainer battle(s)")
+        entities.append({"id": loc, "description": "; ".join(bits) + ".", "map_ids": "|".join(m["id"] for m in ms)})
+        for m in ms:
+            rels.append({"source_id": loc, "relationship": "contains_map", "target_id": m["id"]})
+
     return {"timeline_entities": links, "relationships": rels, "area_progression": prog, "entities": entities}
 
 
