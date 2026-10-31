@@ -183,6 +183,39 @@ def extract() -> dict[str, list[dict]]:
         for m in ms:
             rels.append({"source_id": loc, "relationship": "contains_map", "target_id": m["id"]})
 
+    # ---- item locations & Pokémon gifts --------------------------------------------------------
+    prog_by_map = {p["map_id"]: p for p in prog}
+    for c in read_csv(CURATED_DIR / "area_progression.csv"):
+        if c["map_id"] in prog_by_map:
+            prog_by_map[c["map_id"]].update({k: v for k, v in c.items() if v})
+    ball_scripts = {ev.get("script") for ev in maps["map_events"] if ev.get("graphics_id") == "object-gfx:item-ball"}
+    item_locs, gifts = [], []
+    for ev in maps["map_events"]:
+        if ev["event_kind"] == "bg_hidden_item" and ev.get("item_id"):
+            item_locs.append({"location_id": ev["object_id"], "item_id": ev["item_id"], "map_id": ev["map_id"], "method": "hidden",
+                              "x": ev["x"], "y": ev["y"], "flag": ev.get("flag", ""), "script_id": "", "quantity": ""})
+        elif ev["event_kind"] == "object" and ev.get("graphics_id") == "object-gfx:item-ball":
+            sc = by_label.get(ev.get("script", ""), {})
+            for it in [x for x in sc.get("items_gives", "").split("|") if x]:
+                item_locs.append({"location_id": ev["object_id"], "item_id": "item:" + slug(it, "ITEM_"), "map_id": ev["map_id"],
+                                  "method": "item_ball", "x": ev["x"], "y": ev["y"], "flag": ev.get("flag", ""), "script_id": ev["script"], "quantity": ""})
+    for sc in scripts["scripts"]:
+        if not sc.get("map_id"):
+            continue
+        if sc["script_id"] in ball_scripts:
+            continue
+        for n, it in enumerate([x for x in sc.get("items_gives", "").split("|") if x.startswith("ITEM_")], 1):
+            item_locs.append({"location_id": f"gift:{sc['script_id']}:{n}", "item_id": "item:" + slug(it, "ITEM_"), "map_id": sc["map_id"],
+                              "method": "gift_or_event", "x": "", "y": "", "flag": sc.get("flags_set", ""), "script_id": sc["script_id"], "quantity": ""})
+        for n, pl in enumerate([x for x in sc.get("pokemon_levels", "").split("|") if x], 1):
+            cmd, sp, lvl = pl.split(":")
+            gifts.append({"gift_id": f"{sc['script_id']}:{n}", "species_id": "species:" + slug(sp, "SPECIES_"), "level": lvl,
+                          "kind": {"givemon": "gift", "giveegg": "egg", "setwildbattle": "static_encounter", "seteventmon": "event"}[cmd],
+                          "map_id": sc["map_id"], "script_id": sc["script_id"], "flags_set": sc.get("flags_set", ""),
+                          "badges_expected": prog_by_map.get(sc["map_id"], {}).get("badges_expected", "")})
+    for r in item_locs:
+        r["badges_expected"] = prog_by_map.get(r["map_id"], {}).get("badges_expected", "")
+
     # ---- badges (field-move + obedience gates, from party_menu.c / battle_util.c) --------------
     badge_rows = [("stone", "Stone Badge", "roxanne-1", "rustboro-gym", "cut", ""), ("knuckle", "Knuckle Badge", "brawly-1", "dewford-gym", "flash", 30),
                   ("dynamo", "Dynamo Badge", "wattson-1", "mauville-gym", "rock-smash", ""), ("heat", "Heat Badge", "flannery-1", "lavaridge-gym", "strength", 50),
@@ -203,7 +236,7 @@ def extract() -> dict[str, list[dict]]:
         rels.append({"source_id": "item:" + hm_item[fmove], "relationship": "usable_outside_battle_with", "target_id": bid})
         rels.append({"source_id": "organization:" + gym, "relationship": "awards_badge", "target_id": bid})
 
-    return {"metadata": metadata_rows, "timeline_entities": links, "relationships": rels, "area_progression": prog, "entities": entities}
+    return {"item_locations": item_locs, "pokemon_gifts": gifts, "metadata": metadata_rows, "timeline_entities": links, "relationships": rels, "area_progression": prog, "entities": entities}
 
 
 def _flag_id(const: str) -> str:

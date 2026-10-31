@@ -36,6 +36,7 @@ git clone https://github.com/spencerlepine/starwars-db.git      # read-only refe
 cd emerald-db
 python3 tools/build.py        # regenerates database/ from ../pokeemerald + curated/
 python3 tools/coverage.py     # writes progress/COVERAGE.md
+python3 tools/balance_audit.py  # writes progress/BALANCE.md (level curve check)
 python3 wiki/server.py        # optional: http://127.0.0.1:8000
 ```
 

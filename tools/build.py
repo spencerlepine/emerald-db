@@ -42,13 +42,13 @@ TABLE_KEYS = {
     "scripts": ["script_id", "map_id", "source_file", "source_line", "kind", "commands", "command_list", "texts", "jumps",
                 "movements", "flags_set", "flags_clear", "flags_check", "vars_set", "vars_checked", "items_gives",
                 "items_takes", "items_checks", "species_gives", "species_battles", "species_cry", "trainers", "warps",
-                "marts", "specials", "music"],
+                "marts", "specials", "music", "pokemon_levels"],
     "art_assets": ["asset_id", "kind", "subkind", "path", "width", "height", "symbols", "referenced_in_code", "art_status"],
 }
 # Tables that use an id column for de-duplication / curated overlays.
 ID_COLUMN = {"entities": "id", "timeline_events": "id", "dialogue": "line_id", "scripts": "script_id",
              "texts": "text_id", "art_assets": "asset_id", "story_flags": "flag_id", "entity_images": "entity_id",
-             "area_progression": "map_id"}
+             "area_progression": "map_id", "item_locations": "location_id", "pokemon_gifts": "gift_id"}
 
 
 def run() -> None:

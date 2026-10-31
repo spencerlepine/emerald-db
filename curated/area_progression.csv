@@ -63,8 +63,8 @@ map:mauville-city,2,,Gym 3; Rydel's Cycles gives a bike.
 map:mauville-city-gym,2,,Gym 3: Electric.
 map:meteor-falls-1f-1r,3,,Inner areas need Surf and Waterfall (post-game Steven).
 map:meteor-falls-1f-2r,5,item:hm-surf|flag:badge05-get,Back of Meteor Falls across the water; dragon tamers ~Lv 37-39.
-map:meteor-falls-b1f-1r,5,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
-map:meteor-falls-b1f-2r,5,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
+map:meteor-falls-b1f-1r,8,item:hm-surf|flag:badge05-get|item:hm-waterfall|flag:badge08-get,Bagon area needs Surf + Waterfall (Lv 33-40 wild).
+map:meteor-falls-b1f-2r,8,item:hm-surf|flag:badge05-get|item:hm-waterfall|flag:badge08-get,Bagon area needs Surf + Waterfall (Lv 33-40 wild).
 map:meteor-falls-stevens-cave,8,item:hm-waterfall|flag:badge08-get|flag:sys-game-clear,Post-game Steven battle.
 map:mirage-tower-1f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
 map:mirage-tower-2f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
@@ -133,7 +133,7 @@ map:route111,3,item:hm-rock-smash|flag:badge03-get,South part from Mauville; roc
 map:route112,3,,Cable Car runs after the Mt. Chimney events are triggered.
 map:route113,3,,Volcanic ash falls here.
 map:route114,3,,Lanette's house; Fossil Maniac.
-map:route115,1,item:hm-surf|flag:badge05-get,"South end reachable north of Rustboro early, but its trainers (Lv 18-28) and the Meteor Falls side are balanced for after Surf."
+map:route115,5,item:hm-surf|flag:badge05-get,"South end reachable north of Rustboro early, but its trainers (Lv 18-28) and the Meteor Falls side are balanced for after Surf."
 map:route116,1,,East end blocked until Rusturf Tunnel is dug (Rock Smash).
 map:route117,2,,Day Care.
 map:route118,5,item:hm-surf|flag:badge05-get,Needs Surf to cross from Mauville.

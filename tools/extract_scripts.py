@@ -139,6 +139,8 @@ def extract() -> dict[str, list[dict]]:
                 acc["items_" + ITEM_CMDS[cmd]].append(args[0])
             if cmd in MON_CMDS and args and args[0].startswith("SPECIES_"):
                 acc["species_" + MON_CMDS[cmd]].append(args[0])
+                if cmd in ("givemon", "giveegg", "setwildbattle", "seteventmon") :
+                    acc["pokemon_levels"].append(f"{cmd}:{args[0]}:{args[1] if len(args) > 1 else ''}")
             if cmd == "trainerbattle" and args and args[0].startswith("TRAINER_BATTLE_"):
                 args = args[1:]
             if cmd.startswith("trainerbattle") and args and not args[0].startswith("TRAINER_BATTLE_"):

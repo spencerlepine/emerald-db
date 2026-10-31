@@ -9,10 +9,12 @@ rows.entity_art,3622
 rows.entity_images,1145
 rows.facility_mons,1042
 rows.facility_trainer_pools,12593
+rows.item_locations,413
 rows.map_connections,1461
 rows.map_events,3871
 rows.mart_inventory,326
 rows.metadata,16
+rows.pokemon_gifts,22
 rows.relationships,18127
 rows.scripts,9361
 rows.species_evolutions,184

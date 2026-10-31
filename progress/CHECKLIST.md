@@ -55,6 +55,7 @@ These make the DB richer for Step 3; pick any.
 - [ ] **D1 Per-map history** — `history` for important interior maps (`map:*`): gyms, Birch's lab, Devon Corp floors, museum, Space Center, Weather Institute, hideouts, League rooms.
 - [ ] **D2 Match call** — link `gText_MatchCall<Class>_<Name>_*` texts and data/text/match_call.inc lines to trainer ids via `sMatchCallTrainers` (src/match_call.c).
 - [ ] **D3 TV & rotating NPCs** — catalogue TV shows (data/text/tv.inc, src/tv.c), Mauville man variants, Lilycove lady, apprentice questions as entities.
-- [ ] **D4 Move tutors & gifts** — table of every tutor (data/scripts/move_tutors.inc) and gift Pokémon/egg with level and location.
-- [ ] **D5 Item locations** — one row per item ball / hidden item / gift with map, coordinates, flag and badges_expected (from map_events + area_progression).
-- [ ] **D6 Balance audit** — for each map compare badges_expected with trainer_level_max / wild max and flag outliers in progress/NOTES.md.
+- [~] **D4 Move tutors & gifts** (gifts/static encounters done in pokemon_gifts.csv; move tutors still TODO) — table of every tutor (data/scripts/move_tutors.inc) and gift Pokémon/egg with level and location.
+- [x] **D5 Item locations** — one row per item ball / hidden item / gift with map, coordinates, flag and badges_expected (from map_events + area_progression).
+- [x] **D6 Balance audit** (tools/balance_audit.py → progress/BALANCE.md; remaining flags are split maps whose sea part needs Surf, optional areas, and post-game) — for each map compare badges_expected with trainer_level_max / wild max and flag outliers in progress/NOTES.md.
+- 2026-10-31 · D5, D6, D4 (partial) · item_locations, pokemon_gifts, balance audit.

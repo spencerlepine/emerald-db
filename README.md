@@ -19,6 +19,7 @@ coverage: [`progress/COVERAGE.md`](progress/COVERAGE.md).
 # pokeemerald checked out next to this repo (or set POKEEMERALD_DIR)
 python3 tools/build.py      # regenerate database/
 python3 tools/coverage.py   # refresh progress/COVERAGE.md
+python3 tools/balance_audit.py  # level curve vs gym aces -> progress/BALANCE.md
 python3 wiki/server.py      # browse at http://127.0.0.1:8000
 ```
 
@@ -86,6 +87,8 @@ Game data:
 - `map_events.csv` — every object, trigger (coord) and sign/hidden-item (bg) event with coordinates, sprite, script, visibility flag.
 - `mart_inventory.csv` — what each Poké Mart / shop script sells.
 - `area_progression.csv` — one row per playable map: wild level range (land / any method), first-tier trainer level range, first timeline event that visits it, `badges_expected`, `requires` (HM items, badge flags, key items) and `gating_notes`. The balancing reference for adding or moving content.
+- `item_locations.csv` — every item ball, hidden item and scripted item gift with map, coordinates, flag and `badges_expected`.
+- `pokemon_gifts.csv` — scripted gift Pokémon, eggs and static encounters with level and map (starters and fossils are given from C specials, not listed here).
 - `facility_mons.csv` / `facility_trainer_pools.csv` — Battle Frontier and Battle Tent Pokémon sets and which sets each facility trainer draws from.
 - `easy_chat_words.csv` — every Easy Chat word (used to decode frontier/Trainer Hill speech and by TV/Mauville man features).
 

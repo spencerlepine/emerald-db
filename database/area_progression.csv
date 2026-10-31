@@ -63,8 +63,8 @@ map:mauville-city,Mauville City,city,location:mauville-city,15,wally-in-mauville
 map:mauville-city-gym,Mauville City · Gym,indoor,location:mauville-city,16,dynamo-badge,2,,,,,,6,17,24,,Gym 3: Electric.
 map:meteor-falls-1f-1r,Meteor Falls · 1F · 1R,underground,location:meteor-falls,18,meteor-falls-meteorite,3,14,20,5,45,good_rod|land|old_rod|super_rod|water,0,,,,Inner areas need Surf and Waterfall (post-game Steven).
 map:meteor-falls-1f-2r,Meteor Falls · 1F · 2R,underground,location:meteor-falls,,,5,33,40,5,45,good_rod|land|old_rod|super_rod|water,2,37,39,item:hm-surf|flag:badge05-get,Back of Meteor Falls across the water; dragon tamers ~Lv 37-39.
-map:meteor-falls-b1f-1r,Meteor Falls · B1F · 1R,underground,location:meteor-falls,,,5,33,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
-map:meteor-falls-b1f-2r,Meteor Falls · B1F · 2R,underground,location:meteor-falls,,,5,25,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get,Bagon area needs Surf + Waterfall.
+map:meteor-falls-b1f-1r,Meteor Falls · B1F · 1R,underground,location:meteor-falls,,,8,33,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get|item:hm-waterfall|flag:badge08-get,Bagon area needs Surf + Waterfall (Lv 33-40 wild).
+map:meteor-falls-b1f-2r,Meteor Falls · B1F · 2R,underground,location:meteor-falls,,,8,25,40,5,45,good_rod|land|old_rod|super_rod|water,0,,,item:hm-surf|flag:badge05-get|item:hm-waterfall|flag:badge08-get,Bagon area needs Surf + Waterfall (Lv 33-40 wild).
 map:meteor-falls-stevens-cave,Meteor Falls · Stevens Cave,underground,location:meteor-falls,41,steven-meteor-falls,8,33,40,33,40,land,1,75,78,item:hm-waterfall|flag:badge08-get|flag:sys-game-clear,Post-game Steven battle.
 map:mirage-tower-1f,Mirage Tower · 1F,underground,location:mirage-tower,,,4,20,24,20,24,land,0,,,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
 map:mirage-tower-2f,Mirage Tower · 2F,underground,location:mirage-tower,,,4,20,24,20,24,land,0,,,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
@@ -133,7 +133,7 @@ map:route111,Route 111,route,location:route-111,,,3,19,22,5,45,good_rod|land|old
 map:route112,Route 112,route,location:route-112,,,3,14,16,14,16,land,6,16,18,,Cable Car runs after the Mt. Chimney events are triggered.
 map:route113,Route 113,route,location:route-113,,,3,14,16,14,16,land,10,17,19,,Volcanic ash falls here.
 map:route114,Route 114,route,location:route-114,18,meteor-falls-meteorite,3,15,18,5,45,good_rod|land|old_rod|rock_smash|super_rod|water,12,16,20,,Lanette's house; Fossil Maniac.
-map:route115,Route 115,route,location:route-115,,,1,23,26,5,45,good_rod|land|old_rod|super_rod|water,10,18,28,item:hm-surf|flag:badge05-get,"South end reachable north of Rustboro early, but its trainers (Lv 18-28) and the Meteor Falls side are balanced for after Surf."
+map:route115,Route 115,route,location:route-115,,,5,23,26,5,45,good_rod|land|old_rod|super_rod|water,10,18,28,item:hm-surf|flag:badge05-get,"South end reachable north of Rustboro early, but its trainers (Lv 18-28) and the Meteor Falls side are balanced for after Surf."
 map:route116,Route 116,route,location:route-116,8,devon-goods-stolen,1,6,8,6,8,land,10,8,9,,East end blocked until Rusturf Tunnel is dug (Rock Smash).
 map:route117,Route 117,route,location:route-117,,,2,13,14,5,45,good_rod|land|old_rod|super_rod|water,9,11,17,,Day Care.
 map:route118,Route 118,route,location:route-118,,,5,24,27,5,45,good_rod|land|old_rod|super_rod|water,7,14,26,item:hm-surf|flag:badge05-get,Needs Surf to cross from Mauville.
