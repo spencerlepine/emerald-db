@@ -136,6 +136,10 @@ def _validate(tables) -> None:
             missing["timeline_entities"].add(r["entity_id"])
         if r["event_id"] not in events:
             missing["timeline_events"].add(r["event_id"])
+    for r in tables.get("area_progression", []):
+        for x in [y for y in r.get("requires", "").split("|") if y]:
+            if x not in ids and x not in flags:
+                missing["area_progression.requires"].add(x)
     if missing:
         print("  WARNING dangling ids:", json.dumps({k: sorted(v)[:12] + (["..."] if len(v) > 12 else []) for k, v in missing.items()}, indent=1))
     print(f"  entities={len(ids)} relationships={len(tables.get('relationships', []))}")

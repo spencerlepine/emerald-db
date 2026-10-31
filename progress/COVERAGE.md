@@ -31,5 +31,5 @@ pokeemerald: `731ad5bfd6e6f265508d0efcca0ba42f9dcf5881`
 | Lore (curated) | story timeline events |  | 45 | — |  |
 | Lore (curated) | region-map locations with lore written | 95 | 84 | 88% |  |
 | Balance | maps in area_progression (auto) |  | 220 | — |  |
-| Balance | area_progression rows with chapter/badges assigned | 220 | 90 | 41% |  |
-| Balance | area_progression rows with gating (requires) written | 220 | 0 | 0% |  |
+| Balance | area_progression rows with chapter/badges assigned | 220 | 220 | 100% |  |
+| Balance | area_progression rows with gating (requires) written | 220 | 155 | 70% |  |

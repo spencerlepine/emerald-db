@@ -1,0 +1,221 @@
+map_id,badges_expected,requires,gating_notes
+map:abandoned-ship-captains-office,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-corridors-1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-corridors-b1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-deck,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-hidden-floor-corridors,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-hidden-floor-rooms,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-room-b1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-rooms2-1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-rooms2-b1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-rooms-1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-rooms-b1f,5,item:hm-surf|flag:badge05-get,Hidden rooms need keys from the ship; underwater rooms need Dive.
+map:abandoned-ship-underwater1,7,item:hm-dive|flag:badge07-get,
+map:abandoned-ship-underwater2,7,item:hm-dive|flag:badge07-get,
+map:altering-cave,8,flag:sys-game-clear,Off Route 103; Mystery Event changes its Pokémon.
+map:ancient-tomb,8,item:hm-flash|flag:badge02-get|flag:regi-doors-opened,Registeel (post-game).
+map:aqua-hideout-1f,6,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
+map:aqua-hideout-b1f,6,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
+map:aqua-hideout-b2f,6,item:hm-surf|flag:badge05-get,Opens after the Mt. Pyre event.
+map:artisan-cave-1f,8,item:ss-ticket|item:hm-surf|flag:badge05-get,Smeargle cave on Battle Frontier island.
+map:artisan-cave-b1f,8,item:ss-ticket|item:hm-surf|flag:badge05-get,Smeargle cave on Battle Frontier island.
+map:battle-frontier-battle-pyramid-floor,8,item:ss-ticket,Battle Pyramid floors; wild Pokémon by level.
+map:battle-frontier-outside-east,8,item:ss-ticket,Post-game.
+map:battle-frontier-outside-west,8,item:ss-ticket,Post-game.
+map:cave-of-origin-1f,7,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
+map:cave-of-origin-b1f,7,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
+map:cave-of-origin-entrance,7,item:hm-dive|flag:badge07-get,Wallace guards it during the crisis.
+map:desert-ruins,8,item:hm-rock-smash|flag:badge03-get|flag:regi-doors-opened,Regirock (post-game).
+map:desert-underpass,8,flag:sys-game-clear,"Post-game, from Route 114."
+map:dewford-town,1,flag:returned-devon-goods,Reached by Mr. Briney's boat (VAR_BOARD_BRINEY_BOAT_STATE).
+map:dewford-town-gym,1,,"Gym 2: Fighting, dark maze."
+map:ever-grande-city,8,item:hm-waterfall|flag:badge08-get,Reached by Waterfall from Route 128.
+map:ever-grande-city-champions-room,8,,Champion Wallace.
+map:ever-grande-city-drakes-room,8,,Elite Four 4 (Dragon).
+map:ever-grande-city-glacias-room,8,,Elite Four 3 (Ice).
+map:ever-grande-city-phoebes-room,8,,Elite Four 2 (Ghost).
+map:ever-grande-city-sidneys-room,8,,Elite Four 1 (Dark).
+map:fallarbor-town,3,,Battle Tent; Move Relearner.
+map:fiery-path,3,item:hm-strength|flag:badge04-get,Strength boulders block the shortcut until badge 4.
+map:fortree-city,5,,East exit blocked by invisible Kecleon until Devon Scope.
+map:fortree-city-gym,5,,Gym 6: Flying.
+map:granite-cave-1f,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
+map:granite-cave-b1f,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
+map:granite-cave-b2f,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
+map:granite-cave-stevens-room,1,item:hm-flash|flag:badge02-get,Dark without Flash; Mach Bike needed for cracked floor in B1F.
+map:island-cave,8,flag:regi-doors-opened,Regice (post-game).
+map:jagged-pass,3,,Acro Bike needed to go back up; Magma Hideout entrance needs Magma Emblem.
+map:lavaridge-town,3,,Gym 4; Go-Goggles from rival.
+map:lavaridge-town-gym-1f,3,,Gym 4: Fire.
+map:lilycove-city,6,,"Contest Hall, Department Store; Aqua Hideout in the cove needs Surf."
+map:littleroot-town,0,,Start.
+map:magma-hideout-1f,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:magma-hideout-2f-1r,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:magma-hideout-2f-2r,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:magma-hideout-2f-3r,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:magma-hideout-3f-1r,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:magma-hideout-3f-2r,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:magma-hideout-3f-3r,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:magma-hideout-4f,6,item:magma-emblem|item:hm-strength|flag:badge04-get,Entrance on Jagged Pass.
+map:marine-cave-end,8,flag:sys-game-clear|item:hm-dive|flag:badge07-get,Appears with Kyogre's weather report.
+map:marine-cave-entrance,8,flag:sys-game-clear|item:hm-dive|flag:badge07-get,Appears with Kyogre's weather report.
+map:mauville-city,2,,Gym 3; Rydel's Cycles gives a bike.
+map:mauville-city-gym,2,,Gym 3: Electric.
+map:meteor-falls-1f-1r,3,,Inner areas need Surf and Waterfall (post-game Steven).
+map:meteor-falls-1f-2r,3,,Inner areas need Surf and Waterfall (post-game Steven).
+map:meteor-falls-b1f-1r,3,,Inner areas need Surf and Waterfall (post-game Steven).
+map:meteor-falls-b1f-2r,3,,Inner areas need Surf and Waterfall (post-game Steven).
+map:meteor-falls-stevens-cave,8,item:hm-waterfall|flag:badge08-get|flag:sys-game-clear,Post-game Steven battle.
+map:mirage-tower-1f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
+map:mirage-tower-2f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
+map:mirage-tower-3f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
+map:mirage-tower-4f,4,item:go-goggles|item:mach-bike,In the desert; Mach Bike for cracked floors; fossil choice.
+map:mossdeep-city,6,item:hm-surf|flag:badge05-get,Gym 7; Space Center.
+map:mossdeep-city-gym,6,,Gym 7: Psychic double battle.
+map:mossdeep-city-space-center-1f,7,,Magma attack after Mind Badge.
+map:mossdeep-city-space-center-2f,7,,Magma attack after Mind Badge.
+map:mt-chimney,3,,Reached by Cable Car from Route 112.
+map:mt-pyre-1f,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:mt-pyre-2f,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:mt-pyre-3f,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:mt-pyre-4f,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:mt-pyre-5f,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:mt-pyre-6f,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:mt-pyre-exterior,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:mt-pyre-summit,6,item:hm-surf|flag:badge05-get,Summit event with Aqua/Magma.
+map:navel-rock-b1f,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-bottom,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down01,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down02,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down03,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down04,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down05,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down06,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down07,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down08,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down09,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down10,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-down11,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-entrance,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-fork,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-top,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-up1,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-up2,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-up3,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:navel-rock-up4,8,item:mystic-ticket,Event island (Lugia/Ho-Oh).
+map:new-mauville-entrance,3,item:basement-key|item:hm-surf|flag:badge05-get,Wattson gives the Basement Key after the Dynamo Badge; entrance is on the Route 110 water.
+map:new-mauville-inside,3,item:basement-key|item:hm-surf|flag:badge05-get,Wattson gives the Basement Key after the Dynamo Badge; entrance is on the Route 110 water.
+map:oldale-town,0,,
+map:pacifidlog-town,7,item:hm-surf|flag:badge05-get,
+map:petalburg-city,0,,Gym needs 4 badges (VAR_PETALBURG_GYM_STATE).
+map:petalburg-city-gym,0,,Gym needs 4 badges (VAR_PETALBURG_GYM_STATE).
+map:petalburg-woods,0,,Cut tree hides items.
+map:route101,0,,Starter choice.
+map:route102,0,,
+map:route103,0,,West half at start; east half (to Route 110) needs Surf.
+map:route104,0,,North half via Petalburg Woods; flower shop gives Wailmer Pail.
+map:route104-prototype,0,,Unused prototype map.
+map:route105,5,item:hm-surf|flag:badge05-get,Sea route.
+map:route106,1,,Beach part walkable from Dewford; sea needs Surf.
+map:route107,5,item:hm-surf|flag:badge05-get,Sea route.
+map:route108,5,item:hm-surf|flag:badge05-get,Sea route; Abandoned Ship.
+map:route109,2,,Reached by boat from Dewford; sea part needs Surf.
+map:route109-seashore-house,2,,Beat all trainers in the house for Soda Pop.
+map:route110,2,,Cycling Road needs a Bike; Trick House puzzles gated by badges.
+map:route110-trick-house-puzzle1,2,item:hm-cut|flag:badge01-get,Trick House puzzle 1.
+map:route110-trick-house-puzzle2,3,,Puzzle 2 (after Dynamo Badge).
+map:route110-trick-house-puzzle3,4,,Puzzle 3.
+map:route110-trick-house-puzzle4,4,item:hm-strength|flag:badge04-get,Puzzle 4.
+map:route110-trick-house-puzzle6,6,,Puzzle 6.
+map:route110-trick-house-puzzle7,7,,Puzzle 7.
+map:route110-trick-house-puzzle8,8,,Puzzle 8.
+map:route111,3,item:hm-rock-smash|flag:badge03-get,South part from Mauville; rocks north of Mauville need Rock Smash; desert needs Go-Goggles (badge 4).
+map:route112,3,,Cable Car runs after the Mt. Chimney events are triggered.
+map:route113,3,,Volcanic ash falls here.
+map:route114,3,,Lanette's house; Fossil Maniac.
+map:route115,1,item:hm-surf|flag:badge05-get,Reachable north of Rustboro; most of it needs Surf/Strength.
+map:route116,1,,East end blocked until Rusturf Tunnel is dug (Rock Smash).
+map:route117,2,,Day Care.
+map:route118,5,item:hm-surf|flag:badge05-get,Needs Surf to cross from Mauville.
+map:route119,5,item:hm-surf|flag:badge05-get,Acro Bike for some items; Weather Institute; HM Fly.
+map:route119-weather-institute-1f,5,,Team Aqua occupation.
+map:route119-weather-institute-2f,5,,Team Aqua occupation.
+map:route120,6,item:devon-scope,Steven gives Devon Scope; Ancient Tomb; Scorched Slab.
+map:route121,6,,Safari Zone entrance; path to Mt. Pyre needs Surf.
+map:route122,6,item:hm-surf|flag:badge05-get,
+map:route123,6,,One-way ledges from Route 122 side.
+map:route124,6,item:hm-surf|flag:badge05-get,Deep water needs Dive (badge 7).
+map:route125,6,item:hm-surf|flag:badge05-get,
+map:route126,7,item:hm-surf|flag:badge05-get,
+map:route127,7,item:hm-surf|flag:badge05-get,
+map:route128,7,item:hm-surf|flag:badge05-get,
+map:route129,7,item:hm-surf|flag:badge05-get,
+map:route130,7,item:hm-surf|flag:badge05-get,Mirage Island sometimes appears.
+map:route131,7,item:hm-surf|flag:badge05-get,
+map:route132,8,item:hm-surf|flag:badge05-get,Currents.
+map:route133,8,item:hm-surf|flag:badge05-get,Currents.
+map:route134,8,item:hm-surf|flag:badge05-get,Currents; Sealed Chamber below.
+map:rustboro-city,0,,Gym 1.
+map:rustboro-city-gym,0,,"Gym 1: Rock, levels ~12-15."
+map:rusturf-tunnel,1,,Rock Smash rocks block the Verdanturf side until FLAG_RUSTURF_TUNNEL_OPENED.
+map:ss-tidal-lower-deck,8,item:ss-ticket,Post-game ferry Slateport ↔ Lilycove.
+map:ss-tidal-rooms,8,item:ss-ticket,Post-game ferry Slateport ↔ Lilycove.
+map:safari-zone-north,6,,North areas need Mach/Acro Bike; extra areas post-game.
+map:safari-zone-northeast,6,,North areas need Mach/Acro Bike; extra areas post-game.
+map:safari-zone-northwest,6,,North areas need Mach/Acro Bike; extra areas post-game.
+map:safari-zone-south,6,,North areas need Mach/Acro Bike; extra areas post-game.
+map:safari-zone-southeast,6,,North areas need Mach/Acro Bike; extra areas post-game.
+map:safari-zone-southwest,6,,North areas need Mach/Acro Bike; extra areas post-game.
+map:scorched-slab,6,item:hm-surf|flag:badge05-get,
+map:seafloor-cavern-entrance,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room1,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room2,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room3,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room4,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room5,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room6,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room7,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room8,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:seafloor-cavern-room9,7,item:hm-dive|flag:badge07-get|item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get,Kyogre awakening.
+map:sealed-chamber-inner-room,8,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party.
+map:sealed-chamber-outer-room,8,item:hm-dive|flag:badge07-get,Braille puzzle needs Wailord + Relicanth in party.
+map:shoal-cave-high-tide-entrance-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
+map:shoal-cave-high-tide-inner-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
+map:shoal-cave-low-tide-entrance-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
+map:shoal-cave-low-tide-ice-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
+map:shoal-cave-low-tide-inner-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
+map:shoal-cave-low-tide-lower-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
+map:shoal-cave-low-tide-stairs-room,6,item:hm-surf|flag:badge05-get|item:hm-strength|flag:badge04-get,Tides change rooms every 6 hours; Ice room needs Mach Bike.
+map:sky-pillar-1f,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:sky-pillar-2f,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:sky-pillar-3f,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:sky-pillar-4f,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:sky-pillar-5f,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:sky-pillar-entrance,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:sky-pillar-outside,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:sky-pillar-top,7,item:mach-bike,Cracked floors need the Mach Bike.
+map:slateport-city,2,,Arrive by boat; Battle Tent; Oceanic Museum event.
+map:slateport-city-oceanic-museum-2f,2,,Team Aqua grunts.
+map:sootopolis-city,7,item:hm-dive|flag:badge07-get,Weather crisis; Gym 8 opens after Rayquaza.
+map:sootopolis-city-gym-1f,7,,"Gym 8: Water, cracking-ice puzzle."
+map:sootopolis-city-gym-b1f,7,,"Gym 8: Water, cracking-ice puzzle."
+map:southern-island-exterior,8,item:eon-ticket,Event island (Latias/Latios).
+map:southern-island-interior,8,item:eon-ticket,Event island (Latias/Latios).
+map:terra-cave-end,8,flag:sys-game-clear,Appears with Groudon's weather report.
+map:terra-cave-entrance,8,flag:sys-game-clear,Appears with Groudon's weather report.
+map:underwater-marine-cave,8,item:hm-dive|flag:badge07-get,
+map:underwater-route105,8,item:hm-dive|flag:badge07-get,
+map:underwater-route124,7,item:hm-dive|flag:badge07-get,
+map:underwater-route125,8,item:hm-dive|flag:badge07-get,
+map:underwater-route126,7,item:hm-dive|flag:badge07-get,Underwater entrance to Sootopolis.
+map:underwater-route127,7,item:hm-dive|flag:badge07-get,
+map:underwater-route128,7,item:hm-dive|flag:badge07-get,Seafloor Cavern entrance.
+map:underwater-route129,7,item:hm-dive|flag:badge07-get,
+map:underwater-route134,8,item:hm-dive|flag:badge07-get,
+map:underwater-seafloor-cavern,7,item:hm-dive|flag:badge07-get,
+map:underwater-sealed-chamber,8,item:hm-dive|flag:badge07-get,
+map:underwater-sootopolis-city,7,item:hm-dive|flag:badge07-get,
+map:verdanturf-town,2,,Battle Tent; Rusturf Tunnel east end.
+map:victory-road-1f,8,item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get|item:hm-flash|flag:badge02-get,Wally's final battle.
+map:victory-road-b1f,8,item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get|item:hm-flash|flag:badge02-get,Wally's final battle.
+map:victory-road-b2f,8,item:hm-strength|flag:badge04-get|item:hm-rock-smash|flag:badge03-get|item:hm-flash|flag:badge02-get,Wally's final battle.

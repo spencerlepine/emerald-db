@@ -25,10 +25,18 @@ def extract() -> dict[str, list[dict]]:
     scripts = extract_scripts.extract()
     trainers = extract_trainers.extract()
     events = read_csv(CURATED_DIR / "timeline_events.csv")
-    rels, links, entities = [], [], []
+    rels, links, entities, metadata_rows = [], [], [], []
     curated = read_csv(CURATED_DIR / "entities.csv")
     chars = [e for e in curated if e.get("entity_type") == "character"]
+    flag_ids = {r["flag_id"] for r in scripts["story_flags"]}
     for o in curated:
+        if o.get("entity_type") == "storyline":
+            for x in [y for y in o.get("related_entity_ids", "").split("|") if y]:
+                if x in flag_ids:
+                    # flags are rows in story_flags.csv, not entities: keep the link in metadata
+                    metadata_rows.append({"entity_id": o["id"], "field": "story_flag", "value": x, "related_entity_id": ""})
+                else:
+                    rels.append({"source_id": o["id"], "relationship": "involves", "target_id": x})
         if o.get("entity_type") == "organization" and o.get("home_map"):
             rels.append({"source_id": o["id"], "relationship": "based_in", "target_id": o["home_map"]})
 
@@ -160,7 +168,27 @@ def extract() -> dict[str, list[dict]]:
         for m in ms:
             rels.append({"source_id": loc, "relationship": "contains_map", "target_id": m["id"]})
 
-    return {"timeline_entities": links, "relationships": rels, "area_progression": prog, "entities": entities}
+    # ---- badges (field-move + obedience gates, from party_menu.c / battle_util.c) --------------
+    badge_rows = [("stone", "Stone Badge", "roxanne-1", "rustboro-gym", "cut", ""), ("knuckle", "Knuckle Badge", "brawly-1", "dewford-gym", "flash", 30),
+                  ("dynamo", "Dynamo Badge", "wattson-1", "mauville-gym", "rock-smash", ""), ("heat", "Heat Badge", "flannery-1", "lavaridge-gym", "strength", 50),
+                  ("balance", "Balance Badge", "norman-1", "petalburg-gym", "surf", ""), ("feather", "Feather Badge", "winona-1", "fortree-gym", "fly", 70),
+                  ("mind", "Mind Badge", "tate-and-liza-1", "mossdeep-gym", "dive", ""), ("rain", "Rain Badge", "juan-1", "sootopolis-gym", "waterfall", 100)]
+    hm_item = {"cut": "hm-cut", "flash": "hm-flash", "rock-smash": "hm-rock-smash", "strength": "hm-strength", "surf": "hm-surf",
+               "fly": "hm-fly", "dive": "hm-dive", "waterfall": "hm-waterfall"}
+    for n, (key, title, leader, gym, fmove, obey) in enumerate(badge_rows, 1):
+        bid = "badge:" + key
+        entities.append({"id": bid, "entity_type": "badge", "category": "badges", "collection": "hoenn-gym-badges", "title": title,
+                         "description": f"Badge {n} of 8, from {gym.replace('-', ' ').title()}. Lets Pokémon use {fmove.replace('-', ' ').title()} outside battle"
+                                        + (f"; traded Pokémon up to Lv. {obey} obey" if obey and obey < 100 else "; all traded Pokémon obey" if obey else "") + ".",
+                         "source_constant": f"FLAG_BADGE0{n}_GET", "source_file": "src/party_menu.c|src/battle_util.c",
+                         "badge_number": n, "flag_id": f"flag:badge0{n}-get", "enables_field_move": "move:" + fmove,
+                         "obedience_level_cap": obey})
+        rels.append({"source_id": "trainer:" + leader, "relationship": "awards_badge", "target_id": bid})
+        rels.append({"source_id": bid, "relationship": "enables_field_move", "target_id": "move:" + fmove})
+        rels.append({"source_id": "item:" + hm_item[fmove], "relationship": "usable_outside_battle_with", "target_id": bid})
+        rels.append({"source_id": "organization:" + gym, "relationship": "awards_badge", "target_id": bid})
+
+    return {"metadata": metadata_rows, "timeline_entities": links, "relationships": rels, "area_progression": prog, "entities": entities}
 
 
 def _flag_id(const: str) -> str:

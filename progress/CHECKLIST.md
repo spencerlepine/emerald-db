@@ -30,8 +30,8 @@ Use the extracted dialogue (texts.csv / dialogue.csv / trainer_dialogue.csv), sc
   - [x] B4d Routes 115–121, Verdanturf, Fortree, Lilycove, Mt. Pyre, Safari Zone, Weather Institute, Scorched Slab
   - [x] B4e Routes 122–134, Mossdeep, Shoal Cave, Seafloor Cavern, Sootopolis, Cave of Origin, Pacifidlog, Sealed Chamber, Sky Pillar, Ever Grande, Victory Road
   - [x] B4f Post-game & special: Battle Frontier, Artisan Cave, islands (Southern, Faraway, Navel Rock, Birth), Abandoned Ship, Trainer Hill, secret bases, Mirage spots, unused/test maps
-- [ ] **B5 Area progression & balance** — `curated/area_progression.csv` (one row per outdoor/dungeon map): chapter, badges expected, required HMs/key items/flags to enter, wild level range and trainer level range (auto-filled by build from wild_encounters / trainer_parties), notes on gating (e.g. Go-Goggles for desert, Devon Scope for Kecleon). This is the balancing reference for Steps 3–4.
-- [ ] **B6 Legendaries, side quests & mysteries** — Regi braille puzzle, weather trio, Lati@s roaming, Deoxys/Mew/Lugia/Ho-Oh event islands, Trick House, Mirage Island, Kecleon, Fossils, Lilycove lady, Mauville storyteller/bard, Pokémon News, apprentice. Entity type `storyline` with linked flags/maps/texts.
+- [x] **B5 Area progression & balance** (220 maps: auto wild/trainer level ranges + curated badges_expected / requires / gating_notes in curated/area_progression.csv; `badge:*` entities carry field-move unlocks and traded-Pokémon obedience caps from src/party_menu.c + src/battle_util.c). Next depth pass: verify each map's badges_expected against its trainer_level_max. — `curated/area_progression.csv` (one row per outdoor/dungeon map): chapter, badges expected, required HMs/key items/flags to enter, wild level range and trainer level range (auto-filled by build from wild_encounters / trainer_parties), notes on gating (e.g. Go-Goggles for desert, Devon Scope for Kecleon). This is the balancing reference for Steps 3–4.
+- [x] **B6 Legendaries, side quests & mysteries** (22 `storyline:*` rows with `involves` links and story_flag metadata). Next depth pass: per-NPC lore for the rotating NPCs (Mauville man, Lilycove lady, apprentice) and TV show catalogue from data/text/tv.inc. — Regi braille puzzle, weather trio, Lati@s roaming, Deoxys/Mew/Lugia/Ho-Oh event islands, Trick House, Mirage Island, Kecleon, Fossils, Lilycove lady, Mauville storyteller/bard, Pokémon News, apprentice. Entity type `storyline` with linked flags/maps/texts.
 
 ## Phase C — quality
 
@@ -46,3 +46,4 @@ Append one line per working session: date · chunk(s) · commit · notes.
 - 2026-10-31 · A1–A8 · see git log · toolchain, wiki copy, first full extraction (6.1k entities, 16k relationships, 8k texts).
 - 2026-10-31 · B1, B2 (partial), B3 · story timeline, 47 characters, 25 organizations; extract_story.py derives timeline_entities, character links, area_progression levels.
 - 2026-10-31 · B4 (most) · location history for 84 region-map locations + auto descriptions.
+- 2026-10-31 · B5, B6 · area progression gating, badges, 22 storylines.
