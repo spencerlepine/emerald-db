@@ -94,7 +94,8 @@ def extract() -> dict[str, list[dict]]:
                 t = {"text_id": b["label"], "map_id": map_id(map_const) if map_const else "", "source_file": rel_path,
                      "source_line": b["line"], "speaker_label": m.group(1).strip() if m else "",
                      "braille": "true" if strings[0].startswith(".braille") else "false",
-                     "text": clean, "text_raw": raw, "used_by_scripts": "", "word_count": len(clean.split())}
+                     "text": clean, "text_raw": raw, "used_by_scripts": "", "word_count": len(clean.split()),
+                     "text_origin": "script", "text_context": "map" if map_const else rel_path.rsplit("/", 1)[-1].rsplit(".", 1)[0]}
                 texts.append(t)
                 text_by_label[b["label"]] = t
                 continue

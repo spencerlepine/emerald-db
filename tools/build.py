@@ -25,6 +25,7 @@ EXTRACTORS = [
     "extract_trainers",
     "extract_maps",
     "extract_scripts",
+    "extract_c_strings",
     "extract_world_systems",
     "extract_graphics",
     "extract_story",

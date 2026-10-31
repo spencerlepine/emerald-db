@@ -18,13 +18,13 @@ pokeemerald: `731ad5bfd6e6f265508d0efcca0ba42f9dcf5881`
 | World | map object events (NPCs/props) | 2776 | 2776 | 100% |  |
 | World | all map events (objects+triggers+signs) | 3871 | 3871 | 100% |  |
 | World | overworld sprite ids | 255 | 255 | 100% |  |
-| Text | text blocks (.string labels) | 7975 | 7975 | 100% | texts.csv is the source of truth for dialogue |
-| Text | texts referenced by an overworld script | 7975 | 5665 | 71% | rest are used from C code / indirectly |
+| Text | text blocks (.string labels) | 11229 | 11229 | 100% | texts.csv is the source of truth for dialogue |
+| Text | texts referenced by an overworld script | 11229 | 5665 | 50% | rest are used from C code / indirectly |
 | Text | NPCs with attributed dialogue | 2776 | 1926 | 69% |  |
 | Scripts | script labels | 9361 | 9361 | 100% |  |
 | Scripts | flags + vars | 1826 | 1826 | 100% |  |
 | Art | PNG art files inventoried | 4076 | 4076 | 100% |  |
-| Lore (curated) | named speakers (>=2 lines) mapped to a character | 86 | 0 | 0% |  |
+| Lore (curated) | named speakers (>=2 lines) mapped to a character | 155 | 0 | 0% |  |
 | Lore (curated) | story characters |  | 0 | — |  |
 | Lore (curated) | organizations |  | 0 | — |  |
 | Lore (curated) | story timeline events |  | 0 | — |  |

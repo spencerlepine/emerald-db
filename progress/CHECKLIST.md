@@ -13,8 +13,8 @@ add a line to the log at the bottom.
 - [x] **A4 World** — `extract_maps.py`: maps, region-map locations, layouts/tilesets, connections & warps, object/coord/bg events, NPC entities, hidden items, wild encounters, heal locations.
 - [x] **A5 Scripts & text** — `extract_scripts.py`: every `.string` text, every script label (flags/vars/items/mons/trainers/warps/specials it touches), dialogue attributed to NPC/sign/trigger, trainer intro/defeat text, flags & vars with setters/checkers, mart inventories.
 - [x] **A6 Art inventory** — `extract_graphics.py`: every PNG (art_assets), overworld sprite entities, species/trainer/item art links (entity_art), wiki images.
-- [ ] **A7 World systems** — `extract_world_systems.py`: Battle Frontier (facilities, frontier brains, frontier trainers + mon sets), Battle Tents, Trainer Hill, contests (opponents, ranks), decorations, natures, move tutors, field moves / HMs + badge requirements, gym badges, ribbons, Pokénav match call (messages per trainer), easy chat words, TV / news shows, Pokéblocks, Mystery Gift/event tickets, Day Care, Safari Zone, Game Corner prizes.
-- [ ] **A8 C-side strings** — `gText_*` and other UI/battle strings in `src/*.c` / `src/data/text/*` that never appear in .inc files (battle messages, menus, Pokénav, Birch intro). Add to texts.csv with `source_file` = C file.
+- [x] **A7 World systems** — `extract_world_systems.py`: natures, decorations, ribbons, easy chat words, Battle Frontier facilities + Frontier Brain parties (silver/gold), 300 frontier trainers + mon pools (EC speech decoded), Battle Tent trainers/mons, Trainer Hill trainers, contest opponents. Move tutors, HM field-move checks, TV/news, Game Corner, Safari Zone, Day Care and event tickets are covered by scripts/texts/flags (A5); their *lore* is B5/B6 work.
+- [x] **A8 C-side strings** — `extract_c_strings.py`: 3.2k `const u8 x[] = _("…")` strings from `src/` (UI, battle messages, match call profiles, union room, credits, landmarks…) added to texts.csv with `text_origin=c` and `text_context`. Follow-up idea: link match-call profile texts to trainer ids via `sMatchCallTrainers` in `src/match_call.c`.
 
 ## Phase B — curated lore (curated/*.csv, merged by build.py)
 
@@ -43,4 +43,4 @@ Use the extracted dialogue (texts.csv / dialogue.csv / trainer_dialogue.csv), sc
 
 Append one line per working session: date · chunk(s) · commit · notes.
 
-- 2026-10-31 · A1–A6 · see git log · toolchain, wiki copy, first full extraction (6.1k entities, 16k relationships, 8k texts).
+- 2026-10-31 · A1–A8 · see git log · toolchain, wiki copy, first full extraction (6.1k entities, 16k relationships, 8k texts).
