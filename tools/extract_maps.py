@@ -188,7 +188,7 @@ def extract() -> dict[str, list[dict]]:
                                        "slot_rate_percent": rates[slot] if slot < len(rates) else "",
                                        "species_id": sid(mon["species"]), "min_level": mon["min_level"], "max_level": mon["max_level"]})
             if target:
-                for sp in {mon["species"] for b in enc.values() if isinstance(b, dict) for mon in b.get("mons", [])}:
+                for sp in sorted({mon["species"] for b in enc.values() if isinstance(b, dict) for mon in b.get("mons", [])}):
                     rels.append(rel(sid(sp), "found_wild_in", target))
     return {"entities": entities, "relationships": rels, "map_events": objects, "wild_encounters": encounters,
             "map_connections": connections}
