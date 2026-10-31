@@ -1,0 +1,1009 @@
+word_id,group,text,enabled,source_file
+EC_WORD_MEETS,actions,MEETS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_CONCEDE,actions,CONCEDE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_GIVE,actions,GIVE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_GIVES,actions,GIVES,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_PLAYED,actions,PLAYED,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_PLAYS,actions,PLAYS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_COLLECT,actions,COLLECT,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WALKING,actions,WALKING,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WALKS,actions,WALKS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SAYS,actions,SAYS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WENT,actions,WENT,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SAID,actions,SAID,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WAKE_UP,actions,WAKE UP,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WAKES_UP,actions,WAKES UP,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_ANGERS,actions,ANGERS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_TEACH,actions,TEACH,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_TEACHES,actions,TEACHES,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_PLEASE,actions,PLEASE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_LEARN,actions,LEARN,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_CHANGE,actions,CHANGE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_STORY,actions,STORY,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_TRUST,actions,TRUST,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_LAVISH,actions,LAVISH,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_LISTENS,actions,LISTENS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_HEARING,actions,HEARING,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_TRAINS,actions,TRAINS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_CHOOSE,actions,CHOOSE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_COME,actions,COME,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_CAME,actions,CAME,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SEARCH,actions,SEARCH,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_MAKE,actions,MAKE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_CAUSE,actions,CAUSE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_KNOW,actions,KNOW,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_KNOWS,actions,KNOWS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_REFUSE,actions,REFUSE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_STORES,actions,STORES,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_BRAG,actions,BRAG,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_IGNORANT,actions,IGNORANT,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_THINKS,actions,THINKS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_BELIEVE,actions,BELIEVE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SLIDE,actions,SLIDE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_EATS,actions,EATS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_USE,actions,USE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_USES,actions,USES,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_USING,actions,USING,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_COULDN_T,actions,COULDN'T,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_CAPABLE,actions,CAPABLE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_DISAPPEAR,actions,DISAPPEAR,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_APPEAR,actions,APPEAR,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_THROW,actions,THROW,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WORRY,actions,WORRY,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SLEPT,actions,SLEPT,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SLEEP,actions,SLEEP,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_RELEASE,actions,RELEASE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_DRINKS,actions,DRINKS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_RUNS,actions,RUNS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_RUN,actions,RUN,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WORKS,actions,WORKS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WORKING,actions,WORKING,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_TALKING,actions,TALKING,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_TALK,actions,TALK,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SINK,actions,SINK,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SMACK,actions,SMACK,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_PRETEND,actions,PRETEND,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_PRAISE,actions,PRAISE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_OVERDO,actions,OVERDO,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SHOW,actions,SHOW,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_LOOKS,actions,LOOKS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SEES,actions,SEES,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_SEEK,actions,SEEK,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_OWN,actions,OWN,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_TAKE,actions,TAKE,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_ALLOW,actions,ALLOW,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_FORGET,actions,FORGET,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_FORGETS,actions,FORGETS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_APPEARS,actions,APPEARS,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_FAINT,actions,FAINT,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_FAINTED,actions,FAINTED,true,src/data/easy_chat/easy_chat_group_actions.h
+EC_WORD_WANDERING,adjectives,WANDERING,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_RICKETY,adjectives,RICKETY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_ROCK_SOLID,adjectives,ROCK-SOLID,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_HUNGRY,adjectives,HUNGRY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_TIGHT,adjectives,TIGHT,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_TICKLISH,adjectives,TICKLISH,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_TWIRLING,adjectives,TWIRLING,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SPIRALING,adjectives,SPIRALING,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_THIRSTY,adjectives,THIRSTY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_LOLLING,adjectives,LOLLING,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SILKY,adjectives,SILKY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SADLY,adjectives,SADLY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_HOPELESS,adjectives,HOPELESS,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_USELESS,adjectives,USELESS,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_DROOLING,adjectives,DROOLING,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_EXCITING,adjectives,EXCITING,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_THICK,adjectives,THICK,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SMOOTH,adjectives,SMOOTH,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SLIMY,adjectives,SLIMY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_THIN,adjectives,THIN,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_BREAK,adjectives,BREAK,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_VORACIOUS,adjectives,VORACIOUS,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SCATTER,adjectives,SCATTER,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_AWESOME,adjectives,AWESOME,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_WIMPY,adjectives,WIMPY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_WOBBLY,adjectives,WOBBLY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SHAKY,adjectives,SHAKY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_RIPPED,adjectives,RIPPED,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_SHREDDED,adjectives,SHREDDED,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_INCREASING,adjectives,INCREASING,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_YET,adjectives,YET,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_DESTROYED,adjectives,DESTROYED,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_FIERY,adjectives,FIERY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_LOVEY_DOVEY,adjectives,LOVEY-DOVEY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_HAPPILY,adjectives,HAPPILY,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_ANTICIPATION,adjectives,ANTICIPATION,true,src/data/easy_chat/easy_chat_group_adjectives.h
+EC_WORD_MATCH_UP,battle,MATCH UP,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_GO,battle,GO,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_NO_1,battle,NO. 1,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_DECIDE,battle,DECIDE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_LET_ME_WIN,battle,LET ME WIN,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_WINS,battle,WINS,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_WIN,battle,WIN,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_WON,battle,WON,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_IF_I_WIN,battle,IF I WIN,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_WHEN_I_WIN,battle,WHEN I WIN,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_CAN_T_WIN,battle,CAN'T WIN,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_CAN_WIN,battle,CAN WIN,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_NO_MATCH,battle,NO MATCH,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_SPIRIT,battle,SPIRIT,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_DECIDED,battle,DECIDED,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_TRUMP_CARD,battle,TRUMP CARD,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_TAKE_THAT,battle,TAKE THAT,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_COME_ON,battle,COME ON,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_ATTACK,battle,ATTACK,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_SURRENDER,battle,SURRENDER,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_GUTSY,battle,GUTSY,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_TALENT,battle,TALENT,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_STRATEGY,battle,STRATEGY,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_SMITE,battle,SMITE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_MATCH,battle,MATCH,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_VICTORY,battle,VICTORY,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_OFFENSIVE,battle,OFFENSIVE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_SENSE,battle,SENSE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_VERSUS,battle,VERSUS,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_FIGHTS,battle,FIGHTS,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_POWER,battle,POWER,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_CHALLENGE,battle,CHALLENGE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_STRONG,battle,STRONG,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_TOO_STRONG,battle,TOO STRONG,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_GO_EASY,battle,GO EASY,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_FOE,battle,FOE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_GENIUS,battle,GENIUS,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_LEGEND,battle,LEGEND,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_ESCAPE,battle,ESCAPE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_AIM,battle,AIM,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_BATTLE,battle,BATTLE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_FIGHT,battle,FIGHT,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_RESUSCITATE,battle,RESUSCITATE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_POINTS,battle,POINTS,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_SERIOUS,battle,SERIOUS,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_GIVE_UP,battle,GIVE UP,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_LOSS,battle,LOSS,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_IF_I_LOSE,battle,IF I LOSE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_LOST,battle,LOST,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_LOSE,battle,LOSE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_GUARD,battle,GUARD,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_PARTNER,battle,PARTNER,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_REJECT,battle,REJECT,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_ACCEPT,battle,ACCEPT,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_INVINCIBLE,battle,INVINCIBLE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_RECEIVED,battle,RECEIVED,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_EASY,battle,EASY,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_WEAK,battle,WEAK,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_TOO_WEAK,battle,TOO WEAK,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_PUSHOVER,battle,PUSHOVER,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_LEADER,battle,LEADER,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_RULE,battle,RULE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_MOVE,battle,MOVE,true,src/data/easy_chat/easy_chat_group_battle.h
+EC_WORD_HOT,conditions,HOT,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_EXISTS,conditions,EXISTS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_EXCESS,conditions,EXCESS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_APPROVED,conditions,APPROVED,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_HAS,conditions,HAS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_GOOD,conditions,GOOD,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_LESS,conditions,LESS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_MOMENTUM,conditions,MOMENTUM,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_GOING,conditions,GOING,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_WEIRD,conditions,WEIRD,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_BUSY,conditions,BUSY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_TOGETHER,conditions,TOGETHER,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_FULL,conditions,FULL,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_ABSENT,conditions,ABSENT,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_BEING,conditions,BEING,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_NEED,conditions,NEED,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_TASTY,conditions,TASTY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_SKILLED,conditions,SKILLED,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_NOISY,conditions,NOISY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_BIG,conditions,BIG,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_LATE,conditions,LATE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_CLOSE,conditions,CLOSE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_DOCILE,conditions,DOCILE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_AMUSING,conditions,AMUSING,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_ENTERTAINING,conditions,ENTERTAINING,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_PERFECTION,conditions,PERFECTION,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_PRETTY,conditions,PRETTY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_HEALTHY,conditions,HEALTHY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_EXCELLENT,conditions,EXCELLENT,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_UPSIDE_DOWN,conditions,UPSIDE DOWN,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_COLD,conditions,COLD,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_REFRESHING,conditions,REFRESHING,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_UNAVOIDABLE,conditions,UNAVOIDABLE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_MUCH,conditions,MUCH,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_OVERWHELMING,conditions,OVERWHELMING,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_FABULOUS,conditions,FABULOUS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_ELSE,conditions,ELSE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_EXPENSIVE,conditions,EXPENSIVE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_CORRECT,conditions,CORRECT,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_IMPOSSIBLE,conditions,IMPOSSIBLE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_SMALL,conditions,SMALL,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_DIFFERENT,conditions,DIFFERENT,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_TIRED,conditions,TIRED,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_SKILL,conditions,SKILL,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_TOP,conditions,TOP,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_NON_STOP,conditions,NON-STOP,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_PREPOSTEROUS,conditions,PREPOSTEROUS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_NONE,conditions,NONE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_NOTHING,conditions,NOTHING,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_NATURAL,conditions,NATURAL,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_BECOMES,conditions,BECOMES,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_LUKEWARM,conditions,LUKEWARM,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_FAST,conditions,FAST,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_LOW,conditions,LOW,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_AWFUL,conditions,AWFUL,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_ALONE,conditions,ALONE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_BORED,conditions,BORED,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_SECRET,conditions,SECRET,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_MYSTERY,conditions,MYSTERY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_LACKS,conditions,LACKS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_BEST,conditions,BEST,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_LOUSY,conditions,LOUSY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_MISTAKE,conditions,MISTAKE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_KIND,conditions,KIND,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_WELL,conditions,WELL,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_WEAKENED,conditions,WEAKENED,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_SIMPLE,conditions,SIMPLE,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_SEEMS,conditions,SEEMS,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_BADLY,conditions,BADLY,true,src/data/easy_chat/easy_chat_group_conditions.h
+EC_WORD_WILL,endings,WILL,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WILL_BE_HERE,endings,WILL BE HERE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_OR,endings,OR,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_TIMES,endings,TIMES,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WONDER,endings,WONDER,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_IS_IT_QUES,endings,IS IT?,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_BE,endings,BE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_GIMME,endings,GIMME,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_COULD,endings,COULD,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_LIKELY_TO,endings,LIKELY TO,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WOULD,endings,WOULD,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_IS,endings,IS,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ISN_T_IT_QUES,endings,ISN'T IT?,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_LET_S,endings,LET'S,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_OTHER,endings,OTHER,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ARE,endings,ARE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WAS,endings,WAS,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WERE,endings,WERE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_THOSE,endings,THOSE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ISN_T,endings,ISN'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WON_T,endings,WON'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_CAN_T,endings,CAN'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_CAN,endings,CAN,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_DON_T,endings,DON'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_DO,endings,DO,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_DOES,endings,DOES,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WHOM,endings,WHOM,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WHICH,endings,WHICH,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WASN_T,endings,WASN'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WEREN_T,endings,WEREN'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_HAVE,endings,HAVE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_HAVEN_T,endings,HAVEN'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_A,endings,A,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_AN,endings,AN,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_NOT,endings,NOT,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_THERE,endings,THERE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_OK_QUES,endings,OK?,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_SO,endings,SO,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_MAYBE,endings,MAYBE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ABOUT,endings,ABOUT,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_OVER,endings,OVER,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_IT,endings,IT,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ALL,endings,ALL,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_FOR,endings,FOR,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ON,endings,ON,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_OFF,endings,OFF,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_AS,endings,AS,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_TO,endings,TO,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WITH,endings,WITH,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_BETTER,endings,BETTER,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_EVER,endings,EVER,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_SINCE,endings,SINCE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_OF,endings,OF,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_BELONGS_TO,endings,BELONGS TO,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_AT,endings,AT,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_IN,endings,IN,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_OUT,endings,OUT,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_TOO,endings,TOO,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_LIKE,endings,LIKE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_DID,endings,DID,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_DIDN_T,endings,DIDN'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_DOESN_T,endings,DOESN'T,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WITHOUT,endings,WITHOUT,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_AFTER,endings,AFTER,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_BEFORE,endings,BEFORE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_WHILE,endings,WHILE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_THAN,endings,THAN,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ONCE,endings,ONCE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_ANYWHERE,endings,ANYWHERE,true,src/data/easy_chat/easy_chat_group_endings.h
+EC_WORD_APPEAL,events,APPEAL,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_EVENTS,events,EVENTS,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_STAY_AT_HOME,events,STAY-AT-HOME,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_BERRY,events,BERRY,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_CONTEST,events,CONTEST,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_MC,events,MC,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_JUDGE,events,JUDGE,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_SUPER,events,SUPER,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_STAGE,events,STAGE,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_HALL_OF_FAME,events,HALL OF FAME,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_EVOLUTION,events,EVOLUTION,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_HYPER,events,HYPER,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_BATTLE_TOWER,events,BATTLE TOWER,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_LEADERS,events,LEADERS,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_BATTLE_ROOM,events,BATTLE ROOM,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_HIDDEN,events,HIDDEN,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_SECRET_BASE,events,SECRET BASE,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_BLEND,events,BLEND,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_POKEBLOCK,events,{POKEBLOCK},true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_MASTER,events,MASTER,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_RANK,events,RANK,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_RIBBON,events,RIBBON,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_CRUSH,events,CRUSH,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_DIRECT,events,DIRECT,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_TOWER,events,TOWER,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_UNION,events,UNION,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_ROOM,events,ROOM,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_WIRELESS,events,WIRELESS,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_FRONTIER,events,FRONTIER,true,src/data/easy_chat/easy_chat_group_events.h
+EC_WORD_MEET,feelings,MEET,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_PLAY,feelings,PLAY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_HURRIED,feelings,HURRIED,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_GOES,feelings,GOES,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_GIDDY,feelings,GIDDY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_HAPPY,feelings,HAPPY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_HAPPINESS,feelings,HAPPINESS,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_EXCITE,feelings,EXCITE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_IMPORTANT,feelings,IMPORTANT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_FUNNY,feelings,FUNNY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_GOT,feelings,GOT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_GO_HOME,feelings,GO HOME,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DISAPPOINTED,feelings,DISAPPOINTED,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DISAPPOINTS,feelings,DISAPPOINTS,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_SAD,feelings,SAD,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_TRY,feelings,TRY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_TRIES,feelings,TRIES,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_HEARS,feelings,HEARS,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_THINK,feelings,THINK,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_HEAR,feelings,HEAR,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_WANTS,feelings,WANTS,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_MISHEARD,feelings,MISHEARD,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DISLIKE,feelings,DISLIKE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_ANGRY,feelings,ANGRY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_ANGER,feelings,ANGER,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_SCARY,feelings,SCARY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_LONESOME,feelings,LONESOME,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DISAPPOINT,feelings,DISAPPOINT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_JOY,feelings,JOY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_GETS,feelings,GETS,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_NEVER,feelings,NEVER,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DARN,feelings,DARN,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DOWNCAST,feelings,DOWNCAST,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_INCREDIBLE,feelings,INCREDIBLE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_LIKES,feelings,LIKES,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DISLIKES,feelings,DISLIKES,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_BORING,feelings,BORING,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_CARE,feelings,CARE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_CARES,feelings,CARES,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_ALL_RIGHT,feelings,ALL RIGHT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_ADORE,feelings,ADORE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DISASTER,feelings,DISASTER,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_ENJOY,feelings,ENJOY,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_ENJOYS,feelings,ENJOYS,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_EAT,feelings,EAT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_LACKING,feelings,LACKING,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_BAD,feelings,BAD,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_HARD,feelings,HARD,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_TERRIBLE,feelings,TERRIBLE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_SHOULD,feelings,SHOULD,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_NICE,feelings,NICE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DRINK,feelings,DRINK,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_SURPRISE,feelings,SURPRISE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_FEAR,feelings,FEAR,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_WANT,feelings,WANT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_WAIT,feelings,WAIT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_SATISFIED,feelings,SATISFIED,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_SEE,feelings,SEE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_RARE,feelings,RARE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_NEGATIVE,feelings,NEGATIVE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DONE,feelings,DONE,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DANGER,feelings,DANGER,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_DEFEATED,feelings,DEFEATED,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_BEAT,feelings,BEAT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_GREAT,feelings,GREAT,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_ROMANTIC,feelings,ROMANTIC,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_QUESTION,feelings,QUESTION,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_UNDERSTAND,feelings,UNDERSTAND,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_UNDERSTANDS,feelings,UNDERSTANDS,true,src/data/easy_chat/easy_chat_group_feelings.h
+EC_WORD_THANKS,greetings,THANKS,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_YES,greetings,YES,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HERE_GOES,greetings,HERE GOES,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HERE_I_COME,greetings,HERE I COME,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HERE_IT_IS,greetings,HERE IT IS,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_YEAH,greetings,YEAH,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_WELCOME,greetings,WELCOME,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_OI,greetings,OI,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HOW_DO,greetings,HOW DO,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_CONGRATS,greetings,CONGRATS,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_GIVE_ME,greetings,GIVE ME,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_SORRY,greetings,SORRY,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_APOLOGIZE,greetings,APOLOGIZE,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_FORGIVE,greetings,FORGIVE,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HEY_THERE,greetings,"HEY, THERE",true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HELLO,greetings,HELLO,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_GOOD_BYE,greetings,GOOD-BYE,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_THANK_YOU,greetings,THANK YOU,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_I_VE_ARRIVED,greetings,I'VE ARRIVED,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_PARDON,greetings,PARDON,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_EXCUSE,greetings,EXCUSE,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_SEE_YA,greetings,SEE YA,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_EXCUSE_ME,greetings,EXCUSE ME,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_WELL_THEN,greetings,"WELL, THEN",true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_GO_AHEAD,greetings,GO AHEAD,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_APPRECIATE,greetings,APPRECIATE,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HEY_QUES,greetings,HEY?,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_WHAT_S_UP_QUES,greetings,WHAT'S UP?,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HUH_QUES,greetings,HUH?,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_NO,greetings,NO,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HI,greetings,HI,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_YEAH_YEAH,greetings,"YEAH, YEAH",true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_BYE_BYE,greetings,BYE-BYE,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_MEET_YOU,greetings,MEET YOU,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HEY,greetings,HEY,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_SMELL,greetings,SMELL,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_LISTENING,greetings,LISTENING,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_HOO_HAH,greetings,HOO-HAH,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_YAHOO,greetings,YAHOO,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_YO,greetings,YO,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_COME_OVER,greetings,COME OVER,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_COUNT_ON,greetings,COUNT ON,true,src/data/easy_chat/easy_chat_group_greetings.h
+EC_WORD_IDOL,hobbies,IDOL,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_ANIME,hobbies,ANIME,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_SONG,hobbies,SONG,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_MOVIE,hobbies,MOVIE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_SWEETS,hobbies,SWEETS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_CHAT,hobbies,CHAT,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_CHILD_S_PLAY,hobbies,CHILD'S PLAY,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_TOYS,hobbies,TOYS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_MUSIC,hobbies,MUSIC,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_CARDS,hobbies,CARDS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_SHOPPING,hobbies,SHOPPING,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_CAMERA,hobbies,CAMERA,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_VIEWING,hobbies,VIEWING,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_SPECTATOR,hobbies,SPECTATOR,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_GOURMET,hobbies,GOURMET,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_GAME,hobbies,GAME,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_RPG,hobbies,RPG,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_COLLECTION,hobbies,COLLECTION,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_COMPLETE,hobbies,COMPLETE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_MAGAZINE,hobbies,MAGAZINE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_WALK,hobbies,WALK,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_BIKE,hobbies,BIKE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_HOBBY,hobbies,HOBBY,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_SPORTS,hobbies,SPORTS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_SOFTWARE,hobbies,SOFTWARE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_SONGS,hobbies,SONGS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_DIET,hobbies,DIET,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_TREASURE,hobbies,TREASURE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_TRAVEL,hobbies,TRAVEL,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_DANCE,hobbies,DANCE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_CHANNEL,hobbies,CHANNEL,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_MAKING,hobbies,MAKING,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_FISHING,hobbies,FISHING,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_DATE,hobbies,DATE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_DESIGN,hobbies,DESIGN,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_LOCOMOTIVE,hobbies,LOCOMOTIVE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_PLUSH_DOLL,hobbies,PLUSH DOLL,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_PC,hobbies,PC,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_FLOWERS,hobbies,FLOWERS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_HERO,hobbies,HERO,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_NAP,hobbies,NAP,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_HEROINE,hobbies,HEROINE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_FASHION,hobbies,FASHION,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_ADVENTURE,hobbies,ADVENTURE,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_BOARD,hobbies,BOARD,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_BALL,hobbies,BALL,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_BOOK,hobbies,BOOK,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_FESTIVAL,hobbies,FESTIVAL,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_COMICS,hobbies,COMICS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_HOLIDAY,hobbies,HOLIDAY,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_PLANS,hobbies,PLANS,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_TRENDY,hobbies,TRENDY,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_VACATION,hobbies,VACATION,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_LOOK,hobbies,LOOK,true,src/data/easy_chat/easy_chat_group_hobbies.h
+EC_WORD_CHORES,lifestyle,CHORES,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_HOME,lifestyle,HOME,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_MONEY,lifestyle,MONEY,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_ALLOWANCE,lifestyle,ALLOWANCE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_BATH,lifestyle,BATH,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_CONVERSATION,lifestyle,CONVERSATION,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_SCHOOL,lifestyle,SCHOOL,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_COMMEMORATE,lifestyle,COMMEMORATE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_HABIT,lifestyle,HABIT,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_GROUP,lifestyle,GROUP,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_WORD,lifestyle,WORD,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_STORE,lifestyle,STORE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_SERVICE,lifestyle,SERVICE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_WORK,lifestyle,WORK,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_SYSTEM,lifestyle,SYSTEM,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_TRAIN,lifestyle,TRAIN,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_CLASS,lifestyle,CLASS,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_LESSONS,lifestyle,LESSONS,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_INFORMATION,lifestyle,INFORMATION,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_LIVING,lifestyle,LIVING,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_TEACHER,lifestyle,TEACHER,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_TOURNAMENT,lifestyle,TOURNAMENT,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_LETTER,lifestyle,LETTER,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_EVENT,lifestyle,EVENT,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_DIGITAL,lifestyle,DIGITAL,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_TEST,lifestyle,TEST,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_DEPT_STORE,lifestyle,DEPT. STORE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_TELEVISION,lifestyle,TELEVISION,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_PHONE,lifestyle,PHONE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_ITEM,lifestyle,ITEM,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_NAME,lifestyle,NAME,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_NEWS,lifestyle,NEWS,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_POPULAR,lifestyle,POPULAR,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_PARTY,lifestyle,PARTY,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_STUDY,lifestyle,STUDY,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_MACHINE,lifestyle,MACHINE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_MAIL,lifestyle,MAIL,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_MESSAGE,lifestyle,MESSAGE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_PROMISE,lifestyle,PROMISE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_DREAM,lifestyle,DREAM,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_KINDERGARTEN,lifestyle,KINDERGARTEN,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_LIFE,lifestyle,LIFE,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_RADIO,lifestyle,RADIO,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_RENTAL,lifestyle,RENTAL,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_WORLD,lifestyle,WORLD,true,src/data/easy_chat/easy_chat_group_lifestyle.h
+EC_WORD_HIGHS,misc,HIGHS,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_LOWS,misc,LOWS,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_UM,misc,UM,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_REAR,misc,REAR,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THINGS,misc,THINGS,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THING,misc,THING,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_BELOW,misc,BELOW,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_ABOVE,misc,ABOVE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_BACK,misc,BACK,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_HIGH,misc,HIGH,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_HERE,misc,HERE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_INSIDE,misc,INSIDE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_OUTSIDE,misc,OUTSIDE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_BESIDE,misc,BESIDE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THIS_IS_IT_EXCL,misc,THIS IS IT!,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THIS,misc,THIS,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_EVERY,misc,EVERY,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THESE,misc,THESE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THESE_WERE,misc,THESE WERE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_DOWN,misc,DOWN,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THAT,misc,THAT,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THOSE_ARE,misc,THOSE ARE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THOSE_WERE,misc,THOSE WERE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THAT_S_IT_EXCL,misc,THAT'S IT!,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_AM,misc,AM,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_THAT_WAS,misc,THAT WAS,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_FRONT,misc,FRONT,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_UP,misc,UP,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_CHOICE,misc,CHOICE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_FAR,misc,FAR,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_AWAY,misc,AWAY,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_NEAR,misc,NEAR,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_WHERE,misc,WHERE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_WHEN,misc,WHEN,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_WHAT,misc,WHAT,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_DEEP,misc,DEEP,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_SHALLOW,misc,SHALLOW,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_WHY,misc,WHY,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_CONFUSED,misc,CONFUSED,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_OPPOSITE,misc,OPPOSITE,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_LEFT,misc,LEFT,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_RIGHT,misc,RIGHT,true,src/data/easy_chat/easy_chat_group_misc.h
+EC_WORD_OPPONENT,people,OPPONENT,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_I,people,I,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_YOU,people,YOU,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_YOURS,people,YOURS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SON,people,SON,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_YOUR,people,YOUR,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_YOU_RE,people,YOU'RE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_YOU_VE,people,YOU'VE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_MOTHER,people,MOTHER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_GRANDFATHER,people,GRANDFATHER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_UNCLE,people,UNCLE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_FATHER,people,FATHER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_BOY,people,BOY,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_ADULT,people,ADULT,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_BROTHER,people,BROTHER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SISTER,people,SISTER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_GRANDMOTHER,people,GRANDMOTHER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_AUNT,people,AUNT,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_PARENT,people,PARENT,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_MAN,people,MAN,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_ME,people,ME,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_GIRL,people,GIRL,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_BABE,people,BABE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_FAMILY,people,FAMILY,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_HER,people,HER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_HIM,people,HIM,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_HE,people,HE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_PLACE,people,PLACE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_DAUGHTER,people,DAUGHTER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_HIS,people,HIS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_HE_S,people,HE'S,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_AREN_T,people,AREN'T,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SIBLINGS,people,SIBLINGS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_KID,people,KID,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_CHILDREN,people,CHILDREN,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_MR,people,MR.,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_MRS,people,MRS.,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_MYSELF,people,MYSELF,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_I_WAS,people,I WAS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_TO_ME,people,TO ME,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_MY,people,MY,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_I_AM,people,I AM,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_I_VE,people,I'VE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WHO,people,WHO,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SOMEONE,people,SOMEONE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WHO_WAS,people,WHO WAS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_TO_WHOM,people,TO WHOM,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WHOSE,people,WHOSE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WHO_IS,people,WHO IS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_IT_S,people,IT'S,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_LADY,people,LADY,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_FRIEND,people,FRIEND,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_ALLY,people,ALLY,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_PERSON,people,PERSON,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_DUDE,people,DUDE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_THEY,people,THEY,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_THEY_WERE,people,THEY WERE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_TO_THEM,people,TO THEM,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_THEIR,people,THEIR,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_THEY_RE,people,THEY'RE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_THEY_VE,people,THEY'VE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WE,people,WE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_BEEN,people,BEEN,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_TO_US,people,TO US,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_OUR,people,OUR,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WE_RE,people,WE'RE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_RIVAL,people,RIVAL,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WE_VE,people,WE'VE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_WOMAN,people,WOMAN,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SHE,people,SHE,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SHE_WAS,people,SHE WAS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_TO_HER,people,TO HER,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_HERS,people,HERS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SHE_IS,people,SHE IS,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_SOME,people,SOME,true,src/data/easy_chat/easy_chat_group_people.h
+EC_WORD_LISTEN,speech,LISTEN,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_NOT_VERY,speech,NOT VERY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_MEAN,speech,MEAN,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_LIE,speech,LIE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_LAY,speech,LAY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_RECOMMEND,speech,RECOMMEND,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_NITWIT,speech,NITWIT,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_QUITE,speech,QUITE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_FROM,speech,FROM,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_FEELING,speech,FEELING,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_BUT,speech,BUT,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_HOWEVER,speech,HOWEVER,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_CASE,speech,CASE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_THE,speech,THE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_MISS,speech,MISS,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_HOW,speech,HOW,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_HIT,speech,HIT,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_ENOUGH,speech,ENOUGH,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_A_LOT,speech,A LOT,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_A_LITTLE,speech,A LITTLE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_ABSOLUTELY,speech,ABSOLUTELY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_AND,speech,AND,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_ONLY,speech,ONLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_AROUND,speech,AROUND,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_PROBABLY,speech,PROBABLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_IF,speech,IF,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_VERY,speech,VERY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_A_TINY_BIT,speech,A TINY BIT,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_WILD,speech,WILD,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_THAT_S,speech,THAT'S,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_JUST,speech,JUST,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_EVEN_SO,speech,"EVEN SO,",true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_MUST_BE,speech,MUST BE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_NATURALLY,speech,NATURALLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_FOR_NOW,speech,"FOR NOW,",true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_UNDERSTOOD,speech,UNDERSTOOD,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_JOKING,speech,JOKING,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_READY,speech,READY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_SOMETHING,speech,SOMETHING,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_SOMEHOW,speech,SOMEHOW,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_ALTHOUGH,speech,ALTHOUGH,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_ALSO,speech,ALSO,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_PERFECT,speech,PERFECT,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_AS_MUCH_AS,speech,AS MUCH AS,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_REALLY,speech,REALLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_TRULY,speech,TRULY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_SERIOUSLY,speech,SERIOUSLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_TOTALLY,speech,TOTALLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_UNTIL,speech,UNTIL,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_AS_IF,speech,AS IF,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_MOOD,speech,MOOD,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_RATHER,speech,RATHER,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_AWFULLY,speech,AWFULLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_MODE,speech,MODE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_MORE,speech,MORE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_TOO_LATE,speech,TOO LATE,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_FINALLY,speech,FINALLY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_ANY,speech,ANY,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_INSTEAD,speech,INSTEAD,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_FANTASTIC,speech,FANTASTIC,true,src/data/easy_chat/easy_chat_group_speech.h
+EC_WORD_DARK,status,DARK,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_STENCH,status,STENCH,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_THICK_FAT,status,THICK FAT,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_RAIN_DISH,status,RAIN DISH,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_DRIZZLE,status,DRIZZLE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ARENA_TRAP,status,ARENA TRAP,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_INTIMIDATE,status,INTIMIDATE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ROCK_HEAD,status,ROCK HEAD,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_COLOR,status,COLOR,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ALT_COLOR,status,ALT. COLOR,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ROCK,status,ROCK,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_BEAUTIFUL,status,BEAUTIFUL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_BEAUTY,status,BEAUTY,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_AIR_LOCK,status,AIR LOCK,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_PSYCHIC,status,PSYCHIC,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_HYPER_CUTTER,status,HYPER CUTTER,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_FIGHTING,status,FIGHTING,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SHADOW_TAG,status,SHADOW TAG,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SMART,status,SMART,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SMARTNESS,status,SMARTNESS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SPEED_BOOST,status,SPEED BOOST,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_COOL,status,COOL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_COOLNESS,status,COOLNESS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_BATTLE_ARMOR,status,BATTLE ARMOR,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_CUTE,status,CUTE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_CUTENESS,status,CUTENESS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_STURDY,status,STURDY,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SUCTION_CUPS,status,SUCTION CUPS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_GRASS,status,GRASS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_CLEAR_BODY,status,CLEAR BODY,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_TORRENT,status,TORRENT,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_GHOST,status,GHOST,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ICE,status,ICE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_GUTS,status,GUTS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ROUGH_SKIN,status,ROUGH SKIN,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SHELL_ARMOR,status,SHELL ARMOR,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_NATURAL_CURE,status,NATURAL CURE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_DAMP,status,DAMP,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_GROUND,status,GROUND,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_LIMBER,status,LIMBER,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_MAGNET_PULL,status,MAGNET PULL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_WHITE_SMOKE,status,WHITE SMOKE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SYNCHRONIZE,status,SYNCHRONIZE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_OVERGROW,status,OVERGROW,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SWIFT_SWIM,status,SWIFT SWIM,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SAND_STREAM,status,SAND STREAM,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SAND_VEIL,status,SAND VEIL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_KEEN_EYE,status,KEEN EYE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_INNER_FOCUS,status,INNER FOCUS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_STATIC,status,STATIC,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_TYPE,status,TYPE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_TOUGH,status,TOUGH,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_TOUGHNESS,status,TOUGHNESS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SHED_SKIN,status,SHED SKIN,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_HUGE_POWER,status,HUGE POWER,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_VOLT_ABSORB,status,VOLT ABSORB,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_WATER_ABSORB,status,WATER ABSORB,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ELECTRIC,status,ELECTRIC,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_FORECAST,status,FORECAST,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SERENE_GRACE,status,SERENE GRACE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_POISON,status,POISON,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_POISON_POINT,status,POISON POINT,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_DRAGON,status,DRAGON,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_TRACE,status,TRACE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_OBLIVIOUS,status,OBLIVIOUS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_TRUANT,status,TRUANT,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_RUN_AWAY,status,RUN AWAY,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_STICKY_HOLD,status,STICKY HOLD,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_CLOUD_NINE,status,CLOUD NINE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_NORMAL,status,NORMAL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_STEEL,status,STEEL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_ILLUMINATE,status,ILLUMINATE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_EARLY_BIRD,status,EARLY BIRD,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_HUSTLE,status,HUSTLE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SHINE,status,SHINE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_FLYING,status,FLYING,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_DROUGHT,status,DROUGHT,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_LIGHTNINGROD,status,LIGHTNINGROD,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_COMPOUNDEYES,status,COMPOUNDEYES,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_MARVEL_SCALE,status,MARVEL SCALE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_WONDER_GUARD,status,WONDER GUARD,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_INSOMNIA,status,INSOMNIA,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_LEVITATE,status,LEVITATE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_PLUS,status,PLUS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_PRESSURE,status,PRESSURE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_LIQUID_OOZE,status,LIQUID OOZE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_COLOR_CHANGE,status,COLOR CHANGE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SOUNDPROOF,status,SOUNDPROOF,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_EFFECT_SPORE,status,EFFECT SPORE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_PKRS,status,{PK}RS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_FIRE,status,FIRE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_FLAME_BODY,status,FLAME BODY,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_MINUS,status,MINUS,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_OWN_TEMPO,status,OWN TEMPO,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_MAGMA_ARMOR,status,MAGMA ARMOR,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_WATER,status,WATER,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_WATER_VEIL,status,WATER VEIL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_BUG,status,BUG,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SWARM,status,SWARM,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_CUTE_CHARM,status,CUTE CHARM,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_IMMUNITY,status,IMMUNITY,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_BLAZE,status,BLAZE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_PICKUP,status,PICKUP,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_PATTERN,status,PATTERN,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_FLASH_FIRE,status,FLASH FIRE,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_VITAL_SPIRIT,status,VITAL SPIRIT,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_CHLOROPHYLL,status,CHLOROPHYLL,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_PURE_POWER,status,PURE POWER,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_SHIELD_DUST,status,SHIELD DUST,true,src/data/easy_chat/easy_chat_group_status.h
+EC_WORD_FALL,time,FALL,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_MORNING,time,MORNING,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_TOMORROW,time,TOMORROW,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_LAST,time,LAST,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_DAY,time,DAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_SOMETIME,time,SOMETIME,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_ALWAYS,time,ALWAYS,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_CURRENT,time,CURRENT,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_FOREVER,time,FOREVER,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_DAYS,time,DAYS,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_END,time,END,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_TUESDAY,time,TUESDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_YESTERDAY,time,YESTERDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_TODAY,time,TODAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_FRIDAY,time,FRIDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_MONDAY,time,MONDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_LATER,time,LATER,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_EARLIER,time,EARLIER,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_ANOTHER,time,ANOTHER,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_TIME,time,TIME,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_FINISH,time,FINISH,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_WEDNESDAY,time,WEDNESDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_SOON,time,SOON,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_START,time,START,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_MONTH,time,MONTH,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_STOP,time,STOP,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_NOW,time,NOW,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_FINAL,time,FINAL,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_NEXT,time,NEXT,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_AGE,time,AGE,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_SATURDAY,time,SATURDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_SUMMER,time,SUMMER,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_SUNDAY,time,SUNDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_BEGINNING,time,BEGINNING,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_SPRING,time,SPRING,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_DAYTIME,time,DAYTIME,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_WINTER,time,WINTER,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_DAILY,time,DAILY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_OLDEN,time,OLDEN,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_ALMOST,time,ALMOST,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_NEARLY,time,NEARLY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_THURSDAY,time,THURSDAY,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_NIGHTTIME,time,NIGHTTIME,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_NIGHT,time,NIGHT,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_WEEK,time,WEEK,true,src/data/easy_chat/easy_chat_group_time.h
+EC_WORD_I_CHOOSE_YOU,trainer,I CHOOSE YOU,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_GOTCHA,trainer,GOTCHA,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_TRADE,trainer,TRADE,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_SAPPHIRE,trainer,SAPPHIRE,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_EVOLVE,trainer,EVOLVE,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_ENCYCLOPEDIA,trainer,ENCYCLOPEDIA,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_NATURE,trainer,NATURE,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_CENTER,trainer,CENTER,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_EGG,trainer,EGG,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_LINK,trainer,LINK,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_SP_ABILITY,trainer,SP. ABILITY,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_TRAINER,trainer,TRAINER,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_VERSION,trainer,VERSION,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_POKENAV,trainer,POKéNAV,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_POKEMON,trainer,POKéMON,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_GET,trainer,GET,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_POKEDEX,trainer,POKéDEX,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_RUBY,trainer,RUBY,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_LEVEL,trainer,LEVEL,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_RED,trainer,RED,false,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_GREEN,trainer,GREEN,false,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_BAG,trainer,BAG,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_FLAME,trainer,FLAME,false,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_GOLD,trainer,GOLD,false,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_LEAF,trainer,LEAF,false,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_SILVER,trainer,SILVER,false,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_EMERALD,trainer,EMERALD,true,src/data/easy_chat/easy_chat_group_trainer.h
+EC_WORD_KTHX_BYE,trendy_saying,"KTHX, BYE.",true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_YES_SIR_EXCL,trendy_saying,"YES, SIR!",true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_AVANT_GARDE,trendy_saying,AVANT GARDE,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_COUPLE,trendy_saying,COUPLE,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_MUCH_OBLIGED,trendy_saying,MUCH OBLIGED,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_YEEHAW_EXCL,trendy_saying,YEEHAW!,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_MEGA,trendy_saying,MEGA,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_1_HIT_KO_EXCL,trendy_saying,1-HIT KO!,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_DESTINY,trendy_saying,DESTINY,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_CANCEL,trendy_saying,CANCEL,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_NEW,trendy_saying,NEW,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_FLATTEN,trendy_saying,FLATTEN,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_KIDDING,trendy_saying,KIDDING,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_LOSER,trendy_saying,LOSER,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_LOSING,trendy_saying,LOSING,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_HAPPENING,trendy_saying,HAPPENING,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_HIP_AND,trendy_saying,HIP AND,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_SHAKE,trendy_saying,SHAKE,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_SHADY,trendy_saying,SHADY,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_UPBEAT,trendy_saying,UPBEAT,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_MODERN,trendy_saying,MODERN,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_SMELL_YA,trendy_saying,SMELL YA,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_BANG,trendy_saying,BANG,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_KNOCKOUT,trendy_saying,KNOCKOUT,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_HASSLE,trendy_saying,HASSLE,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_WINNER,trendy_saying,WINNER,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_FEVER,trendy_saying,FEVER,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_WANNABE,trendy_saying,WANNABE,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_BABY,trendy_saying,BABY,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_HEART,trendy_saying,HEART,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_OLD,trendy_saying,OLD,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_YOUNG,trendy_saying,YOUNG,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_UGLY,trendy_saying,UGLY,true,src/data/easy_chat/easy_chat_group_trendy_saying.h
+EC_WORD_EXCL,voices,!,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_EXCL_EXCL,voices,!!,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_QUES_EXCL,voices,?!,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_QUES,voices,?,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_ELLIPSIS,voices,…,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_ELLIPSIS_EXCL,voices,…!,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_ELLIPSIS_ELLIPSIS_ELLIPSIS,voices,………,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_DASH,voices,-,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_DASH_DASH_DASH,voices,- - -,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_UH_OH,voices,UH-OH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_WAAAH,voices,WAAAH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_AHAHA,voices,AHAHA,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OH_QUES,voices,OH?,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_NOPE,voices,NOPE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_URGH,voices,URGH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HMM,voices,HMM,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_WHOAH,voices,WHOAH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_WROOOAAR_EXCL,voices,WROOOAAR!,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_WOW,voices,WOW,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_GIGGLE,voices,GIGGLE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_SIGH,voices,SIGH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_UNBELIEVABLE,voices,UNBELIEVABLE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_CRIES,voices,CRIES,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_AGREE,voices,AGREE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_EH_QUES,voices,EH?,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_CRY,voices,CRY,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_EHEHE,voices,EHEHE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OI_OI_OI,voices,"OI, OI, OI",true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OH_YEAH,voices,"OH, YEAH",true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OH,voices,OH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OOPS,voices,OOPS,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_SHOCKED,voices,SHOCKED,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_EEK,voices,EEK,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_GRAAAH,voices,GRAAAH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_GWAHAHAHA,voices,GWAHAHAHA,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_WAY,voices,WAY,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_TCH,voices,TCH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HEHE,voices,HEHE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HAH,voices,HAH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_YUP,voices,YUP,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HAHAHA,voices,HAHAHA,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_AIYEEH,voices,AIYEEH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HIYAH,voices,HIYAH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_FUFUFU,voices,FUFUFU,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_LOL,voices,LOL,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_SNORT,voices,SNORT,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HUMPH,voices,HUMPH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HEHEHE,voices,HEHEHE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HEH,voices,HEH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_HOHOHO,voices,HOHOHO,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_UH_HUH,voices,UH-HUH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OH_DEAR,voices,"OH, DEAR",true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_ARRGH,voices,ARRGH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_MUFUFU,voices,MUFUFU,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_MMM,voices,MMM,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OH_KAY,voices,OH-KAY,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_OKAY,voices,OKAY,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_LALALA,voices,LALALA,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_YAY,voices,YAY,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_AWW,voices,AWW,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_WOWEE,voices,WOWEE,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_GWAH,voices,GWAH,true,src/data/easy_chat/easy_chat_group_voices.h
+EC_WORD_WAHAHAHA,voices,WAHAHAHA,true,src/data/easy_chat/easy_chat_group_voices.h

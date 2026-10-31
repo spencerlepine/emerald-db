@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f3f2ed">
+    <title>Emerald Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <a class="brand" href="/" data-route>
+          <span class="brand-mark" aria-hidden="true">GW</span>
+          <span><strong>GROUND WARS</strong><small>GALACTIC ARCHIVE</small></span>
+        </a>
+        <form class="search-form" id="search-form" role="search">
+          <label class="sr-only" for="global-search">Search the archive</label>
+          <span aria-hidden="true">⌕</span>
+          <input id="global-search" type="search" placeholder="Search the archive" autocomplete="off">
+          <kbd>↵</kbd>
+        </form>
+        <nav class="primary-nav" aria-label="Main navigation">
+          <a href="/" data-route class="nav-link" data-nav="home"><span>◫</span>Overview</a>
+          <a href="/entities" data-route class="nav-link" data-nav="entities"><span>◉</span>Entities</a>
+          <a href="/timeline" data-route class="nav-link" data-nav="timeline"><span>⌁</span>Story timeline</a>
+        </nav>
+        <div class="sidebar-section">
+          <div class="section-label">DATABASE TABLES</div>
+          <nav id="table-nav" class="table-nav" aria-label="Database tables"></nav>
+        </div>
+        <div class="sidebar-footer"><span class="status-dot"></span> LOCAL DATABASE <span id="record-total">...</span></div>
+      </aside>
+      <main class="main-area">
+        <header class="topbar">
+          <div id="breadcrumbs" class="breadcrumbs"></div>
+          <div class="topbar-meta"><span>STAR WARS</span><span class="meta-divider"></span><span>REFERENCE ARCHIVE</span></div>
+        </header>
+        <div id="content" class="content" aria-live="polite"></div>
+      </main>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,1960 @@
+trainer_id,role,text_id,script_id,text
+trainer:charlie,intro,AbandonedShip_Corridors_1F_Text_CharlieIntro,AbandonedShip_Corridors_1F_EventScript_Charlie,What's so funny about having my inner tube aboard the ship?
+trainer:charlie,defeat,AbandonedShip_Corridors_1F_Text_CharlieDefeat,AbandonedShip_Corridors_1F_EventScript_Charlie,"Whoa, you overwhelmed me!"
+trainer:duncan,intro,AbandonedShip_Corridors_B1F_Text_DuncanIntro,AbandonedShip_Corridors_B1F_EventScript_Duncan,"When we go out to sea, we SAILORS always bring our POKéMON. How about a quick battle?"
+trainer:duncan,defeat,AbandonedShip_Corridors_B1F_Text_DuncanDefeat,AbandonedShip_Corridors_B1F_EventScript_Duncan,"Whoops, I'm sunk!"
+trainer:kira-and-dan-1,intro,AbandonedShip_Rooms2_1F_Text_DanIntro,AbandonedShip_Rooms2_1F_EventScript_Dan,"DAN: While searching for treasures, we discovered a TRAINER!"
+trainer:kira-and-dan-1,defeat,AbandonedShip_Rooms2_1F_Text_DanDefeat,AbandonedShip_Rooms2_1F_EventScript_Dan,DAN: We couldn't win even though we worked together…
+trainer:kira-and-dan-1,not_enough_pokemon,AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons,AbandonedShip_Rooms2_1F_EventScript_Dan,DAN: You don't even have two POKéMON. You can't expect to beat us like that.
+trainer:kira-and-dan-1,intro,AbandonedShip_Rooms2_1F_Text_DanRematchIntro,AbandonedShip_Rooms2_1F_EventScript_DanRematch,"DAN: We've been searching for treasures all this time.
+
+Our POKéMON have grown stronger, too. Let us show you, okay?"
+trainer:kira-and-dan-1,defeat,AbandonedShip_Rooms2_1F_Text_DanRematchDefeat,AbandonedShip_Rooms2_1F_EventScript_DanRematch,"DAN: You're strong, as usual!"
+trainer:kira-and-dan-1,not_enough_pokemon,AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons,AbandonedShip_Rooms2_1F_EventScript_DanRematch,DAN: You don't even have two POKéMON. You can't expect to beat us like that.
+trainer:kira-and-dan-1,intro,AbandonedShip_Rooms2_1F_Text_KiraIntro,AbandonedShip_Rooms2_1F_EventScript_Kira,KIRA: Oh? We were searching for treasures. But we discovered a TRAINER instead!
+trainer:kira-and-dan-1,defeat,AbandonedShip_Rooms2_1F_Text_KiraDefeat,AbandonedShip_Rooms2_1F_EventScript_Kira,"KIRA: Ooh, so strong!"
+trainer:kira-and-dan-1,not_enough_pokemon,AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons,AbandonedShip_Rooms2_1F_EventScript_Kira,"KIRA: Oh, you don't have two POKéMON? We'll have to battle some other time!"
+trainer:kira-and-dan-1,intro,AbandonedShip_Rooms2_1F_Text_KiraRematchIntro,AbandonedShip_Rooms2_1F_EventScript_KiraRematch,"KIRA: Oh? We meet again!
+
+Just like us, you still haven't given up searching for treasures, have you?
+
+Want to make it so the loser has to give up searching?"
+trainer:kira-and-dan-1,defeat,AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat,AbandonedShip_Rooms2_1F_EventScript_KiraRematch,"KIRA: Oh, we lost again…"
+trainer:kira-and-dan-1,not_enough_pokemon,AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons,AbandonedShip_Rooms2_1F_EventScript_KiraRematch,"KIRA: Oh, you don't have two POKéMON? We'll have to battle some other time!"
+trainer:jani,intro,AbandonedShip_Rooms2_1F_Text_JaniIntro,AbandonedShip_Rooms2_1F_EventScript_Jani,"I'm not good at swimming, but I am good at battles!"
+trainer:jani,defeat,AbandonedShip_Rooms2_1F_Text_JaniDefeat,AbandonedShip_Rooms2_1F_EventScript_Jani,Oops. That didn't go very well.
+trainer:garrison,intro,AbandonedShip_Rooms2_1F_Text_GarrisonIntro,AbandonedShip_Rooms2_1F_EventScript_Garrison,Strength and compassion… Those are a TRAINER's treasures!
+trainer:garrison,defeat,AbandonedShip_Rooms2_1F_Text_GarrisonDefeat,AbandonedShip_Rooms2_1F_EventScript_Garrison,"Ah, there is something about you that sparkles."
+trainer:demetrius,intro,AbandonedShip_Rooms_1F_Text_DemetriusIntro,AbandonedShip_Rooms_1F_EventScript_Demetrius,Waaah! I've been found! …Huh?
+trainer:demetrius,defeat,AbandonedShip_Rooms_1F_Text_DemetriusDefeat,AbandonedShip_Rooms_1F_EventScript_Demetrius,"Oh, you're not my mom."
+trainer:thalia-1,intro,AbandonedShip_Rooms_1F_Text_ThaliaIntro,AbandonedShip_Rooms_1F_EventScript_Thalia,What on earth would compel you to come here? You must be curious!
+trainer:thalia-1,defeat,AbandonedShip_Rooms_1F_Text_ThaliaDefeat,AbandonedShip_Rooms_1F_EventScript_Thalia,"Not just curious, but also strong…"
+trainer:thalia-1,intro,AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro,AbandonedShip_Rooms_1F_EventScript_ThaliaRematch,What on earth would compel you to come back? You must really be curious!
+trainer:thalia-1,defeat,AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat,AbandonedShip_Rooms_1F_EventScript_ThaliaRematch,Aren't you too strong?
+trainer:grunt-aqua-hideout-1,intro,AquaHideout_1F_Text_Grunt1Intro,AquaHideout_1F_EventScript_Grunt1,Ayiyiyi! Suspicious character spotted!
+trainer:grunt-aqua-hideout-1,defeat,AquaHideout_1F_Text_Grunt1Defeat,AquaHideout_1F_EventScript_Grunt1,Grrrrr… I lost it!
+trainer:grunt-aqua-hideout-2,intro,AquaHideout_B1F_Text_Grunt2Intro,AquaHideout_B1F_EventScript_Grunt2,"If you want to know the secret about our HIDEOUT, you have me to beat!"
+trainer:grunt-aqua-hideout-2,defeat,AquaHideout_B1F_Text_Grunt2Defeat,AquaHideout_B1F_EventScript_Grunt2,I can't win at all…
+trainer:grunt-aqua-hideout-3,intro,AquaHideout_B1F_Text_Grunt3Intro,AquaHideout_B1F_EventScript_Grunt3,"Fuel supply loaded A-OK! In-cruise snacks loaded A-OK!
+
+Nothing left to do but KO a pesky meddler!"
+trainer:grunt-aqua-hideout-3,defeat,AquaHideout_B1F_Text_Grunt3Defeat,AquaHideout_B1F_EventScript_Grunt3,I took a serious licking!
+trainer:grunt-aqua-hideout-5,intro,AquaHideout_B1F_Text_Grunt5Intro,AquaHideout_B1F_EventScript_Grunt5,Yawn… Keeping watch over the HIDEOUT bores me. I'll take you on.
+trainer:grunt-aqua-hideout-5,defeat,AquaHideout_B1F_Text_Grunt5Defeat,AquaHideout_B1F_EventScript_Grunt5,"Yawn… Oh, I lost…"
+trainer:grunt-aqua-hideout-7,intro,AquaHideout_B1F_Text_Grunt7Intro,AquaHideout_B1F_EventScript_Grunt7,"Hey! You there!
+
+Which do you think is cooler? TEAM AQUA's uniform or TEAM MAGMA's?"
+trainer:grunt-aqua-hideout-7,defeat,AquaHideout_B1F_Text_Grunt7Defeat,AquaHideout_B1F_EventScript_Grunt7,I lost in a cool way…
+trainer:matt,intro,AquaHideout_B2F_Text_MattIntro,AquaHideout_B2F_EventScript_Matt,"Hehehe…
+
+Got here already, did you? We underestimated you!
+
+But this is it!
+
+I'm a cut above the GRUNTS you've seen so far.
+
+I'm not stalling for time. I'm going to pulverize you!"
+trainer:matt,defeat,AquaHideout_B2F_Text_MattDefeat,AquaHideout_B2F_EventScript_Matt,"Hehehe… So, I lost, too…"
+trainer:grunt-aqua-hideout-4,intro,AquaHideout_B2F_Text_Grunt4Intro,AquaHideout_B2F_EventScript_Grunt4,"Wahahah, I grew weary of waiting! You owe me a battle, too!"
+trainer:grunt-aqua-hideout-4,defeat,AquaHideout_B2F_Text_Grunt4Defeat,AquaHideout_B2F_EventScript_Grunt4,Tired of waiting… Lost and dazed…
+trainer:grunt-aqua-hideout-6,intro,AquaHideout_B2F_Text_Grunt6Intro,AquaHideout_B2F_EventScript_Grunt6,"Warp panels, the HIDEOUT's pride and joy!
+
+You're clueless about where you are, aren't you?
+
+Fluster and tire out the enemy, then lower the boom! That's our plan!"
+trainer:grunt-aqua-hideout-6,defeat,AquaHideout_B2F_Text_Grunt6Defeat,AquaHideout_B2F_EventScript_Grunt6,What's wrong with you? You're not tired at all!
+trainer:grunt-aqua-hideout-8,intro,AquaHideout_B2F_Text_Grunt8Intro,AquaHideout_B2F_EventScript_Grunt8,"When I joined TEAM AQUA, the first thing I had to learn was how these warp panels connected."
+trainer:grunt-aqua-hideout-8,defeat,AquaHideout_B2F_Text_Grunt8Defeat,AquaHideout_B2F_EventScript_Grunt8,I was too occupied thinking about the warp panels…
+trainer:phillip,defeat,BattleFacility_TrainerBattle_PlaceholderText,BattlePyramid_TrainerBattle,This is a sample message.
+trainer:brawly-1,intro,DewfordTown_Gym_Text_BrawlyIntro,DewfordTown_Gym_EventScript_Brawly,"I'm BRAWLY! DEWFORD's GYM LEADER!
+
+I've been churned in the rough waves of these parts, and I've grown tough in the pitch-black cave!
+
+So you wanted to challenge me? Let me see what you're made of!"
+trainer:brawly-1,defeat,DewfordTown_Gym_Text_BrawlyDefeat,DewfordTown_Gym_EventScript_Brawly,"Whoah, wow! You made a much bigger splash than I expected!
+
+You swamped me!
+
+Okay, you've got me. Take this GYM BADGE!"
+trainer:brawly-1,intro,DewfordTown_Gym_Text_BrawlyPreRematch,DewfordTown_Gym_EventScript_BrawlyRematch,"BRAWLY: A wave may draw back, but it always returns to the shore.
+
+A giant wave of a talent like you… I knew you would return!
+
+Show me how much higher you've gone!"
+trainer:brawly-1,defeat,DewfordTown_Gym_Text_BrawlyRematchDefeat,DewfordTown_Gym_EventScript_BrawlyRematch,Wow! Swamped again!
+trainer:brawly-1,not_enough_pokemon,DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons,DewfordTown_Gym_EventScript_BrawlyRematch,"BRAWLY: A wave may draw back, but it always returns to the shore.
+
+A giant wave of a talent like you… I knew you would return!
+
+Oh? You only have one POKéMON that can battle.
+
+I'm sorry, but I'd like you to come back with at least two POKéMON."
+trainer:takao,intro,DewfordTown_Gym_Text_TakaoIntro,DewfordTown_Gym_EventScript_Takao,Might is right! Come on!
+trainer:takao,defeat,DewfordTown_Gym_Text_TakaoDefeat,DewfordTown_Gym_EventScript_Takao,Not enough power…
+trainer:jocelyn,intro,DewfordTown_Gym_Text_JocelynIntro,DewfordTown_Gym_EventScript_Jocelyn,"There's no need for BRAWLY to be involved!
+
+I'll crush you!"
+trainer:jocelyn,defeat,DewfordTown_Gym_Text_JocelynDefeat,DewfordTown_Gym_EventScript_Jocelyn,But… How? How could I lose so easily?
+trainer:laura,intro,DewfordTown_Gym_Text_LauraIntro,DewfordTown_Gym_EventScript_Laura,Don't you dare brush me off! It's not my fault if you cry!
+trainer:laura,defeat,DewfordTown_Gym_Text_LauraDefeat,DewfordTown_Gym_EventScript_Laura,Waaaaaaah! I lost!
+trainer:brenden,intro,DewfordTown_Gym_Text_BrendenIntro,DewfordTown_Gym_EventScript_Brenden,I'll show you the gumption of a sailing man!
+trainer:brenden,defeat,DewfordTown_Gym_Text_BrendenDefeat,DewfordTown_Gym_EventScript_Brenden,How'd this happen? It's not like me to lose this way!
+trainer:cristian,intro,DewfordTown_Gym_Text_CristianIntro,DewfordTown_Gym_EventScript_Cristian,"If you mean to pass, it has to be through me!"
+trainer:cristian,defeat,DewfordTown_Gym_Text_CristianDefeat,DewfordTown_Gym_EventScript_Cristian,Grrrrr! Vastly overpowered!
+trainer:lilith,intro,DewfordTown_Gym_Text_LilithIntro,DewfordTown_Gym_EventScript_Lilith,Ufufu… Are you stumbling around in the dark?
+trainer:lilith,defeat,DewfordTown_Gym_Text_LilithDefeat,DewfordTown_Gym_EventScript_Lilith,"Oh, you… I don't want to know you!"
+trainer:wallace,defeat,EverGrandeCity_ChampionsRoom_Text_Defeat,EverGrandeCity_ChampionsRoom_EventScript_Wallace,"I, the CHAMPION, fall in defeat…
+
+That was wonderful work. You were elegant, infuriatingly so. And yet it was utterly glorious!
+
+Kudos to you, {PLAYER}{KUN}!
+
+You are a truly noble POKéMON TRAINER!"
+trainer:drake,defeat,EverGrandeCity_DrakesRoom_Text_Defeat,EverGrandeCity_DrakesRoom_EventScript_Drake,"Superb, it should be said."
+trainer:glacia,defeat,EverGrandeCity_GlaciasRoom_Text_Defeat,EverGrandeCity_GlaciasRoom_EventScript_Glacia,"You and your POKéMON… How hot your spirits burn!
+
+The all-consuming heat overwhelms.
+
+It's no surprise that my icy skills failed to harm you."
+trainer:phoebe,defeat,EverGrandeCity_PhoebesRoom_Text_Defeat,EverGrandeCity_PhoebesRoom_EventScript_Phoebe,"Oh, darn. I've gone and lost."
+trainer:sidney,defeat,EverGrandeCity_SidneysRoom_Text_Defeat,EverGrandeCity_SidneysRoom_EventScript_Sidney,"Well, how do you like that? I lost! Eh, it was fun, so it doesn't matter."
+trainer:winona-1,intro,FortreeCity_Gym_Text_WinonaIntro,FortreeCity_Gym_EventScript_Winona,"I am WINONA. I am the LEADER of the FORTREE POKéMON GYM.
+
+I have become one with BIRD POKéMON and have soared the skies…
+
+However grueling the battle, we have triumphed with grace…
+
+Witness the elegant choreography of BIRD POKéMON and I!"
+trainer:winona-1,defeat,FortreeCity_Gym_Text_WinonaDefeat,FortreeCity_Gym_EventScript_Winona,"Never before have I seen a TRAINER command POKéMON with more grace than I…
+
+In recognition of your prowess, I present to you this GYM BADGE."
+trainer:winona-1,intro,FortreeCity_Gym_Text_WinonaPreRematch,FortreeCity_Gym_EventScript_WinonaRematch,"WINONA: We humans can never escape gravity's pull on the ground.
+
+But by striving for excellence, we have the power to soar!
+
+You have scaled the pinnacle as the reigning CHAMPION.
+
+Please, allow me to see your power at full flight!"
+trainer:winona-1,defeat,FortreeCity_Gym_Text_WinonaRematchDefeat,FortreeCity_Gym_EventScript_WinonaRematch,I failed to reach your height again…
+trainer:winona-1,not_enough_pokemon,FortreeCity_Gym_Text_WinonaRematchNeedTwoMons,FortreeCity_Gym_EventScript_WinonaRematch,"WINONA: We humans can never escape gravity's pull on the ground.
+
+But by striving for excellence, we have the power to soar!
+
+You have scaled the pinnacle as the reigning CHAMPION.
+
+Please, allow me to see your power at full flight!
+
+Oh, no… Do you have but one POKéMON with you?
+
+Please return with two POKéMON at the very least."
+trainer:jared,intro,FortreeCity_Gym_Text_JaredIntro,FortreeCity_Gym_EventScript_Jared,Behold the elegant battle style of BIRD POKéMON!
+trainer:jared,defeat,FortreeCity_Gym_Text_JaredDefeat,FortreeCity_Gym_EventScript_Jared,You… You're strong…
+trainer:edwardo,intro,FortreeCity_Gym_Text_EdwardoIntro,FortreeCity_Gym_EventScript_Edwardo,"The lovers of BIRD POKéMON aspire to join this GYM.
+
+As a member of the FORTREE GYM, I'm not allowed to lose!"
+trainer:edwardo,defeat,FortreeCity_Gym_Text_EdwardoDefeat,FortreeCity_Gym_EventScript_Edwardo,It was too much of a load for me to bear…
+trainer:flint,intro,FortreeCity_Gym_Text_FlintIntro,FortreeCity_Gym_EventScript_Flint,"There's no need for WINONA, our GYM LEADER, to deal with you!
+
+I'm plenty good enough for you!"
+trainer:flint,defeat,FortreeCity_Gym_Text_FlintDefeat,FortreeCity_Gym_EventScript_Flint,"WINONA, I… I lost!"
+trainer:ashley,intro,FortreeCity_Gym_Text_AshleyIntro,FortreeCity_Gym_EventScript_Ashley,WINONA taught me personally! You can't beat me easily!
+trainer:ashley,defeat,FortreeCity_Gym_Text_AshleyDefeat,FortreeCity_Gym_EventScript_Ashley,I was beaten…
+trainer:humberto,intro,FortreeCity_Gym_Text_HumbertoIntro,FortreeCity_Gym_EventScript_Humberto,"When WINONA takes to battle, her face shines with beautiful determination…
+
+I'm not letting you witness that lovely sight!"
+trainer:humberto,defeat,FortreeCity_Gym_Text_HumbertoDefeat,FortreeCity_Gym_EventScript_Humberto,Urk! I couldn't stop you.
+trainer:darius,intro,FortreeCity_Gym_Text_DariusIntro,FortreeCity_Gym_EventScript_Darius,"You'd better know that there are all sorts of FLYING-type POKéMON.
+
+You do know that, right?"
+trainer:darius,defeat,FortreeCity_Gym_Text_DariusDefeat,FortreeCity_Gym_EventScript_Darius,You seem to know your stuff!
+trainer:grunt-jagged-pass,defeat,JaggedPass_Text_GruntDefeat,JaggedPass_EventScript_MagmaHideoutGuard,"Urrrgh…
+
+I should've ducked into our HIDEOUT right away…"
+trainer:eric,intro,JaggedPass_Text_EricIntro,JaggedPass_EventScript_Eric,"MT. CHIMNEY's JAGGED PASS…
+
+Now this is what I've always wanted in a mountain.
+
+This jagged bumpiness… It rocks my soul!"
+trainer:eric,defeat,JaggedPass_Text_EricDefeat,JaggedPass_EventScript_Eric,Losing left me bitter!
+trainer:diana-1,intro,JaggedPass_Text_DianaIntro,JaggedPass_EventScript_Diana,This place isn't your casual hike. It's not suited for a picnic.
+trainer:diana-1,defeat,JaggedPass_Text_DianaDefeat,JaggedPass_EventScript_Diana,"Ohhh, no! The ground is too bumpy…"
+trainer:diana-1,intro,JaggedPass_Text_DianaRematchIntro,JaggedPass_EventScript_DianaRematch,Picnics are fun wherever you go. Just like POKéMON!
+trainer:diana-1,defeat,JaggedPass_Text_DianaRematchDefeat,JaggedPass_EventScript_DianaRematch,I only lost because the ground is too bumpy!
+trainer:ethan-1,intro,JaggedPass_Text_EthanIntro,JaggedPass_EventScript_Ethan,JAGGED PASS is hard to walk on. It's a good place for training.
+trainer:ethan-1,defeat,JaggedPass_Text_EthanDefeat,JaggedPass_EventScript_Ethan,It was all over while we were still trying to find a good footing…
+trainer:ethan-1,intro,JaggedPass_Text_EthanRematchIntro,JaggedPass_EventScript_EthanRematch,I got used to this bumpiness. I sing while I climb now.
+trainer:ethan-1,defeat,JaggedPass_Text_EthanRematchDefeat,JaggedPass_EventScript_EthanRematch,It's still not easy to battle on this bumpy ground…
+trainer:julio,intro,JaggedPass_Text_JulioIntro,JaggedPass_EventScript_Julio,Aiyeeh! It's awfully scary to shoot down the mountain in one go!
+trainer:julio,defeat,JaggedPass_Text_JulioDefeat,JaggedPass_EventScript_Julio,I feel like I'm falling apart…
+trainer:autumn,intro,JaggedPass_Text_AutumnIntro,JaggedPass_EventScript_Autumn,I climb this hill every day. I have confidence in my strength!
+trainer:autumn,defeat,JaggedPass_Text_AutumnDefeat,JaggedPass_EventScript_Autumn,Hmm… What went wrong?
+trainer:flannery-1,intro,LavaridgeTown_Gym_1F_Text_FlanneryIntro,LavaridgeTown_Gym_1F_EventScript_Flannery,"Welcome… No, wait.
+
+Puny TRAINER, how good to see you've made it here!
+
+I have been entrusted with the… No, wait.
+
+I am FLANNERY, and I'm the GYM LEADER here!
+
+Uh… Dare not underestimate me, though I have been LEADER only a short time!
+
+With skills inherited from my grand- father, I shall, uh…demonstrate the hot moves we have honed on this land!"
+trainer:flannery-1,defeat,LavaridgeTown_Gym_1F_Text_FlanneryDefeat,LavaridgeTown_Gym_1F_EventScript_Flannery,"Oh… I guess I was trying too hard…
+
+I… I've only recently become a GYM LEADER.
+
+I tried too hard to be someone I'm not.
+
+I have to do things my natural way. If I don't, my POKéMON will be confused.
+
+Thanks for teaching me that. For that, you deserve this."
+trainer:flannery-1,intro,LavaridgeTown_Gym_1F_Text_FlanneryPreRematch,LavaridgeTown_Gym_1F_EventScript_FlanneryRematch,"FLANNERY: Losing a battle isn't going to deflate me.
+
+I love POKéMON. I love to battle. And… I love this GYM!
+
+Let's exchange superhot moves in another battle!"
+trainer:flannery-1,defeat,LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat,LavaridgeTown_Gym_1F_EventScript_FlanneryRematch,Whew! On the verge of eruption!
+trainer:flannery-1,not_enough_pokemon,LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons,LavaridgeTown_Gym_1F_EventScript_FlanneryRematch,"FLANNERY: Losing a battle isn't going to deflate me.
+
+I love POKéMON. I love to battle. And… I love this GYM!
+
+Let's exchange superhot moves in another battle!
+
+Oh, wait. Do you only have one POKéMON that can battle?
+
+I hate to say this, but when you come see me, bring at least two POKéMON."
+trainer:cole,defeat,LavaridgeTown_Gym_1F_Text_ColeIntro,LavaridgeTown_Gym_1F_EventScript_Cole,"Owowowowow! Yikes, it's hot!"
+trainer:axle,defeat,LavaridgeTown_Gym_1F_Text_AxleIntro,LavaridgeTown_Gym_1F_EventScript_Axle,I'm trying to relieve my stress. Don't come along and stress me out!
+trainer:keegan,defeat,LavaridgeTown_Gym_B1F_Text_KeeganIntro,LavaridgeTown_Gym_B1F_EventScript_Keegan,"You must be getting tired by now. You'd like to rest in the hot sand, wouldn't you?
+
+But you should know that maintaining your willpower is an important ability for all TRAINERS."
+trainer:danielle,defeat,LavaridgeTown_Gym_1F_Text_DanielleIntro,LavaridgeTown_Gym_1F_EventScript_Danielle,"Um… Okay, I'll battle with you."
+trainer:gerald,defeat,LavaridgeTown_Gym_1F_Text_GeraldIntro,LavaridgeTown_Gym_1F_EventScript_Gerald,Can your POKéMON withstand 392-degree heat?
+trainer:jace,defeat,LavaridgeTown_Gym_B1F_Text_JaceIntro,LavaridgeTown_Gym_B1F_EventScript_Jace,"Come on, get with it! Let's go before my feelings cool!"
+trainer:jeff,defeat,LavaridgeTown_Gym_B1F_Text_JeffIntro,LavaridgeTown_Gym_B1F_EventScript_Jeff,See how the flames blaze wildly? They flare in anticipation of my win!
+trainer:eli,defeat,LavaridgeTown_Gym_B1F_Text_EliIntro,LavaridgeTown_Gym_B1F_EventScript_Eli,"As much as I love mountains, I especially love volcanoes."
+trainer:may-lilycove-treecko,defeat,LilycoveCity_Text_MayDefeat,LilycoveCity_EventScript_BattleMayTreecko,"… … … … … … … …
+
+I remember the battle I had with you, {PLAYER}{KUN}, on ROUTE 103.
+
+That battle helped you become this strong, {PLAYER}{KUN}, didn't it?"
+trainer:may-lilycove-torchic,defeat,LilycoveCity_Text_MayDefeat,LilycoveCity_EventScript_BattleMayTorchic,"… … … … … … … …
+
+I remember the battle I had with you, {PLAYER}{KUN}, on ROUTE 103.
+
+That battle helped you become this strong, {PLAYER}{KUN}, didn't it?"
+trainer:may-lilycove-mudkip,defeat,LilycoveCity_Text_MayDefeat,LilycoveCity_EventScript_BattleMayMudkip,"… … … … … … … …
+
+I remember the battle I had with you, {PLAYER}{KUN}, on ROUTE 103.
+
+That battle helped you become this strong, {PLAYER}{KUN}, didn't it?"
+trainer:brendan-lilycove-treecko,defeat,LilycoveCity_Text_BrendanDefeat,LilycoveCity_EventScript_BattleBrendanTreecko,"Humph… You've done a lot of raising.
+
+That stings a bit--I had a head start on you as a TRAINER…"
+trainer:brendan-lilycove-torchic,defeat,LilycoveCity_Text_BrendanDefeat,LilycoveCity_EventScript_BattleBrendanTorchic,"Humph… You've done a lot of raising.
+
+That stings a bit--I had a head start on you as a TRAINER…"
+trainer:brendan-lilycove-mudkip,defeat,LilycoveCity_Text_BrendanDefeat,LilycoveCity_EventScript_BattleBrendanMudkip,"Humph… You've done a lot of raising.
+
+That stings a bit--I had a head start on you as a TRAINER…"
+trainer:grunt-magma-hideout-1,intro,MagmaHideout_1F_Text_Grunt1Intro,MagmaHideout_1F_EventScript_Grunt1,"When TEAM MAGMA has roll call, we get important guarding assignments in the order that we line up.
+
+That's why I'm stuck off in this corner. I'm always late to roll call!"
+trainer:grunt-magma-hideout-1,defeat,MagmaHideout_1F_Text_Grunt1Defeat,MagmaHideout_1F_EventScript_Grunt1,"I'm always late for training sessions, too!
+
+I hate to say it, but I'm wimpy…"
+trainer:grunt-magma-hideout-2,intro,MagmaHideout_1F_Text_Grunt2Intro,MagmaHideout_1F_EventScript_Grunt2,"Our leader told us to dig into MT. CHIMNEY, so we dug and dug.
+
+And in the course of digging, we came across something that blew our minds!
+
+What did we find?
+
+Fuhahaha! I'll tell you if you beat me!"
+trainer:grunt-magma-hideout-2,defeat,MagmaHideout_1F_Text_Grunt2Defeat,MagmaHideout_1F_EventScript_Grunt2,Arrgh! Taken down!
+trainer:grunt-magma-hideout-14,intro,MagmaHideout_2F_1R_Text_Grunt14Intro,MagmaHideout_2F_1R_EventScript_Grunt14,"What, what, what?
+
+Only TEAM MAGMA members are supposed to be in here!
+
+But you're not dressed in TEAM MAGMA's uniform…
+
+You rouse my suspicion! Battle with me!"
+trainer:grunt-magma-hideout-14,defeat,MagmaHideout_2F_1R_Text_Grunt14Defeat,MagmaHideout_2F_1R_EventScript_Grunt14,Aiyiyi… My pride as a TEAM MAGMA member…
+trainer:grunt-magma-hideout-3,intro,MagmaHideout_2F_1R_Text_Grunt3Intro,MagmaHideout_2F_1R_EventScript_Grunt3,"Hold it right there!
+
+You don't really expect me to keep my trap shut and let you waltz by me?"
+trainer:grunt-magma-hideout-3,defeat,MagmaHideout_2F_1R_Text_Grunt3Defeat,MagmaHideout_2F_1R_EventScript_Grunt3,Ooh wow! I concede!
+trainer:grunt-magma-hideout-4,intro,MagmaHideout_2F_1R_Text_Grunt4Intro,MagmaHideout_2F_1R_EventScript_Grunt4,Ahah! An intruder!
+trainer:grunt-magma-hideout-4,defeat,MagmaHideout_2F_1R_Text_Grunt4Defeat,MagmaHideout_2F_1R_EventScript_Grunt4,Graaah!
+trainer:grunt-magma-hideout-5,intro,MagmaHideout_2F_1R_Text_Grunt5Intro,MagmaHideout_2F_1R_EventScript_Grunt5,"Oh, oh! An intruder!"
+trainer:grunt-magma-hideout-5,defeat,MagmaHideout_2F_1R_Text_Grunt5Defeat,MagmaHideout_2F_1R_EventScript_Grunt5,Mutter…
+trainer:grunt-magma-hideout-15,intro,MagmaHideout_2F_2R_Text_Grunt15Intro,MagmaHideout_2F_2R_EventScript_Grunt15,I don't have a bone to pick with you. I'm just following orders!
+trainer:grunt-magma-hideout-15,defeat,MagmaHideout_2F_2R_Text_Grunt15Defeat,MagmaHideout_2F_2R_EventScript_Grunt15,"I may have lost, but…"
+trainer:grunt-magma-hideout-6,intro,MagmaHideout_2F_2R_Text_Grunt6Intro,MagmaHideout_2F_2R_EventScript_Grunt6,I can't stand heat. Maybe I should've joined TEAM AQUA instead…
+trainer:grunt-magma-hideout-6,defeat,MagmaHideout_2F_2R_Text_Grunt6Defeat,MagmaHideout_2F_2R_EventScript_Grunt6,"Yeah, I really may not be right for TEAM MAGMA…"
+trainer:grunt-magma-hideout-7,intro,MagmaHideout_2F_2R_Text_Grunt7Intro,MagmaHideout_2F_2R_EventScript_Grunt7,"You can hear tremors here sometimes.
+
+Could it be the volcano rattling? Or is it GROU…
+
+Whoops! No, no, never mind!"
+trainer:grunt-magma-hideout-7,defeat,MagmaHideout_2F_2R_Text_Grunt7Defeat,MagmaHideout_2F_2R_EventScript_Grunt7,You're a fiery battler. Just like a volcano!
+trainer:grunt-magma-hideout-8,intro,MagmaHideout_2F_2R_Text_Grunt8Intro,MagmaHideout_2F_2R_EventScript_Grunt8,"One of our guys was freaking out that he lost his MAGMA EMBLEM…
+
+Wait a minute! Was it you who found it?"
+trainer:grunt-magma-hideout-8,defeat,MagmaHideout_2F_2R_Text_Grunt8Defeat,MagmaHideout_2F_2R_EventScript_Grunt8,I'm having trouble believing this…
+trainer:grunt-magma-hideout-9,intro,MagmaHideout_3F_1R_Text_Grunt9Intro,MagmaHideout_3F_1R_EventScript_Grunt9,"What did I do to deserve this guard posting?
+
+My left ear is burning up!"
+trainer:grunt-magma-hideout-9,defeat,MagmaHideout_3F_1R_Text_Grunt9Defeat,MagmaHideout_3F_1R_EventScript_Grunt9,I'm getting heat exhaustion…
+trainer:grunt-magma-hideout-16,intro,MagmaHideout_3F_1R_Text_Grunt16Intro,MagmaHideout_3F_1R_EventScript_Grunt16,"We joined so we can help our leader achieve his fantastic vision.
+
+I don't care if you're with TEAM AQUA or if you're just some kid passing by.
+
+No one interferes with us and gets away with it!"
+trainer:grunt-magma-hideout-16,defeat,MagmaHideout_3F_1R_Text_Grunt16Defeat,MagmaHideout_3F_1R_EventScript_Grunt16,"Oh, no! You're not to be trusted at all!"
+trainer:grunt-magma-hideout-10,intro,MagmaHideout_3F_2R_Text_Grunt10Intro,MagmaHideout_3F_2R_EventScript_Grunt10,"I understand everything our leader says. But you know what?
+
+Doing stuff like digging up a super- ancient POKéMON and ripping off someone's METEORITE…
+
+I think we're going a little too far. What do you think?"
+trainer:grunt-magma-hideout-10,defeat,MagmaHideout_3F_2R_Text_Grunt10Defeat,MagmaHideout_3F_2R_EventScript_Grunt10,"Yeah, I think we are doing something wrong somehow."
+trainer:maxie-magma-hideout,defeat,MagmaHideout_4F_Text_MaxieDefeat,MagmaHideout_4F_EventScript_Maxie,What makes you so adept at handling POKéMON?
+trainer:grunt-magma-hideout-11,intro,MagmaHideout_4F_Text_Grunt11Intro,MagmaHideout_4F_EventScript_Grunt11,"I want to see GROUDON, too, but they won't let me see even its tail…
+
+It's got me feeling really frustrated.
+
+Oh, no! I blabbed about GROUDON!"
+trainer:grunt-magma-hideout-11,defeat,MagmaHideout_4F_Text_Grunt11Defeat,MagmaHideout_4F_EventScript_Grunt11,I guess it's impossible to win if one doesn't have a calm mind…
+trainer:grunt-magma-hideout-12,intro,MagmaHideout_4F_Text_Grunt12Intro,MagmaHideout_4F_EventScript_Grunt12,Fuhahaha! Soon! Very soon! Our grand objective will be achieved!
+trainer:grunt-magma-hideout-12,defeat,MagmaHideout_4F_Text_Grunt12Defeat,MagmaHideout_4F_EventScript_Grunt12,"Grrr… I've come so far, but now this?"
+trainer:grunt-magma-hideout-13,intro,MagmaHideout_4F_Text_Grunt13Intro,MagmaHideout_4F_EventScript_Grunt13,You're not finished yet! You're not getting by me easily!
+trainer:grunt-magma-hideout-13,defeat,MagmaHideout_4F_Text_Grunt13Defeat,MagmaHideout_4F_EventScript_Grunt13,Was I that easy to knock down?
+trainer:tabitha-magma-hideout,intro,MagmaHideout_4F_Text_TabithaIntro,MagmaHideout_4F_EventScript_Tabitha,"Hehehe! You made it this far, so I'll tell you!
+
+That's right! Up ahead, GROUDON is sleeping!
+
+MAXIE went to GROUDON just seconds ago!
+
+It's going to awaken real soon! Hehe! Hehehe!"
+trainer:tabitha-magma-hideout,defeat,MagmaHideout_4F_Text_TabithaDefeat,MagmaHideout_4F_EventScript_Tabitha,Taken down again… Hehe…
+trainer:wally-mauville,defeat,MauvilleCity_Text_WallyDefeat,MauvilleCity_EventScript_BattleWally,"WALLY: … … … … … … …
+
+… … … … … … … …
+
+I lost…"
+trainer:wattson-1,intro,MauvilleCity_Gym_Text_WattsonIntro,MauvilleCity_Gym_EventScript_Wattson,"I've given up on my plans to convert the city, I have.
+
+And so, I put my time into making door traps in my GYM.
+
+Oh? Now, what are you doing here?
+
+What's that? You say you've gotten past all my rigged doors?
+
+Wahahahah! Now, that is amusing!
+
+Then, I, WATTSON, the LEADER of MAUVILLE GYM, shall electrify you!"
+trainer:wattson-1,defeat,MauvilleCity_Gym_Text_WattsonDefeat,MauvilleCity_Gym_EventScript_Wattson,"Wahahahah! Fine, I lost!
+
+You ended up giving me a thrill! Take this BADGE!"
+trainer:wattson-1,intro,MauvilleCity_Gym_Text_WattsonPreRematch,MauvilleCity_Gym_EventScript_WattsonRematch,"WATTSON: Ah-ha! Here at last! I know what you want. You want to battle my POKéMON!
+
+Wahahahaha!
+
+I'll make sparks fly from you! Don't say I didn't warn you!"
+trainer:wattson-1,defeat,MauvilleCity_Gym_Text_WattsonRematchDefeat,MauvilleCity_Gym_EventScript_WattsonRematch,Oof… Our batteries ran dry…
+trainer:wattson-1,not_enough_pokemon,MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons,MauvilleCity_Gym_EventScript_WattsonRematch,"WATTSON: Ah-ha! Here at last! I know what you want. You want to battle my POKéMON!
+
+Wahahahaha!
+
+Oops! Wait! You've only one POKéMON with you!
+
+Come see me with two or more POKéMON, all right?"
+trainer:kirk,intro,MauvilleCity_Gym_Text_KirkIntro,MauvilleCity_Gym_EventScript_Kirk,"My electric soul, it'll shatter your dreams whole, whoa-yeahah!"
+trainer:kirk,defeat,MauvilleCity_Gym_Text_KirkDefeat,MauvilleCity_Gym_EventScript_Kirk,"That was plugged in, amped up, over-driven electric, man!"
+trainer:shawn,intro,MauvilleCity_Gym_Text_ShawnIntro,MauvilleCity_Gym_EventScript_Shawn,I trained under WATTSON! There ain't no way I'll lose easily!
+trainer:shawn,defeat,MauvilleCity_Gym_Text_ShawnDefeat,MauvilleCity_Gym_EventScript_Shawn,Unplugged and turned off…
+trainer:ben,intro,MauvilleCity_Gym_Text_BenIntro,MauvilleCity_Gym_EventScript_Ben,This GYM's got puzzles! Isn't it fun?
+trainer:ben,defeat,MauvilleCity_Gym_Text_BenDefeat,MauvilleCity_Gym_EventScript_Ben,It's no fun to lose…
+trainer:vivian,intro,MauvilleCity_Gym_Text_VivianIntro,MauvilleCity_Gym_EventScript_Vivian,"With my charm and my POKéMON's moves, you'll be shocked!"
+trainer:vivian,defeat,MauvilleCity_Gym_Text_VivianDefeat,MauvilleCity_Gym_EventScript_Vivian,I'm shocked by your power!
+trainer:angelo,intro,MauvilleCity_Gym_Text_AngeloIntro,MauvilleCity_Gym_EventScript_Angelo,I love shiny things!
+trainer:angelo,defeat,MauvilleCity_Gym_Text_AngeloDefeat,MauvilleCity_Gym_EventScript_Angelo,Oh… My eyes are frazzled…
+trainer:nicolas-1,intro,MeteorFalls_1F_2R_Text_NicolasIntro,MeteorFalls_1F_2R_EventScript_Nicolas,"This is where we DRAGON users do our training.
+
+The CHAMPION even visits. Now do you see how special it is here?"
+trainer:nicolas-1,defeat,MeteorFalls_1F_2R_Text_NicolasDefeat,MeteorFalls_1F_2R_EventScript_Nicolas,Urgh! I didn't expect you to be so strong!
+trainer:nicolas-1,intro,MeteorFalls_1F_2R_Text_NicolasRematchIntro,MeteorFalls_1F_2R_EventScript_RematchNicolas,"Since we met, we have trained hard with our sights on number one.
+
+Help us see how much stronger we've become!"
+trainer:nicolas-1,defeat,MeteorFalls_1F_2R_Text_NicolasRematchDefeat,MeteorFalls_1F_2R_EventScript_RematchNicolas,Urgh! I didn't expect you to be so strong!
+trainer:john-and-jay-1,intro,MeteorFalls_1F_2R_Text_JohnIntro,MeteorFalls_1F_2R_EventScript_John,JOHN: We've always battled POKéMON together as a twosome. We've confidence in ourselves.
+trainer:john-and-jay-1,defeat,MeteorFalls_1F_2R_Text_JohnDefeat,MeteorFalls_1F_2R_EventScript_John,"JOHN: Oh, my. We've lost, dear wife."
+trainer:john-and-jay-1,not_enough_pokemon,MeteorFalls_1F_2R_Text_JohnNotEnoughMons,MeteorFalls_1F_2R_EventScript_John,"JOHN: Well, well, what a young TRAINER!
+
+Will you battle with us? If so, you'll have to return with more POKéMON."
+trainer:john-and-jay-1,intro,MeteorFalls_1F_2R_Text_JohnRematchIntro,MeteorFalls_1F_2R_EventScript_RematchJohn,JOHN: We've always battled POKéMON together as a twosome. We've confidence in ourselves.
+trainer:john-and-jay-1,defeat,MeteorFalls_1F_2R_Text_JohnRematchDefeat,MeteorFalls_1F_2R_EventScript_RematchJohn,"JOHN: Oh, my. We've lost, dear wife."
+trainer:john-and-jay-1,not_enough_pokemon,MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons,MeteorFalls_1F_2R_EventScript_RematchJohn,"JOHN: Well, well, what a young TRAINER!
+
+Will you battle with us? If so, you'll have to return with more POKéMON."
+trainer:john-and-jay-1,intro,MeteorFalls_1F_2R_Text_JayIntro,MeteorFalls_1F_2R_EventScript_Jay,"JAY: We've been married for fifty years.
+
+The bond we share as a couple could never be broken."
+trainer:john-and-jay-1,defeat,MeteorFalls_1F_2R_Text_JayDefeat,MeteorFalls_1F_2R_EventScript_Jay,"JAY: Oh, dear. We've lost, my dear husband."
+trainer:john-and-jay-1,not_enough_pokemon,MeteorFalls_1F_2R_Text_JayNotEnoughMons,MeteorFalls_1F_2R_EventScript_Jay,"JAY: Well, well, aren't you a young TRAINER?
+
+If you'd care to battle with us, you'll have to come back with more POKéMON."
+trainer:john-and-jay-1,intro,MeteorFalls_1F_2R_Text_JayRematchIntro,MeteorFalls_1F_2R_EventScript_RematchJay,"JAY: We've been married for fifty years.
+
+We've supported each other all that time. We've made ourselves strong."
+trainer:john-and-jay-1,defeat,MeteorFalls_1F_2R_Text_JayRematchDefeat,MeteorFalls_1F_2R_EventScript_RematchJay,"JAY: Oh, dear. We've lost, my dear husband."
+trainer:john-and-jay-1,not_enough_pokemon,MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons,MeteorFalls_1F_2R_EventScript_RematchJay,"JAY: Well, well, aren't you a young TRAINER?
+
+If you'd care to battle with us, you'll have to come back with more POKéMON."
+trainer:steven,defeat,MeteorFalls_StevensCave_Text_StevenDefeat,MeteorFalls_StevensCave_EventScript_Steven,You… I had no idea you'd become so strong…
+trainer:tate-and-liza-1,intro,MossdeepCity_Gym_Text_TateAndLizaIntro,MossdeepCity_Gym_EventScript_TateAndLiza,"TATE: Hehehe… Were you surprised?
+
+LIZA: Fufufu… Were you surprised?
+
+TATE: That there are two GYM LEADERS? LIZA: That there are two GYM LEADERS?
+
+TATE: We're twins! LIZA: We're twins!
+
+TATE: We don't need to talk because… LIZA: We can each determine what…
+
+TATE: The other is thinking… LIZA: All in our minds!
+
+TATE: This combination of ours… LIZA: Can you beat it?"
+trainer:tate-and-liza-1,defeat,MossdeepCity_Gym_Text_TateAndLizaDefeat,MossdeepCity_Gym_EventScript_TateAndLiza,"TATE: What?! Our combination… LIZA: Was shattered!
+
+TATE: It can't be helped. You've won… LIZA: So, in recognition, take this."
+trainer:tate-and-liza-1,not_enough_pokemon,MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons,MossdeepCity_Gym_EventScript_TateAndLiza,"TATE: Hehehe… Were you surprised?
+
+LIZA: That there are two GYM LEADERS?
+
+TATE: Oops, you have only one… LIZA: POKéMON that can battle.
+
+TATE: We can't battle that way!
+
+LIZA: If you want to challenge us, bring some more POKéMON."
+trainer:tate-and-liza-1,intro,MossdeepCity_Gym_Text_TateAndLizaPreRematch,MossdeepCity_Gym_EventScript_TateAndLizaRematch,"TATE: POKéMON… LIZA: POKéMON…
+
+TATE: By changing the party's mix… LIZA: The battle style changes.
+
+TATE: But me… LIZA: But me…
+
+TATE: I'll always be with LIZA! LIZA: I'll always be with TATE!
+
+TATE: Our combination… LIZA: We'll show you again and again!"
+trainer:tate-and-liza-1,defeat,MossdeepCity_Gym_Text_TateAndLizaRematchDefeat,MossdeepCity_Gym_EventScript_TateAndLizaRematch,TATE: You and your POKéMON… LIZA: It's as if you were siblings!
+trainer:tate-and-liza-1,not_enough_pokemon,MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons,MossdeepCity_Gym_EventScript_TateAndLizaRematch,"TATE: You're back again… LIZA: You're back again…
+
+TATE: To give us a rematch. LIZA: To give us a rematch.
+
+TATE: But… LIZA: For our match…
+
+TATE: You brought just one POKéMON! LIZA: You brought just one POKéMON!
+
+TATE: We need you to bring at least… LIZA: Two POKéMON when you come back."
+trainer:preston,intro,MossdeepCity_Gym_Text_PrestonIntro,MossdeepCity_Gym_EventScript_Preston,Battles hinge on the strength of your spirit! The weak-spirited will never win!
+trainer:preston,defeat,MossdeepCity_Gym_Text_PrestonDefeat,MossdeepCity_Gym_EventScript_Preston,I lost! I must temper my spirit again!
+trainer:virgil,intro,MossdeepCity_Gym_Text_VirgilIntro,MossdeepCity_Gym_EventScript_Virgil,Let me see your talent!
+trainer:virgil,defeat,MossdeepCity_Gym_Text_VirgilDefeat,MossdeepCity_Gym_EventScript_Virgil,You possess spectacular talent!
+trainer:blake,intro,MossdeepCity_Gym_Text_BlakeIntro,MossdeepCity_Gym_EventScript_Blake,"Fufufufu… Watch me levitate a POKé BALL telekinetically!
+
+Wrooooooooaaaar! … … … … … … …
+
+Sometimes, I'm out of sync…"
+trainer:blake,defeat,MossdeepCity_Gym_Text_BlakeDefeat,MossdeepCity_Gym_EventScript_Blake,"My POKéMON battling skills are out of sync, too!"
+trainer:hannah,intro,MossdeepCity_Gym_Text_HannahIntro,MossdeepCity_Gym_EventScript_Hannah,"When you lose to me, don't be too hard on yourself.
+
+It's not that you're weak--I'm just too strong!"
+trainer:hannah,defeat,MossdeepCity_Gym_Text_HannahDefeat,MossdeepCity_Gym_EventScript_Hannah,You're just too strong!
+trainer:samantha,intro,MossdeepCity_Gym_Text_SamanthaIntro,MossdeepCity_Gym_EventScript_Samantha,"I see it… I see your future…
+
+If you can beat me, I will tell you your future!"
+trainer:samantha,defeat,MossdeepCity_Gym_Text_SamanthaDefeat,MossdeepCity_Gym_EventScript_Samantha,I surrender!
+trainer:maura,intro,MossdeepCity_Gym_Text_MauraIntro,MossdeepCity_Gym_EventScript_Maura,"The roads you have traveled… What you have experienced…
+
+Come at me with everything you've learned!"
+trainer:maura,defeat,MossdeepCity_Gym_Text_MauraDefeat,MossdeepCity_Gym_EventScript_Maura,You've traveled a path of greatness!
+trainer:sylvia,intro,MossdeepCity_Gym_Text_SylviaIntro,MossdeepCity_Gym_EventScript_Sylvia,"Even at the risk of life, I will win this battle!"
+trainer:sylvia,defeat,MossdeepCity_Gym_Text_SylviaDefeat,MossdeepCity_Gym_EventScript_Sylvia,What you do… It horrifies me…
+trainer:nate,intro,MossdeepCity_Gym_Text_NateIntro,MossdeepCity_Gym_EventScript_Nate,"Hohoho.
+
+You need me to show you how tenacious the PSYCHIC type can be."
+trainer:nate,defeat,MossdeepCity_Gym_Text_NateDefeat,MossdeepCity_Gym_EventScript_Nate,"Oh! My, my! Your battle style is fantastic!"
+trainer:macey,intro,MossdeepCity_Gym_Text_MaceyIntro,MossdeepCity_Gym_EventScript_Macey,You're not getting through to the end! Not if I can help it!
+trainer:macey,defeat,MossdeepCity_Gym_Text_MaceyDefeat,MossdeepCity_Gym_EventScript_Macey,How could you be so ludicrously strong?
+trainer:clifford,intro,MossdeepCity_Gym_Text_CliffordIntro,MossdeepCity_Gym_EventScript_Clifford,"I may be past my prime, but I suggest you not patronize me."
+trainer:clifford,defeat,MossdeepCity_Gym_Text_CliffordDefeat,MossdeepCity_Gym_EventScript_Clifford,"Ah, you overflow with the power of youth!"
+trainer:nicholas,intro,MossdeepCity_Gym_Text_NicholasIntro,MossdeepCity_Gym_EventScript_Nicholas,Wroooar! Have a taste of my super POKéMON hard-battling power!
+trainer:nicholas,defeat,MossdeepCity_Gym_Text_NicholasDefeat,MossdeepCity_Gym_EventScript_Nicholas,Oh! Done in!
+trainer:kathleen,intro,MossdeepCity_Gym_Text_KathleenIntro,MossdeepCity_Gym_EventScript_Kathleen,"Let me show you a perfectly awful, horrifying time!"
+trainer:kathleen,defeat,MossdeepCity_Gym_Text_KathleenDefeat,MossdeepCity_Gym_EventScript_Kathleen,N-nooooo!
+trainer:grunt-space-center-3,intro,MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro,MossdeepCity_SpaceCenter_1F_EventScript_Grunt3,"As promised, we've come for the rocket fuel!"
+trainer:grunt-space-center-3,defeat,MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat,MossdeepCity_SpaceCenter_1F_EventScript_Grunt3,Ran out of fuel…
+trainer:grunt-space-center-1,intro,MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro,MossdeepCity_SpaceCenter_1F_EventScript_Grunt1,We gave you fair warning! There's nothing sneaky about us!
+trainer:grunt-space-center-1,defeat,MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat,MossdeepCity_SpaceCenter_1F_EventScript_Grunt1,Grrr… We should've used sneaky treachery…
+trainer:grunt-space-center-4,intro,MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro,MossdeepCity_SpaceCenter_1F_EventScript_Grunt4,"The rocket fuel the SPACE CENTER has in storage--that's what we're after.
+
+We mean to take every last bit of it!"
+trainer:grunt-space-center-4,defeat,MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat,MossdeepCity_SpaceCenter_1F_EventScript_Grunt4,"Please, can you spare some fuel? Even a chintzy cup will do!"
+trainer:grunt-space-center-2,defeat,MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat,MossdeepCity_SpaceCenter_1F_EventScript_Grunt2,Ack! Ack! Aaack!
+trainer:grunt-space-center-5,defeat,MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat,MossdeepCity_SpaceCenter_2F_EventScript_BattleThreeMagmaGrunts,I lost! But!
+trainer:grunt-space-center-6,defeat,MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat,MossdeepCity_SpaceCenter_2F_EventScript_BattleThreeMagmaGrunts,"I lost, too! But!"
+trainer:grunt-space-center-7,defeat,MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat,MossdeepCity_SpaceCenter_2F_EventScript_BattleThreeMagmaGrunts,We should've taken a break… That's what we should've done…
+trainer:maxie-mossdeep,defeat,MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand,MossdeepCity_SpaceCenter_2F_EventScript_MaxieTrainer,All I want… I just want to expand the land mass…
+trainer:tabitha-mossdeep,defeat,MossdeepCity_SpaceCenter_Text_TabithaDefeat,MossdeepCity_SpaceCenter_2F_EventScript_TabithaTrainer,I'm with our leader…
+trainer:maxie-mt-chimney,defeat,MtChimney_Text_MaxieDefeat,MtChimney_EventScript_Maxie,"What?!
+
+I, MAXIE, was caught off guard?!"
+trainer:tabitha-mt-chimney,intro,MtChimney_Text_TabithaIntro,MtChimney_EventScript_Tabitha,"Hehehe!
+
+So you've come all the way here!
+
+But you're too late! I've already delivered the METEORITE from METEOR FALLS to the BOSS!"
+trainer:tabitha-mt-chimney,defeat,MtChimney_Text_TabithaDefeat,MtChimney_EventScript_Tabitha,"Hehehe…
+
+Even though I've lost, if our leader awakens that thing…"
+trainer:grunt-mt-chimney-2,intro,MtChimney_Text_Grunt2Intro,MtChimney_EventScript_Grunt2,"We of TEAM MAGMA are working hard for everyone's sake.
+
+Like, if that thing's power made more land, there'd be more places to live.
+
+Everyone'd be happy!"
+trainer:grunt-mt-chimney-2,defeat,MtChimney_Text_Grunt2Defeat,MtChimney_EventScript_Grunt2,Hunh? What do you mean I lost?
+trainer:shelby-1,intro,MtChimney_Text_ShelbyIntro,MtChimney_EventScript_Shelby,I've been to the hot springs and refreshed my tired bones. Right now I'm feeling strong!
+trainer:shelby-1,defeat,MtChimney_Text_ShelbyDefeat,MtChimney_EventScript_Shelby,"Oh, my goodness. Now, aren't you something!"
+trainer:shelby-1,intro,MtChimney_Text_ShelbyRematchIntro,MtChimney_EventScript_RematchShelby,"If you can mesh your heart with those of your POKéMON, why, you should be able to achieve great things."
+trainer:shelby-1,defeat,MtChimney_Text_ShelbyRematchDefeat,MtChimney_EventScript_RematchShelby,"Oh, my goodness. Now, aren't you something!"
+trainer:melissa,intro,MtChimney_Text_MelissaIntro,MtChimney_EventScript_Melissa,"I've got the fire in me, baby. I can't stand it! I have to battle!"
+trainer:melissa,defeat,MtChimney_Text_MelissaDefeat,MtChimney_EventScript_Melissa,"Ooh, that was a scorching-hot match!"
+trainer:sheila,intro,MtChimney_Text_SheilaIntro,MtChimney_EventScript_Sheila,I've finally made it to MT. CHIMNEY. I want to make my POKéMON battle!
+trainer:sheila,defeat,MtChimney_Text_SheilaDefeat,MtChimney_EventScript_Sheila,The way you battle… It's like a MT. CHIMNEY eruption!
+trainer:shirley,intro,MtChimney_Text_ShirleyIntro,MtChimney_EventScript_Shirley,"Since I bathed in the hot springs, I've been feeling great! I'm sure I'm going to win!"
+trainer:shirley,defeat,MtChimney_Text_ShirleyDefeat,MtChimney_EventScript_Shirley,Yowch! I'm getting a chill out of the water.
+trainer:grunt-mt-chimney-1,intro,MtChimney_Text_Grunt1Intro,MtChimney_EventScript_Grunt1,"If there were more land, I'd be able to get a big house of my own!
+
+I'm going to build it on hardened lava!"
+trainer:grunt-mt-chimney-1,defeat,MtChimney_Text_Grunt1Defeat,MtChimney_EventScript_Grunt1,My dream of a big house…
+trainer:sawyer-1,intro,MtChimney_Text_SawyerIntro,MtChimney_EventScript_Sawyer,This is one fine mountain! Plenty of hot people around for company!
+trainer:sawyer-1,defeat,MtChimney_Text_SawyerDefeat,MtChimney_EventScript_Sawyer,"Oh, you're a real firebrand, too!"
+trainer:sawyer-1,intro,MtChimney_Text_SawyerRematchIntro,MtChimney_EventScript_SawyerRematch,I'm happily surrounded by hot people around these parts. I won't lose!
+trainer:sawyer-1,defeat,MtChimney_Text_SawyerRematchDefeat,MtChimney_EventScript_SawyerRematch,"Gosh, you're still the same firebrand as before!"
+trainer:mark,intro,MtPyre_2F_Text_MarkIntro,MtPyre_2F_EventScript_Mark,Hey! Are you searching for POKéMON? You came along after me! You're rude!
+trainer:mark,defeat,MtPyre_2F_Text_MarkDefeat,MtPyre_2F_EventScript_Mark,"Ayieeeeh! I'm sorry, forgive me, please!"
+trainer:dez-and-luke,intro,MtPyre_2F_Text_LukeIntro,MtPyre_2F_EventScript_Luke,"LUKE: We're here on a dare.
+
+Heheh, if I show her how cool I am, she'll fall for me. I know it!
+
+I know! I'll cream you and show her how cool I am!"
+trainer:dez-and-luke,defeat,MtPyre_2F_Text_LukeDefeat,MtPyre_2F_EventScript_Luke,LUKE: Whoopsie!
+trainer:dez-and-luke,not_enough_pokemon,MtPyre_2F_Text_LukeNotEnoughMons,MtPyre_2F_EventScript_Luke,"LUKE: If you want to take me on, bring some more POKéMON.
+
+If you don't, I won't be able to show off to my girl how cool I am!"
+trainer:dez-and-luke,intro,MtPyre_2F_Text_DezIntro,MtPyre_2F_EventScript_Dez,"DEZ: I came here on a dare with my boyfriend.
+
+It's really scary, but I'm with my boyfriend. It's okay.
+
+I know! I'll get my boyfriend to look cool by beating you!"
+trainer:dez-and-luke,defeat,MtPyre_2F_Text_DezDefeat,MtPyre_2F_EventScript_Dez,DEZ: Waaaah! I'm scared!
+trainer:dez-and-luke,not_enough_pokemon,MtPyre_2F_Text_DezNotEnoughMons,MtPyre_2F_EventScript_Dez,"DEZ: If you want to challenge us, you should bring at least two POKéMON.
+
+My boyfriend's strong. Just one POKéMON won't do at all."
+trainer:leah,intro,MtPyre_2F_Text_LeahIntro,MtPyre_2F_EventScript_Leah,You are an unfamiliar sight… Depart before anything befalls you!
+trainer:leah,defeat,MtPyre_2F_Text_LeahDefeat,MtPyre_2F_EventScript_Leah,Hmm… You're durable.
+trainer:zander,intro,MtPyre_2F_Text_ZanderIntro,MtPyre_2F_EventScript_Zander,Kiyaaaaah! I'm terrified!
+trainer:zander,defeat,MtPyre_2F_Text_ZanderDefeat,MtPyre_2F_EventScript_Zander,Nooooooo! I lost my wits!
+trainer:william,intro,MtPyre_3F_Text_WilliamIntro,MtPyre_3F_EventScript_William,"The rich atmosphere of the mountain has elevated my psychic power!
+
+A mere child like you… You dream of winning?"
+trainer:william,defeat,MtPyre_3F_Text_WilliamDefeat,MtPyre_3F_EventScript_William,I drown in self-pity…
+trainer:kayla,intro,MtPyre_3F_Text_KaylaIntro,MtPyre_3F_EventScript_Kayla,"Ahahahaha!
+
+This is no place for children, least of all you!"
+trainer:kayla,defeat,MtPyre_3F_Text_KaylaDefeat,MtPyre_3F_EventScript_Kayla,I lost that cleanly…
+trainer:gabrielle-1,intro,MtPyre_3F_Text_GabrielleIntro,MtPyre_3F_EventScript_Gabrielle,Why have you come here?
+trainer:gabrielle-1,defeat,MtPyre_3F_Text_GabrielleDefeat,MtPyre_3F_EventScript_Gabrielle,That was amazing! You're a very special TRAINER.
+trainer:gabrielle-1,intro,MtPyre_3F_Text_GabrielleRematchIntro,MtPyre_3F_EventScript_RematchGabrielle,"Oh, it's you…
+
+Have you come to show me your grown POKéMON?"
+trainer:gabrielle-1,defeat,MtPyre_3F_Text_GabrielleRematchDefeat,MtPyre_3F_EventScript_RematchGabrielle,How amazing! You are a special person.
+trainer:atsushi,intro,MtPyre_5F_Text_AtsushiIntro,MtPyre_5F_EventScript_Atsushi,Teacher… Please watch over my progress!
+trainer:atsushi,defeat,MtPyre_5F_Text_AtsushiDefeat,MtPyre_5F_EventScript_Atsushi,Teacher… Please forgive me!
+trainer:tasha,intro,MtPyre_4F_Text_TashaIntro,MtPyre_4F_EventScript_Tasha,"I love all things horrifying… It's like a disease…
+
+When I'm here… I shiver with fear…"
+trainer:tasha,defeat,MtPyre_4F_Text_TashaDefeat,MtPyre_4F_EventScript_Tasha,"Losing, I dislike…"
+trainer:valerie-1,intro,MtPyre_6F_Text_ValerieIntro,MtPyre_6F_EventScript_Valerie,When I'm here… A curious power flows into me…
+trainer:valerie-1,defeat,MtPyre_6F_Text_ValerieDefeat,MtPyre_6F_EventScript_Valerie,The power is ebbing away…
+trainer:valerie-1,intro,MtPyre_6F_Text_ValerieRematchIntro,MtPyre_6F_EventScript_RematchValerie,Behind you… What is it…
+trainer:valerie-1,defeat,MtPyre_6F_Text_ValerieRematchDefeat,MtPyre_6F_EventScript_RematchValerie,Something faded away…
+trainer:cedric,intro,MtPyre_6F_Text_CedricIntro,MtPyre_6F_EventScript_Cedric,Have you lost your bearings? Have no fear for I am here!
+trainer:cedric,defeat,MtPyre_6F_Text_CedricDefeat,MtPyre_6F_EventScript_Cedric,Weren't you lost?
+trainer:grunt-mt-pyre-1,intro,MtPyre_Summit_Text_Grunt1Intro,MtPyre_Summit_EventScript_Grunt1,"No! Those TEAM MAGMA goons got here ahead of us!
+
+We can't fall behind!"
+trainer:grunt-mt-pyre-1,defeat,MtPyre_Summit_Text_Grunt1Defeat,MtPyre_Summit_EventScript_Grunt1,I thought you were one of the MAGMAS who happened to come back…
+trainer:grunt-mt-pyre-2,intro,MtPyre_Summit_Text_Grunt2Intro,MtPyre_Summit_EventScript_Grunt2,"Hah! Too bad for you!
+
+If you came earlier, you only would've had to battle the wimpy TEAM MAGMA.
+
+But since you arrived now, you have to take on us toughies!"
+trainer:grunt-mt-pyre-2,defeat,MtPyre_Summit_Text_Grunt2Defeat,MtPyre_Summit_EventScript_Grunt2,Urgh… I should've let you take on TEAM MAGMA first…
+trainer:grunt-mt-pyre-3,intro,MtPyre_Summit_Text_Grunt3Intro,MtPyre_Summit_EventScript_Grunt3,"You… We saw you at MT. CHIMNEY.
+
+You don't belong to either TEAM, so why would you be here?"
+trainer:grunt-mt-pyre-3,defeat,MtPyre_Summit_Text_Grunt3Defeat,MtPyre_Summit_EventScript_Grunt3,"If you're going to mess with anyone, let it be TEAM MAGMA…"
+trainer:grunt-mt-pyre-4,intro,MtPyre_Summit_Text_Grunt4Intro,MtPyre_Summit_EventScript_Grunt4,"Oh, I know! You tried to join TEAM MAGMA, but they wouldn't have you!
+
+Well, don't think that we'll let you join our TEAM AQUA!"
+trainer:grunt-mt-pyre-4,defeat,MtPyre_Summit_Text_Grunt4Defeat,MtPyre_Summit_EventScript_Grunt4,"If you want to join TEAM AQUA that badly, we can consider it…"
+trainer:norman-1,intro,PetalburgCity_Gym_Text_NormanPreRematch,PetalburgCity_Gym_EventScript_NormanRematch,"DAD: {PLAYER}… I had a feeling that you would come.
+
+I would never refuse to accept a challenge from you.
+
+You do understand, don't you?
+
+Inside a GYM, it doesn't matter that we are a parent and child.
+
+…No, because we are parent and child, we owe it to each other to do the best we can. Isn't that right, {PLAYER}?"
+trainer:norman-1,defeat,PetalburgCity_Gym_Text_NormanRematchDefeat,PetalburgCity_Gym_EventScript_NormanRematch,Uh… Haha… Maybe that was going too hard…
+trainer:norman-1,not_enough_pokemon,PetalburgCity_Gym_Text_NormanRematchNeedTwoMons,PetalburgCity_Gym_EventScript_NormanRematch,"DAD: {PLAYER}… I had a feeling that you would come.
+
+I would never refuse to accept a challenge from you.
+
+You do understand, don't you?
+
+Inside a GYM, it doesn't matter that we are a parent and child.
+
+Hm? Wait a second, {PLAYER}.
+
+Do you only have one POKéMON that is capable of battle?
+
+Sorry, but you'll have to come back with at least two POKéMON."
+trainer:norman-1,defeat,PetalburgCity_Gym_Text_NormanDefeat,PetalburgCity_Gym_EventScript_NormanBattle,"…
+
+I… I can't…
+
+I can't believe it. {PLAYER}…
+
+I lost to {PLAYER}?
+
+But, rules are rules! Here, take this."
+trainer:randall,intro,PetalburgCity_Gym_Text_RandallIntro,PetalburgCity_Gym_EventScript_Randall,"The ability to attack before the opponent…
+
+Just that alone puts me at a great advantage, don't you agree?"
+trainer:randall,defeat,PetalburgCity_Gym_Text_RandallDefeat,PetalburgCity_Gym_EventScript_Randall,That was a magnificent battle!
+trainer:parker,intro,PetalburgCity_Gym_Text_ParkerIntro,PetalburgCity_Gym_EventScript_Parker,"This is the CONFUSION ROOM.
+
+Let me see how well bonded you are with your POKéMON!"
+trainer:parker,defeat,PetalburgCity_Gym_Text_ParkerDefeat,PetalburgCity_Gym_EventScript_Parker,I couldn't confuse your team enough… You share a strong bond together.
+trainer:george,intro,PetalburgCity_Gym_Text_GeorgeIntro,PetalburgCity_Gym_EventScript_George,"Just when you think you're going to win, your opponent restores HP…
+
+Can you just imagine how awful that must feel?
+
+I'll show you exactly how awful it feels!"
+trainer:george,defeat,PetalburgCity_Gym_Text_GeorgeDefeat,PetalburgCity_Gym_EventScript_George,I couldn't restore HP enough… What ATTACK power…
+trainer:berke,intro,PetalburgCity_Gym_Text_BerkeIntro,PetalburgCity_Gym_EventScript_Berke,"I'm not going to take it easy just because you're our LEADER's kid.
+
+I'll show you how horrid it is for a POKéMON to take a critical hit!"
+trainer:berke,defeat,PetalburgCity_Gym_Text_BerkeDefeat,PetalburgCity_Gym_EventScript_Berke,Your power… You're the real deal.
+trainer:mary,intro,PetalburgCity_Gym_Text_MaryIntro,PetalburgCity_Gym_EventScript_Mary,"Giggle… This is the ACCURACY ROOM.
+
+It's pretty nasty when every attack lands without fail."
+trainer:mary,defeat,PetalburgCity_Gym_Text_MaryDefeat,PetalburgCity_Gym_EventScript_Mary,You were a cut above me…
+trainer:alexia,intro,PetalburgCity_Gym_Text_AlexiaIntro,PetalburgCity_Gym_EventScript_Alexia,"The higher the DEFENSE, the more reckless I can be in attack."
+trainer:alexia,defeat,PetalburgCity_Gym_Text_AlexiaDefeat,PetalburgCity_Gym_EventScript_Alexia,Our defenses weren't enough…
+trainer:jody,intro,PetalburgCity_Gym_Text_JodyIntro,PetalburgCity_Gym_EventScript_Jody,"Our GYM LEADER told us to go all out and beat you.
+
+Even if you happen to be the LEADER's kid!"
+trainer:jody,defeat,PetalburgCity_Gym_Text_JodyDefeat,PetalburgCity_Gym_EventScript_Jody,But… I went all out!
+trainer:grunt-petalburg-woods,defeat,PetalburgWoods_Text_YoureKiddingMe,PetalburgWoods_EventScript_DevonResearcherLeft,You're kidding me! You're tough!
+trainer:grunt-petalburg-woods,defeat,PetalburgWoods_Text_YoureKiddingMe,PetalburgWoods_EventScript_DevonResearcherRight,You're kidding me! You're tough!
+trainer:lyle,intro,PetalburgWoods_Text_GoBugPokemonTeam,PetalburgWoods_EventScript_Lyle,"I caught a whole bunch of POKéMON!
+
+Go, go, go! My BUG POKéMON team!"
+trainer:lyle,defeat,PetalburgWoods_Text_ICouldntWin,PetalburgWoods_EventScript_Lyle,"I have all these POKéMON, but I couldn't win…"
+trainer:james-1,intro,PetalburgWoods_Text_InstantlyPopularWithBugPokemon,PetalburgWoods_EventScript_James,"If you take BUG POKéMON to school, you get to be instantly popular!"
+trainer:james-1,defeat,PetalburgWoods_Text_CantBePopularIfILose,PetalburgWoods_EventScript_James,I can't be popular if I lose.
+trainer:james-1,intro,PetalburgWoods_Text_MyPokemonHaveGrown,PetalburgWoods_EventScript_JamesRematch,My BUG POKéMON have grown. I'll be popular again.
+trainer:james-1,defeat,PetalburgWoods_Text_CantBePopularIfLose,PetalburgWoods_EventScript_JamesRematch,I can't be popular if I lose.
+trainer:calvin-1,intro,Route102_Text_CalvinIntro,Route102_EventScript_Calvin,"If you have POKéMON with you, then you're an official POKéMON TRAINER! You can't say no to my challenge!"
+trainer:calvin-1,defeat,Route102_Text_CalvinDefeated,Route102_EventScript_Calvin,"Arrgh, I lost… I should have trained mine more…"
+trainer:calvin-1,intro,Route102_Text_CalvinRematchIntro,Route102_EventScript_CalvinRematch,"Ever since I lost to you, I desperately trained my POKéMON. You can't say no to my challenge!"
+trainer:calvin-1,defeat,Route102_Text_CalvinRematchDefeated,Route102_EventScript_CalvinRematch,"Arrgh, I lost… Is my training method not right?"
+trainer:rick,intro,Route102_Text_RickIntro,Route102_EventScript_Rick,Hahah! Our eyes met! I'll take you on with my BUG POKéMON!
+trainer:rick,defeat,Route102_Text_RickDefeated,Route102_EventScript_Rick,Ow! Down and out!
+trainer:tiana,intro,Route102_Text_TianaIntro,Route102_EventScript_Tiana,"I'm going to keep winning and aim to be the best TRAINER.
+
+Help me further my career!"
+trainer:tiana,defeat,Route102_Text_TianaDefeated,Route102_EventScript_Tiana,I ended up furthering your career…
+trainer:allen,intro,Route102_Text_AllenIntro,Route102_EventScript_Allen,Did you just become a TRAINER? We're both beginners!
+trainer:allen,defeat,Route102_Text_AllenDefeated,Route102_EventScript_Allen,I called you because I thought I could beat you…
+trainer:may-route-103-treecko,defeat,Route103_Text_MayDefeated,Route103_EventScript_StartMayBattleTreecko,"Wow! That's great! {PLAYER}{KUN}, you're pretty good!"
+trainer:may-route-103-torchic,defeat,Route103_Text_MayDefeated,Route103_EventScript_StartMayBattleTorchic,"Wow! That's great! {PLAYER}{KUN}, you're pretty good!"
+trainer:may-route-103-mudkip,defeat,Route103_Text_MayDefeated,Route103_EventScript_StartMayBattleMudkip,"Wow! That's great! {PLAYER}{KUN}, you're pretty good!"
+trainer:brendan-route-103-treecko,defeat,Route103_Text_BrendanDefeated,Route103_EventScript_StartBrendanBattleTreecko,"Huh, {PLAYER}, you're not too shabby."
+trainer:brendan-route-103-torchic,defeat,Route103_Text_BrendanDefeated,Route103_EventScript_StartBrendanBattleTorchic,"Huh, {PLAYER}, you're not too shabby."
+trainer:brendan-route-103-mudkip,defeat,Route103_Text_BrendanDefeated,Route103_EventScript_StartBrendanBattleMudkip,"Huh, {PLAYER}, you're not too shabby."
+trainer:daisy,intro,Route103_Text_DaisyIntro,Route103_EventScript_Daisy,Did you feel the tug of our soul-soothing fragrance?
+trainer:daisy,defeat,Route103_Text_DaisyDefeated,Route103_EventScript_Daisy,You weren't led astray by our aroma…
+trainer:amy-and-liv-1,intro,Route103_Text_AmyIntro,Route103_EventScript_Amy,AMY: I'm AMY. And this is my little sister LIV. We battle together!
+trainer:amy-and-liv-1,defeat,Route103_Text_AmyDefeated,Route103_EventScript_Amy,"AMY: Uh-oh, we lost."
+trainer:amy-and-liv-1,not_enough_pokemon,Route103_Text_AmyNotEnoughPokemon,Route103_EventScript_Amy,"AMY: Uh-oh, you have only one POKéMON with you. You can't battle us like that."
+trainer:amy-and-liv-1,intro,Route103_Text_AmyRematchIntro,Route102_EventScript_AmyRematch,AMY: I'm AMY. And this is my little sister LIV. We battle together!
+trainer:amy-and-liv-1,defeat,Route103_Text_AmyRematchDefeated,Route102_EventScript_AmyRematch,"AMY: Aww, boo! We couldn't win again…"
+trainer:amy-and-liv-1,not_enough_pokemon,Route103_Text_AmyRematchNotEnoughPokemon,Route102_EventScript_AmyRematch,"AMY: Uh-oh, you have only one POKéMON with you. You can't battle us like that."
+trainer:amy-and-liv-1,intro,Route103_Text_LivIntro,Route103_EventScript_Liv,LIV: We battle together as one team.
+trainer:amy-and-liv-1,defeat,Route103_Text_LivDefeated,Route103_EventScript_Liv,"LIV: Oh, we lost, big sister…"
+trainer:amy-and-liv-1,not_enough_pokemon,Route103_Text_LivNotEnoughPokemon,Route103_EventScript_Liv,"LIV: If you want to battle us, you have to have two POKéMON! It's not fair if you don't!"
+trainer:amy-and-liv-1,intro,Route103_Text_LivRematchIntro,Route102_EventScript_LivRematch,LIV: We battle together as one team.
+trainer:amy-and-liv-1,defeat,Route103_Text_LivRematchDefeated,Route102_EventScript_LivRematch,"LIV: Awww, we lost again… Big sister…"
+trainer:amy-and-liv-1,not_enough_pokemon,Route103_Text_LivRematchNotEnoughPokemon,Route102_EventScript_LivRematch,"LIV: If you want to battle us, you have to have two POKéMON! It's not fair if you don't!"
+trainer:andrew,intro,Route103_Text_AndrewIntro,Route103_EventScript_Andrew,Gah! My fishing line's all snarled up! I'm getting frustrated and mean! That's it! Battle me!
+trainer:andrew,defeat,Route103_Text_AndrewDefeated,Route103_EventScript_Andrew,Gah! Lost it! I'm even more annoyed now!
+trainer:miguel-1,intro,Route103_Text_MiguelIntro,Route103_EventScript_Miguel,My POKéMON is delightfully adorable! Don't be shy--I'll show you!
+trainer:miguel-1,defeat,Route103_Text_MiguelDefeated,Route103_EventScript_Miguel,"Oh, my gosh! My darling POKéMON!"
+trainer:miguel-1,intro,Route103_Text_MiguelRematchIntro,Route103_EventScript_MiguelRematch,"Hi, you! My delightfully adorable POKéMON has become more darling!"
+trainer:miguel-1,defeat,Route103_Text_MiguelRematchDefeated,Route103_EventScript_MiguelRematch,Oh! My darling POKéMON!
+trainer:marcos,intro,Route103_Text_MarcosIntro,Route103_EventScript_Marcos,Did my guitar's wailing draw you in?
+trainer:marcos,defeat,Route103_Text_MarcosDefeated,Route103_EventScript_Marcos,My one-man show is ruined…
+trainer:rhett,intro,Route103_Text_RhettIntro,Route103_EventScript_Rhett,Whoa! How'd you get into a space this small?
+trainer:rhett,defeat,Route103_Text_RhettDefeated,Route103_EventScript_Rhett,Whoa! The kid can rock!
+trainer:pete,intro,Route103_Text_PeteIntro,Route103_EventScript_Pete,This sort of distance… You should just swim it!
+trainer:pete,defeat,Route103_Text_PeteDefeated,Route103_EventScript_Pete,"Oh, that's good going!"
+trainer:isabelle,intro,Route103_Text_IsabelleIntro,Route103_EventScript_Isabelle,Watch where you're going! We're going to crash!
+trainer:isabelle,defeat,Route103_Text_IsabelleDefeated,Route103_EventScript_Isabelle,Groan…
+trainer:may-rustboro-treecko,defeat,Route104_Text_MayDefeat,Route104_EventScript_BattleMayTreecko,Yikes! You're better than I expected!
+trainer:may-rustboro-torchic,defeat,Route104_Text_MayDefeat,Route104_EventScript_BattleMayTorchic,Yikes! You're better than I expected!
+trainer:may-rustboro-mudkip,defeat,Route104_Text_MayDefeat,Route104_EventScript_BattleMayMudkip,Yikes! You're better than I expected!
+trainer:brendan-rustboro-treecko,defeat,Route104_Text_BrendanDefeat,Route104_EventScript_BattleBrendanTreecko,Hmm… You're pretty good.
+trainer:brendan-rustboro-torchic,defeat,Route104_Text_BrendanDefeat,Route104_EventScript_BattleBrendanTorchic,Hmm… You're pretty good.
+trainer:brendan-rustboro-mudkip,defeat,Route104_Text_BrendanDefeat,Route104_EventScript_BattleBrendanMudkip,Hmm… You're pretty good.
+trainer:ivan,intro,Route104_Text_IvanIntro,Route104_EventScript_Ivan,"Why keep it a secret? I'm the WATER POKéMON expert!
+
+Huh? You don't know me?"
+trainer:ivan,defeat,Route104_Text_IvanDefeat,Route104_EventScript_Ivan,"I thought I wasn't too bad, if I may say so, but I guess not… Bleah…"
+trainer:billy,intro,Route104_Text_BillyIntro,Route104_EventScript_Billy,Leaving footprints in the sand is so fun!
+trainer:billy,defeat,Route104_Text_BillyDefeat,Route104_EventScript_Billy,Waah! I got sand in my runners! They're all gritty!
+trainer:haley-1,intro,Route104_Text_HaleyIntro,Route104_EventScript_Haley,"Should I… Or shouldn't I?
+
+Okay, sure, I will battle!"
+trainer:haley-1,defeat,Route104_Text_HaleyDefeat,Route104_EventScript_Haley,I shouldn't have battled…
+trainer:haley-1,intro,Route104_Text_HaleyRematchIntro,Route104_EventScript_RematchHaley,"Come on, battle with me!"
+trainer:haley-1,defeat,Route104_Text_HaleyRematchDefeat,Route104_EventScript_RematchHaley,Ohh… I thought I could win…
+trainer:winston-1,intro,Route104_Text_WinstonIntro,Route104_EventScript_Winston,"Oh, sure, I'll accept your challenge. I have a lot of money."
+trainer:winston-1,defeat,Route104_Text_WinstonDefeat,Route104_EventScript_Winston,Why couldn't I win?
+trainer:winston-1,intro,Route104_Text_WinstonRematchIntro,Route104_EventScript_RematchWinston,"After I lost to you, I learned a bunch of things about POKéMON."
+trainer:winston-1,defeat,Route104_Text_WinstonRematchDefeat,Route104_EventScript_RematchWinston,I lost again? Why couldn't I win?
+trainer:cindy-1,intro,Route104_Text_CindyIntro,Route104_EventScript_Cindy,We must have been fated to meet. May I ask you for a battle?
+trainer:cindy-1,defeat,Route104_Text_CindyDefeat,Route104_EventScript_Cindy,"Oh, my!"
+trainer:cindy-1,intro,Route104_Text_CindyRematchIntro,Route104_EventScript_RematchCindy,"Hello, we meet again. May I ask you for a battle?"
+trainer:cindy-1,defeat,Route104_Text_CindyRematchDefeat,Route104_EventScript_RematchCindy,"Oh, my… I did the best that I could…"
+trainer:gina-and-mia-1,intro,Route104_Text_GinaIntro,Route104_EventScript_Gina,"GINA: Okay, let's battle with our POKéMON!"
+trainer:gina-and-mia-1,defeat,Route104_Text_GinaDefeat,Route104_EventScript_Gina,GINA: Losing upsets me!
+trainer:gina-and-mia-1,not_enough_pokemon,Route104_Text_GinaNotEnoughMons,Route104_EventScript_Gina,"GINA: Oh? Only one POKéMON? Then, we don't battle with you.
+
+If there's only one POKéMON, it will be lonesome. That's not nice."
+trainer:gina-and-mia-1,intro,Route104_Text_MiaIntro,Route104_EventScript_Mia,"MIA: We are twins, so we battle POKéMON together."
+trainer:gina-and-mia-1,defeat,Route104_Text_MiaDefeat,Route104_EventScript_Mia,"MIA: We battled together, but we both lost…"
+trainer:gina-and-mia-1,not_enough_pokemon,Route104_Text_MiaNotEnoughMons,Route104_EventScript_Mia,"MIA: You want to battle with us?
+
+It's a big no-no if you don't have two POKéMON with you. We're too strong for you!"
+trainer:darian,intro,Route104_Text_DarianIntro,Route104_EventScript_Darian,"I fished up a tough-looking POKéMON!
+
+It has this magical quality to it! It surely looks tough, yes it does!"
+trainer:darian,defeat,Route104_Text_DarianDefeat,Route104_EventScript_Darian,What the…
+trainer:foster,intro,Route105_Text_FosterIntro,Route105_EventScript_Foster,There's supposed to be a mystical rock around here. Do you know anything about it?
+trainer:foster,defeat,Route105_Text_FosterDefeated,Route105_EventScript_Foster,"I was thinking too much about that rock, while my POKéMON remained weak…"
+trainer:luis,intro,Route105_Text_LuisIntro,Route105_EventScript_Luis,"Whew! I was worried that a kid was drowning when I saw you.
+
+You seem to be okay, so what do you say to a battle?"
+trainer:luis,defeat,Route105_Text_LuisDefeated,Route105_EventScript_Luis,Glub… Glub…
+trainer:dominik,intro,Route105_Text_DominikIntro,Route105_EventScript_Dominik,Swimming the deep blue sea… It feels the greatest!
+trainer:dominik,defeat,Route105_Text_DominikDefeated,Route105_EventScript_Dominik,I lost… Now I'm feeling blue…
+trainer:beverly,intro,Route105_Text_BeverlyIntro,Route105_EventScript_Beverly,My body feels lighter in the water. It's as if I've gotten slimmer!
+trainer:beverly,defeat,Route105_Text_BeverlyDefeated,Route105_EventScript_Beverly,I'm floating…
+trainer:imani,intro,Route105_Text_ImaniIntro,Route105_EventScript_Imani,"The blue, blue sky… The vast sea… It's so peaceful…"
+trainer:imani,defeat,Route105_Text_ImaniDefeated,Route105_EventScript_Imani,I lost while I was lounging!
+trainer:josue,intro,Route105_Text_JosueIntro,Route105_EventScript_Josue,"I'm exhausted from swimming. I'm just not used to it.
+
+I need a battle for a change of pace!"
+trainer:josue,defeat,Route105_Text_JosueDefeated,Route105_EventScript_Josue,I lost because I battled at sea.
+trainer:andres-1,intro,Route105_Text_AndresIntro,Route105_EventScript_Andres,I'm convinced that the sea keeps secrets from us.
+trainer:andres-1,defeat,Route105_Text_AndresDefeated,Route105_EventScript_Andres,Yes… I am no good at battling…
+trainer:andres-1,intro,Route105_Text_AndresRematchIntro,Route105_EventScript_AndresRematch,I've told you that I'm weak… Are you sure you want to do this?
+trainer:andres-1,defeat,Route105_Text_AndresRematchDefeated,Route105_EventScript_AndresRematch,Yes… I didn't think I could win.
+trainer:douglas,intro,Route106_Text_DouglasIntro,Route106_EventScript_Douglas,"Hahahah! I'm a lousy runner, but in the water you can't catch me!"
+trainer:douglas,defeat,Route106_Text_DouglasDefeated,Route106_EventScript_Douglas,I give up!
+trainer:kyla,intro,Route106_Text_KylaIntro,Route106_EventScript_Kyla,The sea is my backyard. I'm not going to take it easy because you're a kid!
+trainer:kyla,defeat,Route106_Text_KylaDefeated,Route106_EventScript_Kyla,Did you take it easy on me by any chance?
+trainer:elliot-1,intro,Route106_Text_ElliotIntro,Route106_EventScript_Elliot,"Which do you prefer, fishing in the sea or a stream?"
+trainer:elliot-1,defeat,Route106_Text_ElliotDefeated,Route106_EventScript_Elliot,"Like in deep-sea fishing, I lost spectacularly!"
+trainer:elliot-1,intro,Route106_Text_ElliotRematchIntro,Route106_EventScript_ElliotRematch,I caught a bunch of POKéMON fishing. I'll show you an impressive battle!
+trainer:elliot-1,defeat,Route106_Text_ElliotRematchDefeated,Route106_EventScript_ElliotRematch,I lost again spectacularly!
+trainer:ned,intro,Route106_Text_NedIntro,Route106_EventScript_Ned,"What do people do if they need to go to a washroom?
+
+What if my ROD hooks a big one while I'm in the washroom? I just can't go…"
+trainer:ned,defeat,Route106_Text_NedDefeated,Route106_EventScript_Ned,I lost because I'm trying to not go to the washroom…
+trainer:darrin,intro,Route107_Text_DarrinIntro,Route107_EventScript_Darrin,"Yawn…
+
+I must have drifted off to sleep while I was drifting in the waves."
+trainer:darrin,defeat,Route107_Text_DarrinDefeated,Route107_EventScript_Darrin,"Ahaha, I lost… I'll take a snooze, I think…"
+trainer:tony-1,intro,Route107_Text_TonyIntro,Route107_EventScript_Tony,The sea is like my backyard. Let's battle!
+trainer:tony-1,defeat,Route107_Text_TonyDefeated,Route107_EventScript_Tony,I lost on my home field… I'm in shock!
+trainer:tony-1,intro,Route107_Text_TonyRematchIntro,Route107_EventScript_TonyRematch,"Swimming in the big, wide sea, my POKéMON has grown stronger!"
+trainer:tony-1,defeat,Route107_Text_TonyRematchDefeated,Route107_EventScript_TonyRematch,"What a shock!
+
+My POKéMON has gotten stronger, but I stayed weak as a TRAINER!"
+trainer:denise,intro,Route107_Text_DeniseIntro,Route107_EventScript_Denise,Do you know a little town called DEWFORD?
+trainer:denise,defeat,Route107_Text_DeniseDefeated,Route107_EventScript_Denise,I hate this!
+trainer:beth,intro,Route107_Text_BethIntro,Route107_EventScript_Beth,"Did you want to battle me? Sure, I'll go with you!"
+trainer:beth,defeat,Route107_Text_BethDefeated,Route107_EventScript_Beth,I wasn't good enough for you.
+trainer:lisa-and-ray,intro,Route107_Text_LisaIntro,Route107_EventScript_Lisa,LISA: We challenge you as a sister and brother!
+trainer:lisa-and-ray,defeat,Route107_Text_LisaDefeated,Route107_EventScript_Lisa,LISA: Awesome. You're in a different class of tough.
+trainer:lisa-and-ray,not_enough_pokemon,Route107_Text_LisaNotEnoughPokemon,Route107_EventScript_Lisa,"LISA: If you want to battle with us, bring more POKéMON."
+trainer:lisa-and-ray,intro,Route107_Text_RayIntro,Route107_EventScript_Ray,"RAY: We always battle POKéMON, me and my sister.
+
+I always lose, but we can beat you 2-on-2!"
+trainer:lisa-and-ray,defeat,Route107_Text_RayDefeated,Route107_EventScript_Ray,"RAY: Wowee, you're at a higher level than us!"
+trainer:lisa-and-ray,not_enough_pokemon,Route107_Text_RayNotEnoughPokemon,Route107_EventScript_Ray,"RAY: If you want to battle us, go bring some more POKéMON!"
+trainer:camron,intro,Route107_Text_CamronIntro,Route107_EventScript_Camron,"I'm in the middle of a triathlon, but I'm nowhere near tired!"
+trainer:camron,defeat,Route107_Text_CamronDefeated,Route107_EventScript_Camron,That exhausted me…
+trainer:jerome,intro,Route108_Text_JeromeIntro,Route108_EventScript_Jerome,My dream is to swim the world's seven seas!
+trainer:jerome,defeat,Route108_Text_JeromeDefeated,Route108_EventScript_Jerome,I won't be able to swim the seven seas like this…
+trainer:matthew,intro,Route108_Text_MatthewIntro,Route108_EventScript_Matthew,"Ahoy, there! Are you going out to the ABANDONED SHIP, too?"
+trainer:matthew,defeat,Route108_Text_MatthewDefeated,Route108_EventScript_Matthew,I'm sinking! Glub… Glub…
+trainer:tara,intro,Route108_Text_TaraIntro,Route108_EventScript_Tara,My liar of a boyfriend told me that I look great in a bikini…
+trainer:tara,defeat,Route108_Text_TaraDefeated,Route108_EventScript_Tara,"Oh, boo!"
+trainer:missy,intro,Route108_Text_MissyIntro,Route108_EventScript_Missy,I love the sea! I forget all my worries when I swim!
+trainer:missy,defeat,Route108_Text_MissyDefeated,Route108_EventScript_Missy,"When I lose a battle, I get all stressed out!"
+trainer:carolina,intro,Route108_Text_CarolinaIntro,Route108_EventScript_Carolina,I take huge pride in my POKéMON. We'll show you one speedy battle!
+trainer:carolina,defeat,Route108_Text_CarolinaDefeated,Route108_EventScript_Carolina,That wasn't cute at all.
+trainer:cory-1,intro,Route108_Text_CoryIntro,Route108_EventScript_Cory,"I love WATER-type POKéMON. I love other POKéMON, too!"
+trainer:cory-1,defeat,Route108_Text_CoryDefeated,Route108_EventScript_Cory,Waaah! I lost! Waaah! Waaah!
+trainer:cory-1,intro,Route108_Text_CoryRematchIntro,Route108_EventScript_CoryRematch,"Win or lose, I love battling at sea!"
+trainer:cory-1,defeat,Route108_Text_CoryRematchDefeated,Route108_EventScript_CoryRematch,Waaah! I lost again! Waaah! Waaah!
+trainer:david,intro,Route109_Text_DavidIntro,Route109_EventScript_David,Hiyah! Look at my chiseled abs! This is what you call “cut”!
+trainer:david,defeat,Route109_Text_DavidDefeated,Route109_EventScript_David,Aiyah! Flubbed out!
+trainer:alice,intro,Route109_Text_AliceIntro,Route109_EventScript_Alice,Are you properly protected against the sun?
+trainer:alice,defeat,Route109_Text_AliceDefeated,Route109_EventScript_Alice,"Ouch, ouch, ouch!"
+trainer:huey,intro,Route109_Text_HueyIntro,Route109_EventScript_Huey,"I've laid anchor in ports around the world, but SLATEPORT's the best."
+trainer:huey,defeat,Route109_Text_HueyDefeated,Route109_EventScript_Huey,You're the best!
+trainer:edmond,intro,Route109_Text_EdmondIntro,Route109_EventScript_Edmond,Urrrrppp… Battle? With me?
+trainer:edmond,defeat,Route109_Text_EdmondDefeated,Route109_EventScript_Edmond,Urp… Ooooooohhhhhh… Urrrrpppp…
+trainer:ricky-1,intro,Route109_Text_RickyIntro,Route109_EventScript_Ricky,I'm thirsty… I could go for a SODA POP at the SEASHORE HOUSE…
+trainer:ricky-1,defeat,Route109_Text_RickyDefeated,Route109_EventScript_Ricky,Groan…
+trainer:ricky-1,intro,Route109_Text_RickyRematchIntro,Route109_EventScript_RickyRematch,"I'm hungry, but I've got enough pep in me for a battle!"
+trainer:ricky-1,defeat,Route109_Text_RickyRematchDefeated,Route109_EventScript_RickyRematch,I lost… It's because I'm hungry…
+trainer:lola-1,intro,Route109_Text_LolaIntro,Route109_EventScript_Lola,Doesn't a beach umbrella look like a giant flower?
+trainer:lola-1,defeat,Route109_Text_LolaDefeated,Route109_EventScript_Lola,Mommy!
+trainer:lola-1,intro,Route109_Text_LolaRematchIntro,Route109_EventScript_LolaRematch,I'm not losing to you again! That's why I have my inner tube!
+trainer:lola-1,defeat,Route109_Text_LolaRematchDefeated,Route109_EventScript_LolaRematch,Mommy!
+trainer:austina,intro,Route109_Text_AustinaIntro,Route109_EventScript_Austina,"I can't swim without my inner tube, but I won't lose at POKéMON!"
+trainer:austina,defeat,Route109_Text_AustinaDefeated,Route109_EventScript_Austina,Did I lose because I have an inner tube?
+trainer:gwen,intro,Route109_Text_GwenIntro,Route109_EventScript_Gwen,"Hi, big TRAINER. Will you battle with me?"
+trainer:gwen,defeat,Route109_Text_GwenDefeated,Route109_EventScript_Gwen,"Oh, you're strong."
+trainer:carter,intro,Route109_Text_CarterIntro,Route109_EventScript_Carter,Wahahah! This dude's going to catch himself a big one!
+trainer:carter,defeat,Route109_Text_CarterDefeated,Route109_EventScript_Carter,This dude just lost one…
+trainer:mel-and-paul,intro,Route109_Text_PaulIntro,Route109_EventScript_Paul,"PAUL: Well, this is a mood-breaker.
+
+I wish you wouldn't disturb our precious time together."
+trainer:mel-and-paul,defeat,Route109_Text_PaulDefeated,Route109_EventScript_Paul,"PAUL: Well, I give up."
+trainer:mel-and-paul,not_enough_pokemon,Route109_Text_PaulNotEnoughPokemon,Route109_EventScript_Paul,"PAUL: We're totally, deeply in love. That's why we make our POKéMON battle together."
+trainer:mel-and-paul,intro,Route109_Text_MelIntro,Route109_EventScript_Mel,"MEL: We're, like, totally in love. Our romance is heating up all of HOENN!"
+trainer:mel-and-paul,defeat,Route109_Text_MelDefeated,Route109_EventScript_Mel,"MEL: We lost, and it's my fault! PAUL will hate me!"
+trainer:mel-and-paul,not_enough_pokemon,Route109_Text_MelNotEnoughPokemon,Route109_EventScript_Mel,"MEL: We're, like, deeply and truly in love. That's why we make our POKéMON battle together."
+trainer:chandler,intro,Route109_Text_ChandlerIntro,Route109_EventScript_Chandler,Tadaah! See? My inner tube's round!
+trainer:chandler,defeat,Route109_Text_ChandlerDefeated,Route109_EventScript_Chandler,"Oh, oh! Too bad!"
+trainer:hailey,intro,Route109_Text_HaileyIntro,Route109_EventScript_Hailey,"I can't swim, so I'm pretending to swim."
+trainer:hailey,defeat,Route109_Text_HaileyDefeated,Route109_EventScript_Hailey,I thought so! I didn't think we could win.
+trainer:elijah,intro,Route109_Text_ElijahIntro,Route109_EventScript_Elijah,"For a guy as macho as me, this kind of POKéMON is the perfect match!"
+trainer:elijah,defeat,Route109_Text_ElijahDefeated,Route109_EventScript_Elijah,"I'm cool even in defeat, hey?"
+trainer:dwayne,intro,Route109_SeashoreHouse_Text_DwayneIntro,Route109_SeashoreHouse_EventScript_Dwayne,"If you're looking for a battle in the SEASHORE HOUSE, you'll find no hotter TRAINER than me, matey!"
+trainer:dwayne,defeat,Route109_SeashoreHouse_Text_DwayneDefeated,Route109_SeashoreHouse_EventScript_Dwayne,"That was a hot battle! I can accept that loss, matey!"
+trainer:johanna,intro,Route109_SeashoreHouse_Text_JohannaIntro,Route109_SeashoreHouse_EventScript_Johanna,"Boring battles aren't worth the effort.
+
+Fiery hot battles are what toughen up TRAINERS and POKéMON!"
+trainer:johanna,defeat,Route109_SeashoreHouse_Text_JohannaDefeated,Route109_SeashoreHouse_EventScript_Johanna,That's hot!
+trainer:simon,intro,Route109_SeashoreHouse_Text_SimonIntro,Route109_SeashoreHouse_EventScript_Simon,"I'm going to show you how great my POKéMON are, but don't cry!"
+trainer:simon,defeat,Route109_SeashoreHouse_Text_SimonDefeated,Route109_SeashoreHouse_EventScript_Simon,"…I lost, but I won't cry…"
+trainer:edward,intro,Route110_Text_EdwardIntro,Route110_EventScript_Edward,I have foreseen your intentions! I cannot possibly lose!
+trainer:edward,defeat,Route110_Text_EdwardDefeated,Route110_EventScript_Edward,I failed to prophesize my own demise!
+trainer:jaclyn,intro,Route110_Text_JaclynIntro,Route110_EventScript_Jaclyn,Ahahahaha! I'll dazzle you with my wonders!
+trainer:jaclyn,defeat,Route110_Text_JaclynDefeated,Route110_EventScript_Jaclyn,I wondrously lost!
+trainer:edwin-1,intro,Route110_Text_EdwinIntro,Route110_EventScript_Edwin,"Could I see your POKéMON? Just one look, please?"
+trainer:edwin-1,defeat,Route110_Text_EdwinDefeated,Route110_EventScript_Edwin,I wanted to complete my collection…
+trainer:edwin-1,intro,Route110_Text_EdwinRematchIntro,Route110_EventScript_EdwinRematch,"Hi, have you caught any new POKéMON?
+
+Could I see your POKéMON? Just one look, please?"
+trainer:edwin-1,defeat,Route110_Text_EdwinRematchDefeated,Route110_EventScript_EdwinRematch,Your POKéMON… I envy you.
+trainer:dale,intro,Route110_Text_DaleIntro,Route110_EventScript_Dale,Hey! Don't sneak up behind me like that!
+trainer:dale,defeat,Route110_Text_DaleDefeated,Route110_EventScript_Dale,I lost! Drat!
+trainer:jacob,intro,Route110_Text_JacobIntro,Route110_EventScript_Jacob,Whoa! Watch it! I guess you're not used to BIKE racing.
+trainer:jacob,defeat,Route110_Text_JacobDefeated,Route110_EventScript_Jacob,Whoa! My brakes failed!
+trainer:anthony,intro,Route110_Text_AnthonyIntro,Route110_EventScript_Anthony,"Yo, you! Can you keep up with my speed?"
+trainer:anthony,defeat,Route110_Text_AnthonyDefeated,Route110_EventScript_Anthony,Crash and burn!
+trainer:benjamin-1,intro,Route110_Text_BenjaminIntro,Route110_EventScript_Benjamin,Don't panic if your BIKE's going fast!
+trainer:benjamin-1,defeat,Route110_Text_BenjaminDefeated,Route110_EventScript_Benjamin,I shouldn't panic during POKéMON battles…
+trainer:benjamin-1,intro,Route110_Text_BenjaminRematchIntro,Route110_EventScript_BenjaminRematch,Aren't you going a little too fast? Take it easy and let's battle.
+trainer:benjamin-1,defeat,Route110_Text_BenjaminRematchDefeated,Route110_EventScript_BenjaminRematch,"I didn't panic, but I still lost…"
+trainer:jasmine,intro,Route110_Text_JasmineIntro,Route110_EventScript_Jasmine,I've been riding without stopping. My thighs are like rocks!
+trainer:jasmine,defeat,Route110_Text_JasmineDefeated,Route110_EventScript_Jasmine,I'm worried about muscle cramps…
+trainer:abigail-1,intro,Route110_Text_AbigailIntro,Route110_EventScript_Abigail,"The triathlon is hard in the extreme.
+
+You have to complete the three events of swimming, cycling, and running."
+trainer:abigail-1,defeat,Route110_Text_AbigailDefeated,Route110_EventScript_Abigail,"POKéMON battles are hard, too!"
+trainer:abigail-1,intro,Route110_Text_AbigailRematchIntro,Route110_EventScript_AbigailRematch,Isn't it neat to hold a battle while cycling?
+trainer:abigail-1,defeat,Route110_Text_AbigailRematchDefeated,Route110_EventScript_AbigailRematch,Wow… How could you be so strong?
+trainer:isabel-1,intro,Route110_Text_IsabelIntro,Route110_EventScript_Isabel,Ahahaha! I would go anywhere to show off my delightful POKéMON.
+trainer:isabel-1,defeat,Route110_Text_IsabelDefeated,Route110_EventScript_Isabel,"Oh, dear, this won't do."
+trainer:isabel-1,intro,Route110_Text_IsabelRematchIntro,Route110_EventScript_IsabelRematch,Ahahahaha! I would be happy to show off my POKéMON as often as you like!
+trainer:isabel-1,defeat,Route110_Text_IsabelRematchDefeated,Route110_EventScript_IsabelRematch,"Oh, dear, this won't do."
+trainer:timmy,intro,Route110_Text_TimmyIntro,Route110_EventScript_Timmy,I found some cool POKéMON in the grass around here!
+trainer:timmy,defeat,Route110_Text_TimmyDefeated,Route110_EventScript_Timmy,Being cool isn't enough to win…
+trainer:kaleb,intro,Route110_Text_KalebIntro,Route110_EventScript_Kaleb,When cute POKéMON help each other… You won't see a more adorable sight!
+trainer:kaleb,defeat,Route110_Text_KalebDefeated,Route110_EventScript_Kaleb,Have you no compassion or pity?
+trainer:joseph,intro,Route110_Text_JosephIntro,Route110_EventScript_Joseph,"Okay! Full-throttle time! If you can't groove, you get left behind!"
+trainer:joseph,defeat,Route110_Text_JosephDefeated,Route110_EventScript_Joseph,You got into the groove all right…
+trainer:alyssa,intro,Route110_Text_AlyssaIntro,Route110_EventScript_Alyssa,"I fell off CYCLING ROAD…
+
+I'll get over my embarrassment by battling with you!"
+trainer:alyssa,defeat,Route110_Text_AlyssaDefeated,Route110_EventScript_Alyssa,Oops! I ended up losing!
+trainer:may-route-110-treecko,defeat,Route110_Text_MayDefeated,Route110_EventScript_MayBattleTreecko,Yikes! You're better than I expected!
+trainer:may-route-110-torchic,defeat,Route110_Text_MayDefeated,Route110_EventScript_MayBattleTorchic,Yikes! You're better than I expected!
+trainer:may-route-110-mudkip,defeat,Route110_Text_MayDefeated,Route110_EventScript_MayBattleMudkip,Yikes! You're better than I expected!
+trainer:brendan-route-110-treecko,defeat,Route110_Text_BrendanDefeated,Route110_EventScript_BrendanBattleTreecko,Hmm… You're pretty good.
+trainer:brendan-route-110-torchic,defeat,Route110_Text_BrendanDefeated,Route110_EventScript_BrendanBattleTorchic,Hmm… You're pretty good.
+trainer:brendan-route-110-mudkip,defeat,Route110_Text_BrendanDefeated,Route110_EventScript_BrendanBattleMudkip,Hmm… You're pretty good.
+trainer:sally,intro,Route110_TrickHousePuzzle1_Text_SallyIntro,Route110_TrickHousePuzzle1_EventScript_Sally,I'll hack and slash my way to victory with the CUT we just learned!
+trainer:sally,defeat,Route110_TrickHousePuzzle1_Text_SallyDefeat,Route110_TrickHousePuzzle1_EventScript_Sally,Why are you so serious?
+trainer:eddie,intro,Route110_TrickHousePuzzle1_Text_EddieIntro,Route110_TrickHousePuzzle1_EventScript_Eddie,I wandered into this weird house by accident…
+trainer:eddie,defeat,Route110_TrickHousePuzzle1_Text_EddieDefeat,Route110_TrickHousePuzzle1_EventScript_Eddie,And now I've lost…
+trainer:robin,intro,Route110_TrickHousePuzzle1_Text_RobinIntro,Route110_TrickHousePuzzle1_EventScript_Robin,Just who is the TRICK MASTER?
+trainer:robin,defeat,Route110_TrickHousePuzzle1_Text_RobinDefeat,Route110_TrickHousePuzzle1_EventScript_Robin,I lost while I was lost in thought!
+trainer:ted,intro,Route110_TrickHousePuzzle2_Text_TedIntro,Route110_TrickHousePuzzle2_EventScript_Ted,Which switch closes which hole?
+trainer:ted,defeat,Route110_TrickHousePuzzle2_Text_TedDefeat,Route110_TrickHousePuzzle2_EventScript_Ted,"After that battle, I'm even more confused!"
+trainer:paul,intro,Route110_TrickHousePuzzle2_Text_PaulIntro,Route110_TrickHousePuzzle2_EventScript_Paul,Oh! You're on your second TRICK HOUSE challenge!
+trainer:paul,defeat,Route110_TrickHousePuzzle2_Text_PaulDefeat,Route110_TrickHousePuzzle2_EventScript_Paul,You're good at battling too?
+trainer:georgia,intro,Route110_TrickHousePuzzle2_Text_GeorgiaIntro,Route110_TrickHousePuzzle2_EventScript_Georgia,"I want to make my own GYM one day. So, I'm studying how to set traps."
+trainer:georgia,defeat,Route110_TrickHousePuzzle2_Text_GeorgiaDefeat,Route110_TrickHousePuzzle2_EventScript_Georgia,I didn't study battling enough!
+trainer:justin,intro,Route110_TrickHousePuzzle3_Text_JustinIntro,Route110_TrickHousePuzzle3_EventScript_Justin,I keep coming back to this same place!
+trainer:justin,defeat,Route110_TrickHousePuzzle3_Text_JustinDefeat,Route110_TrickHousePuzzle3_EventScript_Justin,"I'm already having trouble, and then you have to beat me? It's not fair!"
+trainer:martha,intro,Route110_TrickHousePuzzle3_Text_MarthaIntro,Route110_TrickHousePuzzle3_EventScript_Martha,I don't know what's going on here. I'm starting to feel sad…
+trainer:martha,defeat,Route110_TrickHousePuzzle3_Text_MarthaDefeat,Route110_TrickHousePuzzle3_EventScript_Martha,You… You're awful!
+trainer:alan,intro,Route110_TrickHousePuzzle3_Text_AlanIntro,Route110_TrickHousePuzzle3_EventScript_Alan,I don't get it. What would anyone want with a house this bizarre?
+trainer:alan,defeat,Route110_TrickHousePuzzle3_Text_AlanDefeat,Route110_TrickHousePuzzle3_EventScript_Alan,I don't get it. How did I lose?
+trainer:cora,intro,Route110_TrickHousePuzzle4_Text_CoraIntro,Route110_TrickHousePuzzle4_EventScript_Cora,It's too much bother to think this out. I only wanted to battle!
+trainer:cora,defeat,Route110_TrickHousePuzzle4_Text_CoraDefeat,Route110_TrickHousePuzzle4_EventScript_Cora,"Even though I lost, I still like battling the best!"
+trainer:yuji,intro,Route110_TrickHousePuzzle4_Text_YujiIntro,Route110_TrickHousePuzzle4_EventScript_Yuji,"Heh! Boulders like this, I can brush aside with one finger!"
+trainer:yuji,defeat,Route110_TrickHousePuzzle4_Text_YujiDefeat,Route110_TrickHousePuzzle4_EventScript_Yuji,"I can push boulders, but I can't solve the puzzle…"
+trainer:paula,intro,Route110_TrickHousePuzzle4_Text_PaulaIntro,Route110_TrickHousePuzzle4_EventScript_Paula,"The TRICK HOUSE is getting trickier, isn't it?"
+trainer:paula,defeat,Route110_TrickHousePuzzle4_Text_PaulaDefeat,Route110_TrickHousePuzzle4_EventScript_Paula,Aaak!
+trainer:sophia,intro,Route110_TrickHousePuzzle6_Text_SophiaIntro,Route110_TrickHousePuzzle6_EventScript_Sophia,"When I heard there was a strange house, I had to check it out."
+trainer:sophia,defeat,Route110_TrickHousePuzzle6_Text_SophiaDefeat,Route110_TrickHousePuzzle6_EventScript_Sophia,I've discovered a tough TRAINER!
+trainer:benny,intro,Route110_TrickHousePuzzle6_Text_BennyIntro,Route110_TrickHousePuzzle6_EventScript_Benny,Maybe I could get my BIRD POKéMON to fly over the wall…
+trainer:benny,defeat,Route110_TrickHousePuzzle6_Text_BennyDefeat,Route110_TrickHousePuzzle6_EventScript_Benny,Gwaaah! I blew it!
+trainer:sebastian,intro,Route110_TrickHousePuzzle6_Text_SebastianIntro,Route110_TrickHousePuzzle6_EventScript_Sebastian,I'm getting dizzy from these rotating doors…
+trainer:sebastian,defeat,Route110_TrickHousePuzzle6_Text_SebastianDefeat,Route110_TrickHousePuzzle6_EventScript_Sebastian,Everything's spinning around and around. I can't take this anymore…
+trainer:joshua,intro,Route110_TrickHousePuzzle7_Text_JoshuaIntro,Route110_TrickHousePuzzle7_EventScript_Joshua,The TRICK MASTER always vanishes like smoke. How does he do it?
+trainer:joshua,defeat,Route110_TrickHousePuzzle7_Text_JoshuaDefeat,Route110_TrickHousePuzzle7_EventScript_Joshua,Aiyeeeh! You're much too strong! How do you do it?
+trainer:patricia,intro,Route110_TrickHousePuzzle7_Text_PatriciaIntro,Route110_TrickHousePuzzle7_EventScript_Patricia,Going around the same spot… It begets ill fortune…
+trainer:patricia,defeat,Route110_TrickHousePuzzle7_Text_PatriciaDefeat,Route110_TrickHousePuzzle7_EventScript_Patricia,Defeated! It's a bad sign…
+trainer:alexis,intro,Route110_TrickHousePuzzle7_Text_AlexisIntro,Route110_TrickHousePuzzle7_EventScript_Alexis,Whoever wins will get through here first. That's the feeling I get.
+trainer:alexis,defeat,Route110_TrickHousePuzzle7_Text_AlexisDefeat,Route110_TrickHousePuzzle7_EventScript_Alexis,"Oh! Well, go ahead, then!"
+trainer:mariela,intro,Route110_TrickHousePuzzle7_Text_MarielaIntro,Route110_TrickHousePuzzle7_EventScript_Mariela,"Nufufufu, here at last! Let's get right with it!"
+trainer:mariela,defeat,Route110_TrickHousePuzzle7_Text_MarielaDefeat,Route110_TrickHousePuzzle7_EventScript_Mariela,You're so casual about winning!
+trainer:alvaro,intro,Route110_TrickHousePuzzle7_Text_AlvaroIntro,Route110_TrickHousePuzzle7_EventScript_Alvaro,I ever so closely watched you coming!
+trainer:alvaro,defeat,Route110_TrickHousePuzzle7_Text_AlvaroDefeat,Route110_TrickHousePuzzle7_EventScript_Alvaro,This outcome I didn't see coming…
+trainer:everett,intro,Route110_TrickHousePuzzle7_Text_EverettIntro,Route110_TrickHousePuzzle7_EventScript_Everett,It's awfully cramped in here…
+trainer:everett,defeat,Route110_TrickHousePuzzle7_Text_EverettDefeat,Route110_TrickHousePuzzle7_EventScript_Everett,"Oh, yes, strong you are."
+trainer:vincent,intro,Route110_TrickHousePuzzle8_Text_VincentIntro,Route110_TrickHousePuzzle8_EventScript_Vincent,Not many TRAINERS have made it this far.
+trainer:vincent,defeat,Route110_TrickHousePuzzle8_Text_VincentDefeat,Route110_TrickHousePuzzle8_EventScript_Vincent,"That must mean you're tough, too…"
+trainer:keira,intro,Route110_TrickHousePuzzle8_Text_KeiraIntro,Route110_TrickHousePuzzle8_EventScript_Keira,Consider yourself lucky to be battling me!
+trainer:keira,defeat,Route110_TrickHousePuzzle8_Text_KeiraDefeat,Route110_TrickHousePuzzle8_EventScript_Keira,This isn't right! I can't lose!
+trainer:leroy,intro,Route110_TrickHousePuzzle8_Text_LeroyIntro,Route110_TrickHousePuzzle8_EventScript_Leroy,"You've been slugging through the TRICK HOUSE challenge, too."
+trainer:leroy,defeat,Route110_TrickHousePuzzle8_Text_LeroyDefeat,Route110_TrickHousePuzzle8_EventScript_Leroy,I see… You possess an extraordinary style.
+trainer:victor,defeat,Route111_Text_VictorDefeat,Route111_EventScript_BattleWinstrates,Aiyah! You're a lot tougher than I expected!
+trainer:victoria,defeat,Route111_Text_VictoriaDefeat,Route111_EventScript_BattleWinstrates,"Oh, gosh! I can't get over how strong you are!"
+trainer:vivi,defeat,Route111_Text_ViviDefeat,Route111_EventScript_BattleWinstrates,Huh? Did I just lose?
+trainer:vicky,defeat,Route111_Text_VickyDefeat,Route111_EventScript_BattleWinstrates,Kwah! You are strong… My granddaughter was right…
+trainer:drew,intro,Route111_Text_DrewIntro,Route111_EventScript_Drew,"Oh, hey! Those GO-GOGGLES suit you. But I think they look better on me.
+
+Let's decide who they look better on with a battle!"
+trainer:drew,defeat,Route111_Text_DrewDefeat,Route111_EventScript_Drew,I couldn't see what was happening at my sides because of the GO-GOGGLES.
+trainer:heidi,intro,Route111_Text_HeidiIntro,Route111_EventScript_Heidi,"I'm having a picnic in the desert.
+
+You can always find a TRAINER, so I can enjoy a battle here, too!"
+trainer:heidi,defeat,Route111_Text_HeidiDefeat,Route111_EventScript_Heidi,Ohhh! You're mean!
+trainer:beau,intro,Route111_Text_BeauIntro,Route111_EventScript_Beau,"Wearing these GO-GOGGLES makes me feel like a superhero. Right now, nobody can beat me!"
+trainer:beau,defeat,Route111_Text_BeauDefeat,Route111_EventScript_Beau,I can't win on spirit alone…
+trainer:becky,intro,Route111_Text_BeckyIntro,Route111_EventScript_Becky,I heard there are fossils to be found in the desert. Where could they be?
+trainer:becky,defeat,Route111_Text_BeckyDefeat,Route111_EventScript_Becky,I came up short…
+trainer:dusty-1,intro,Route111_Text_DustyIntro,Route111_EventScript_Dusty,For thirty years I have searched for ancient ruins! I am to be challenged?
+trainer:dusty-1,defeat,Route111_Text_DustyDefeat,Route111_EventScript_Dusty,"While I have searched for ruins, I've not searched for strong POKéMON."
+trainer:dusty-1,intro,Route111_Text_DustyRematchIntro,Route111_EventScript_RematchDusty,"For thirty years I have searched for ancient ruins!
+
+No, wait, was that forty years? Anyway, am I to be challenged?"
+trainer:dusty-1,defeat,Route111_Text_DustyRematchDefeat,Route111_EventScript_RematchDusty,"I've found no ruins, nor have I found any strong POKéMON…"
+trainer:travis,intro,Route111_Text_TravisIntro,Route111_EventScript_Travis,"I'm full of pep! And my POKéMON is peppy, too!"
+trainer:travis,defeat,Route111_Text_TravisDefeat,Route111_EventScript_Travis,My POKéMON lost its pep…
+trainer:irene,intro,Route111_Text_IreneIntro,Route111_EventScript_Irene,"I don't know where you're going, but would you like to battle?"
+trainer:irene,defeat,Route111_Text_IreneDefeat,Route111_EventScript_Irene,"Oh, you're disgustingly good!"
+trainer:daisuke,intro,Route111_Text_DaisukeIntro,Route111_EventScript_Daisuke,"To train myself, I challenge all whom I meet!"
+trainer:daisuke,defeat,Route111_Text_DaisukeDefeat,Route111_EventScript_Daisuke,Uncle! I give up!
+trainer:wilton-1,intro,Route111_Text_WiltonIntro,Route111_EventScript_Wilton,Show me how much you've toughened your POKéMON.
+trainer:wilton-1,defeat,Route111_Text_WiltonDefeat,Route111_EventScript_Wilton,"I see, you've toughened them considerably."
+trainer:wilton-1,intro,Route111_Text_WiltonRematchIntro,Route111_EventScript_RematchWilton,We're training here to elevate our game to the next level. Stay and train with us!
+trainer:wilton-1,defeat,Route111_Text_WiltonRematchDefeat,Route111_EventScript_RematchWilton,"Ooh, you're decent!"
+trainer:brooke-1,intro,Route111_Text_BrookeIntro,Route111_EventScript_Brooke,"Oh, your POKéMON look like serious actors. I have to ask you for an engagement."
+trainer:brooke-1,defeat,Route111_Text_BrookeDefeat,Route111_EventScript_Brooke,"They didn't just look strong, they are strong!"
+trainer:brooke-1,intro,Route111_Text_BrookeRematchIntro,Route111_EventScript_RematchBrooke,"You can make POKéMON stronger or weaker depending on the moves you teach them.
+
+What kinds of moves do your POKéMON know?"
+trainer:brooke-1,defeat,Route111_Text_BrookeRematchDefeat,Route111_EventScript_RematchBrooke,You've taught them good moves!
+trainer:hayden,intro,Route111_Text_HaydenIntro,Route111_EventScript_Hayden,"When you're as famished as I am, there is no room for pity!"
+trainer:hayden,defeat,Route111_Text_HaydenDefeat,Route111_EventScript_Hayden,Groan…
+trainer:bianca,intro,Route111_Text_BiancaIntro,Route111_EventScript_Bianca,Did you come from MAUVILLE? Then you should be full of energy!
+trainer:bianca,defeat,Route111_Text_BiancaDefeat,Route111_EventScript_Bianca,Ooh lala! That's a lot to take!
+trainer:tyron,intro,Route111_Text_TyronIntro,Route111_EventScript_Tyron,This is my favorite kind of POKéMON!
+trainer:tyron,defeat,Route111_Text_TyronDefeat,Route111_EventScript_Tyron,Wait! Did you get a good look at my POKéMON?
+trainer:celina,intro,Route111_Text_CelinaIntro,Route111_EventScript_Celina,Show me how to put a little excitement into my life.
+trainer:celina,defeat,Route111_Text_CelinaDefeat,Route111_EventScript_Celina,Oh… My… That was too much excitement.
+trainer:celia,intro,Route111_Text_CeliaIntro,Route111_EventScript_Celia,I shouldn't have come to a place like this for a picnic!
+trainer:celia,defeat,Route111_Text_CeliaDefeat,Route111_EventScript_Celia,Aww! I really shouldn't have come!
+trainer:bryan,intro,Route111_Text_BryanIntro,Route111_EventScript_Bryan,How tough are you? We shall expose that secret!
+trainer:bryan,defeat,Route111_Text_BryanDefeat,Route111_EventScript_Bryan,Oh! Your strength! It is shrouded in mystery!
+trainer:branden,intro,Route111_Text_BrandenIntro,Route111_EventScript_Branden,I'll give you some of my sandwich if you'll lose.
+trainer:branden,defeat,Route111_Text_BrandenDefeat,Route111_EventScript_Branden,Tch! I thought a sandwich would be enough of a bribe…
+trainer:brice,intro,Route112_Text_BriceIntro,Route112_EventScript_Brice,Hahahaha! How about we have a battle? You and me! Hahahaha!
+trainer:brice,defeat,Route112_Text_BriceDefeat,Route112_EventScript_Brice,I lost! Hahahaha!
+trainer:trent-1,intro,Route112_Text_TrentIntro,Route112_EventScript_Trent,"My legs are solid from pounding up and down the mountains.
+
+They're not going to buckle easily, friend!"
+trainer:trent-1,defeat,Route112_Text_TrentDefeat,Route112_EventScript_Trent,Ouch! My legs cramped up!
+trainer:trent-1,intro,Route112_Text_TrentRematchIntro,Route112_EventScript_RematchTrent,"I've been keeping fit by hiking. Power, I have in spades!"
+trainer:trent-1,defeat,Route112_Text_TrentRematchDefeat,Route112_EventScript_RematchTrent,I got trumped in power?
+trainer:larry,intro,Route112_Text_LarryIntro,Route112_EventScript_Larry,I'm strong. I won't cry if I lose.
+trainer:larry,defeat,Route112_Text_LarryDefeat,Route112_EventScript_Larry,Waaaah!
+trainer:carol,intro,Route112_Text_CarolIntro,Route112_EventScript_Carol,"When you're out on a picnic, why, you simply have to sing! Come on, sing with me!"
+trainer:carol,defeat,Route112_Text_CarolDefeat,Route112_EventScript_Carol,"Oh, you're so strong!"
+trainer:bryant,intro,Route112_Text_BryantIntro,Route112_EventScript_Bryant,I caught hot POKéMON in FIERY PATH! Take a look!
+trainer:bryant,defeat,Route112_Text_BryantDefeat,Route112_EventScript_Bryant,What a bumpy ride that was!
+trainer:shayla,intro,Route112_Text_ShaylaIntro,Route112_EventScript_Shayla,"Oh, aren't you an adorable TRAINER! Please, I need a romantic battle! I'm somewhat decent!"
+trainer:shayla,defeat,Route112_Text_ShaylaDefeat,Route112_EventScript_Shayla,"Oh, how strong you are! You've given me quite a shock!"
+trainer:jaylen,intro,Route113_Text_JaylenIntro,Route113_EventScript_Jaylen,Can you guess why it's so cool around here?
+trainer:jaylen,defeat,Route113_Text_JaylenDefeat,Route113_EventScript_Jaylen,Peeuuw! That stinks!
+trainer:dillon,intro,Route113_Text_DillonIntro,Route113_EventScript_Dillon,The volcano's eruption is proof that the earth is alive.
+trainer:dillon,defeat,Route113_Text_DillonDefeat,Route113_EventScript_Dillon,You're some kind of strong!
+trainer:madeline-1,intro,Route113_Text_MadelineIntro,Route113_EventScript_Madeline,"I use this parasol to ward off this filthy, yucky volcanic ash from my dear NUMEL."
+trainer:madeline-1,defeat,Route113_Text_MadelineDefeat,Route113_EventScript_Madeline,"Huff, huff… I am exhausted…"
+trainer:madeline-1,intro,Route113_Text_MadelineRematchIntro,Route113_EventScript_RematchMadeline,"Oh, hello, hasn't it been a while? May I invite you to battle?"
+trainer:madeline-1,defeat,Route113_Text_MadelineRematchDefeat,Route113_EventScript_RematchMadeline,"Oh, how super!"
+trainer:lao-1,intro,Route113_Text_LaoIntro,Route113_EventScript_Lao,From out of the ashes I leap! Hiyah! I challenge thee!
+trainer:lao-1,defeat,Route113_Text_LaoDefeat,Route113_EventScript_Lao,With honor I admit defeat!
+trainer:lao-1,intro,Route113_Text_LaoRematchIntro,Route113_EventScript_RematchLao,From out of the ashes I leap! Hiyah! I challenge thee!
+trainer:lao-1,defeat,Route113_Text_LaoRematchDefeat,Route113_EventScript_RematchLao,With honor I admit defeat!
+trainer:lung,intro,Route113_Text_LungIntro,Route113_EventScript_Lung,Thanks for finding me! But we still have to battle!
+trainer:lung,defeat,Route113_Text_LungDefeat,Route113_EventScript_Lung,"I'll use my ninjutsu on you… “VOLCANIC ASH SWIRL CLOAK”!
+
+…What? It's already over?"
+trainer:tori-and-tia,intro,Route113_Text_ToriIntro,Route113_EventScript_Tori,"TORI: Both of us, we collect ashes. We battle POKéMON, too."
+trainer:tori-and-tia,defeat,Route113_Text_ToriDefeat,Route113_EventScript_Tori,"TORI: We lost… It's boring, so I'm going to get some more ashes."
+trainer:tori-and-tia,not_enough_pokemon,Route113_Text_ToriNotEnoughMons,Route113_EventScript_Tori,"TORI: We want to battle 2-on-2. If we didn't, we would lose!"
+trainer:tori-and-tia,intro,Route113_Text_TiaIntro,Route113_EventScript_Tia,"TIA: Both of us, we collect ashes. We battle POKéMON, too."
+trainer:tori-and-tia,defeat,Route113_Text_TiaDefeat,Route113_EventScript_Tia,"TIA: We couldn't win… It's boring, so I'm getting some more ashes."
+trainer:tori-and-tia,not_enough_pokemon,Route113_Text_TiaNotEnoughMons,Route113_EventScript_Tia,"TIA: We want to battle 2-on-2. If we don't, we won't win!"
+trainer:sophie,intro,Route113_Text_SophieIntro,Route113_EventScript_Sophie,The warmth here is making me drowsy. Battle with me so I can stay awake.
+trainer:sophie,defeat,Route113_Text_SophieDefeat,Route113_EventScript_Sophie,This is a dream. I'm sure of it…
+trainer:coby,intro,Route113_Text_CobyIntro,Route113_EventScript_Coby,"Pfft, with these wings I can flick you away!"
+trainer:coby,defeat,Route113_Text_CobyDefeat,Route113_EventScript_Coby,A… What?
+trainer:lawrence,intro,Route113_Text_LawrenceIntro,Route113_EventScript_Lawrence,Were you maybe in the middle of gathering volcanic ashes?
+trainer:lawrence,defeat,Route113_Text_LawrenceDefeat,Route113_EventScript_Lawrence,Ehehe. We got beaten cleanly.
+trainer:wyatt,intro,Route113_Text_WyattIntro,Route113_EventScript_Wyatt,Y-you want to battle with me? Even though I just caught my POKéMON?
+trainer:wyatt,defeat,Route113_Text_WyattDefeat,Route113_EventScript_Wyatt,Y-you're all happy to win? Even though it's only me?
+trainer:lenny,intro,Route114_Text_LennyIntro,Route114_EventScript_Lenny,"Yodelayhihoo!
+
+… …
+
+You're supposed to shout “yodelayhihoo” since it doesn't echo here!"
+trainer:lenny,defeat,Route114_Text_LennyDefeat,Route114_EventScript_Lenny,Yodelayhihoo!
+trainer:lucas-1,intro,Route114_Text_LucasIntro,Route114_EventScript_Lucas,"If you're not prepared, you shouldn't be up in the mountains!"
+trainer:lucas-1,defeat,Route114_Text_LucasDefeat,Route114_EventScript_Lucas,The mountains are unforgiving…
+trainer:shane,intro,Route114_Text_ShaneIntro,Route114_EventScript_Shane,"Camping's fun! You can fish, roast marshmallows, and tell spooky stories!
+
+But the best of all are the POKéMON battles!"
+trainer:shane,defeat,Route114_Text_ShaneDefeat,Route114_EventScript_Shane,Way too strong!
+trainer:nancy,intro,Route114_Text_NancyIntro,Route114_EventScript_Nancy,I need to exercise after a meal. Let's have a match!
+trainer:nancy,defeat,Route114_Text_NancyDefeat,Route114_EventScript_Nancy,"Oh, no!"
+trainer:steve-1,intro,Route114_Text_SteveIntro,Route114_EventScript_Steve,Ufufufufufu… Want to battle against my POKéMON?
+trainer:steve-1,defeat,Route114_Text_SteveDefeat,Route114_EventScript_Steve,M-My POKéMON…
+trainer:steve-1,intro,Route114_Text_SteveRematchIntro,Route114_EventScript_RematchSteve,"Ufufufufufu… Come on, battle my POKéMON…"
+trainer:steve-1,defeat,Route114_Text_SteveRematchDefeat,Route114_EventScript_RematchSteve,I feel so lucky getting to see your POKéMON…
+trainer:bernie-1,intro,Route114_Text_BernieIntro,Route114_EventScript_Bernie,"If you're lighting a campfire, make sure you have water handy."
+trainer:bernie-1,defeat,Route114_Text_BernieDefeat,Route114_EventScript_Bernie,Thanks for dousing my fire!
+trainer:bernie-1,intro,Route114_Text_BernieRematchIntro,Route114_EventScript_RematchBernie,Have you learned to keep water handy for campfires?
+trainer:bernie-1,defeat,Route114_Text_BernieRematchDefeat,Route114_EventScript_RematchBernie,"I got hosed down before I could flare up, I guess."
+trainer:claude,intro,Route114_Text_ClaudeIntro,Route114_EventScript_Claude,"If we were fishing, you wouldn't stand a chance against me. So, bring on your POKéMON!"
+trainer:claude,defeat,Route114_Text_ClaudeDefeat,Route114_EventScript_Claude,"If we were fishing, I would've won…"
+trainer:nolan,intro,Route114_Text_NolanIntro,Route114_EventScript_Nolan,"I like to fish. But I also like to battle!
+
+If anyone challenges me, I'm there, even if I'm fishing."
+trainer:nolan,defeat,Route114_Text_NolanDefeat,Route114_EventScript_Nolan,"I like to battle, but that doesn't mean I'm good at it…"
+trainer:tyra-and-ivy,intro,Route114_Text_TyraIntro,Route114_EventScript_Tyra,"TYRA: Well, sure. I'm in the mood for it. I'll teach you a little about POKéMON."
+trainer:tyra-and-ivy,defeat,Route114_Text_TyraDefeat,Route114_EventScript_Tyra,TYRA: What an amazing battle style!
+trainer:tyra-and-ivy,not_enough_pokemon,Route114_Text_TyraNotEnoughMons,Route114_EventScript_Tyra,"TYRA: Giggle… If you want to battle with us, just one POKéMON isn't enough!"
+trainer:tyra-and-ivy,intro,Route114_Text_IvyIntro,Route114_EventScript_Ivy,IVY: Who taught you about POKéMON?
+trainer:tyra-and-ivy,defeat,Route114_Text_IvyDefeat,Route114_EventScript_Ivy,IVY: What an amazing battle style!
+trainer:tyra-and-ivy,not_enough_pokemon,Route114_Text_IvyNotEnoughMons,Route114_EventScript_Ivy,IVY: Do you only have one POKéMON? I think it must feel lonesome.
+trainer:angelina,intro,Route114_Text_AngelinaIntro,Route114_EventScript_Angelina,Have you made your POKéMON evolve very much?
+trainer:angelina,defeat,Route114_Text_AngelinaDefeat,Route114_EventScript_Angelina,"Oh, I see. That's good to know."
+trainer:charlotte,intro,Route114_Text_CharlotteIntro,Route114_EventScript_Charlotte,Me! I'm not just a pretty face!
+trainer:charlotte,defeat,Route114_Text_CharlotteDefeat,Route114_EventScript_Charlotte,That wasn't cute in the least!
+trainer:kai,intro,Route114_Text_KaiIntro,Route114_EventScript_Kai,"I landed a big one! A huge one, I tell you!"
+trainer:kai,defeat,Route114_Text_KaiDefeat,Route114_EventScript_Kai,What was that about? Did mine lose in size?
+trainer:timothy-1,intro,Route115_Text_TimothyIntro,Route115_EventScript_Timothy,Hm… You seem rather capable… Let me keep you company!
+trainer:timothy-1,defeat,Route115_Text_TimothyDefeat,Route115_EventScript_Timothy,You're much stronger than I'd imagined!
+trainer:timothy-1,intro,Route115_Text_TimothyRematchIntro,Route115_EventScript_RematchTimothy,"Hm… As always, your agility speaks for itself. Come, keep me company!"
+trainer:timothy-1,defeat,Route115_Text_TimothyRematchDefeat,Route115_EventScript_RematchTimothy,As strong as ever!
+trainer:koichi,intro,Route115_Text_KoichiIntro,Route115_EventScript_Koichi,"You!
+
+My MACHOP!
+
+Demand a battle!"
+trainer:koichi,defeat,Route115_Text_KoichiDefeat,Route115_EventScript_Koichi,"Ouch, ouch, ouch!"
+trainer:nob-1,intro,Route115_Text_NobIntro,Route115_EventScript_Nob,My strongest skill is busting bricks with my forehead!
+trainer:nob-1,defeat,Route115_Text_NobDefeat,Route115_EventScript_Nob,Ugwaaaah! My head is busted!
+trainer:nob-1,intro,Route115_Text_NobRematchIntro,Route115_EventScript_RematchNob,"After you beat me, we trained hard to improve our skills. Come on, give us a rematch!"
+trainer:nob-1,defeat,Route115_Text_NobRematchDefeat,Route115_EventScript_RematchNob,Ugwaaah! We lost again!
+trainer:cyndy-1,intro,Route115_Text_CyndyIntro,Route115_EventScript_Cyndy,This beach is my secret training spot! Don't come butting in!
+trainer:cyndy-1,defeat,Route115_Text_CyndyDefeat,Route115_EventScript_Cyndy,I haven't trained enough!
+trainer:cyndy-1,intro,Route115_Text_CyndyRematchIntro,Route115_EventScript_RematchCyndy,"Okay, let's get this battle on!"
+trainer:cyndy-1,defeat,Route115_Text_CyndyRematchDefeat,Route115_EventScript_RematchCyndy,I can battle but my POKéMON…
+trainer:hector,intro,Route115_Text_HectorIntro,Route115_EventScript_Hector,I have a rare POKéMON! Would you like me to show you?
+trainer:hector,defeat,Route115_Text_HectorDefeat,Route115_EventScript_Hector,"You… You want my POKéMON, don't you?"
+trainer:kyra,intro,Route115_Text_KyraIntro,Route115_EventScript_Kyra,I'll battle while I'm running! Try to keep up with me!
+trainer:kyra,defeat,Route115_Text_KyraDefeat,Route115_EventScript_Kyra,"Gasp, gasp…"
+trainer:jaiden,intro,Route115_Text_JaidenIntro,Route115_EventScript_Jaiden,Take that! Ultra POKéMON ninja attack!
+trainer:jaiden,defeat,Route115_Text_JaidenDefeat,Route115_EventScript_Jaiden,Waaah! Our strategy failed!
+trainer:alix,intro,Route115_Text_AlixIntro,Route115_EventScript_Alix,Our eyes met! There's no getting away now!
+trainer:alix,defeat,Route115_Text_AlixDefeat,Route115_EventScript_Alix,Gah! Not bad!
+trainer:helene,intro,Route115_Text_HeleneIntro,Route115_EventScript_Helene,My POKéMON have black belt-level strength!
+trainer:helene,defeat,Route115_Text_HeleneDefeat,Route115_EventScript_Helene,This is too humiliating!
+trainer:marlene,intro,Route115_Text_MarleneIntro,Route115_EventScript_Marlene,You've disturbed my meditation… You'll be punished for it.
+trainer:marlene,defeat,Route115_Text_MarleneDefeat,Route115_EventScript_Marlene,You've broken my concentration!
+trainer:joey,intro,Route116_Text_JoeyIntro,Route116_EventScript_Joey,My POKéMON rule! Check them out!
+trainer:joey,defeat,Route116_Text_JoeyDefeat,Route116_EventScript_Joey,Ouch! A scrape! I have to put on a bandage!
+trainer:jose,intro,Route116_Text_JoseIntro,Route116_EventScript_Jose,My BUG POKéMON are tough! Let's battle!
+trainer:jose,defeat,Route116_Text_JoseDefeat,Route116_EventScript_Jose,I lost! I thought I had you!
+trainer:jerry-1,intro,Route116_Text_JerryIntro,Route116_EventScript_Jerry,"We learn all sorts of things at the TRAINER'S SCHOOL.
+
+I want to test things out for real!"
+trainer:jerry-1,defeat,Route116_Text_JerryDefeat,Route116_EventScript_Jerry,I slacked off in school… That's why I lost.
+trainer:jerry-1,intro,Route116_Text_JerryRematchIntro,Route116_EventScript_RematchJerry,I've been studying seriously at the TRAINER'S SCHOOL. I won't lose like I did last time.
+trainer:jerry-1,defeat,Route116_Text_JerryRematchDefeat,Route116_EventScript_RematchJerry,Hunh? I studied diligently.
+trainer:clark,intro,Route116_Text_ClarkIntro,Route116_EventScript_Clark,"If the tunnel doesn't go through, then I'll just go over the top."
+trainer:clark,defeat,Route116_Text_ClarkDefeat,Route116_EventScript_Clark,Gasp… Gasp… Losing made me tired…
+trainer:janice,intro,Route116_Text_JaniceIntro,Route116_EventScript_Janice,Let me teach you how strong my adorable POKéMON is!
+trainer:janice,defeat,Route116_Text_JaniceDefeat,Route116_EventScript_Janice,You're a notch above me…
+trainer:karen-1,intro,Route116_Text_KarenIntro,Route116_EventScript_Karen,"I study at school, and I study on the way home, too!"
+trainer:karen-1,defeat,Route116_Text_KarenDefeat,Route116_EventScript_Karen,I'm in shock--I lost?
+trainer:karen-1,intro,Route116_Text_KarenRematchIntro,Route116_EventScript_RematchKaren,I studied a whole lot since I saw you. You must see my achievements!
+trainer:karen-1,defeat,Route116_Text_KarenRematchDefeat,Route116_EventScript_RematchKaren,I'm in shock. I lost again?
+trainer:sarah,intro,Route116_Text_SarahIntro,Route116_EventScript_Sarah,"Just so you know, I've never once been bested by anyone at anything."
+trainer:sarah,defeat,Route116_Text_SarahDefeat,Route116_EventScript_Sarah,"Oh, my goodness. This is a new experience for me."
+trainer:dawson,intro,Route116_Text_DawsonIntro,Route116_EventScript_Dawson,"When you lay your eyes on my POKéMON's gorgeous fur, their beauty will render you helpless!"
+trainer:dawson,defeat,Route116_Text_DawsonDefeat,Route116_EventScript_Dawson,"Oh, baby, say it isn't so!"
+trainer:devan,intro,Route116_Text_DevanIntro,Route116_EventScript_Devan,We'll rock you hard!
+trainer:devan,defeat,Route116_Text_DevanDefeat,Route116_EventScript_Devan,Aiyiyi! No contest at all!
+trainer:johnson,intro,Route116_Text_JohnsonIntro,Route116_EventScript_Johnson,"It's a dead end up here. I'm bored, so can we battle?"
+trainer:johnson,defeat,Route116_Text_JohnsonDefeat,Route116_EventScript_Johnson,That was fun even though I lost.
+trainer:isaac-1,intro,Route117_Text_IsaacIntro,Route117_EventScript_Isaac,"Listen, could I get you to battle the POKéMON I'm raising?"
+trainer:isaac-1,defeat,Route117_Text_IsaacDefeat,Route117_EventScript_Isaac,You've raised yours superbly…
+trainer:isaac-1,intro,Route117_Text_IsaacRematchIntro,Route117_EventScript_RematchIsaac,"The POKéMON I've been raising are looking good, just like before."
+trainer:isaac-1,defeat,Route117_Text_IsaacRematchDefeat,Route117_EventScript_RematchIsaac,You know how to raise them properly. You might have DAY CARE skills…
+trainer:lydia-1,intro,Route117_Text_LydiaIntro,Route117_EventScript_Lydia,"Please, allow me to evaluate if you have raised your POKéMON properly."
+trainer:lydia-1,defeat,Route117_Text_LydiaDefeat,Route117_EventScript_Lydia,"Yes, they are growing properly."
+trainer:lydia-1,intro,Route117_Text_LydiaRematchIntro,Route117_EventScript_RematchLydia,Allow me to reevaluate if you have raised your POKéMON properly.
+trainer:lydia-1,defeat,Route117_Text_LydiaRematchDefeat,Route117_EventScript_RematchLydia,They are growing admirably.
+trainer:dylan-1,intro,Route117_Text_DylanIntro,Route117_EventScript_Dylan,"I'm in the middle of a triathlon, but, whatever, let's have a battle!"
+trainer:dylan-1,defeat,Route117_Text_DylanDefeat,Route117_EventScript_Dylan,I ran out of energy!
+trainer:dylan-1,intro,Route117_Text_DylanRematchIntro,Route117_EventScript_RematchDylan,"I'm smack in the middle of a triathlon, but I'm comfortably ahead. Let's make this a quick battle!"
+trainer:dylan-1,defeat,Route117_Text_DylanRematchDefeat,Route117_EventScript_RematchDylan,I ran out of energy again!
+trainer:maria-1,intro,Route117_Text_MariaIntro,Route117_EventScript_Maria,"I do my triathlon training with POKéMON, so I'm pretty confident about my speed."
+trainer:maria-1,defeat,Route117_Text_MariaDefeat,Route117_EventScript_Maria,"I need to get more practices in, I guess."
+trainer:maria-1,intro,Route117_Text_MariaRematchIntro,Route117_EventScript_RematchMaria,Are you keeping up with your training? I sure am! Let me show you the evidence!
+trainer:maria-1,defeat,Route117_Text_MariaRematchDefeat,Route117_EventScript_RematchMaria,"I need to get more practices in, I guess."
+trainer:derek,intro,Route117_Text_DerekIntro,Route117_EventScript_Derek,"Once a BUG CATCHER! And now a BUG MANIAC!
+
+But my love for POKéMON remains unchanged!"
+trainer:derek,defeat,Route117_Text_DerekDefeat,Route117_EventScript_Derek,My ineptitude also remains unchanged…
+trainer:anna-and-meg-1,intro,Route117_Text_AnnaIntro,Route117_EventScript_Anna,ANNA: I'm with my pretty junior student partner. I have to do good!
+trainer:anna-and-meg-1,defeat,Route117_Text_AnnaDefeat,Route117_EventScript_Anna,ANNA: I'm with my pretty junior student partner! Let me win!
+trainer:anna-and-meg-1,not_enough_pokemon,Route117_Text_AnnaNotEnoughMons,Route117_EventScript_Anna,"ANNA: If you want to battle us, bring two POKéMON with you."
+trainer:anna-and-meg-1,intro,Route117_Text_AnnaRematchIntro,Route117_EventScript_RematchAnna,"ANNA: I can't keep losing in front of my junior partner, right?"
+trainer:anna-and-meg-1,defeat,Route117_Text_AnnaRematchDefeat,Route117_EventScript_RematchAnna,ANNA: I couldn't get into the groove.
+trainer:anna-and-meg-1,not_enough_pokemon,Route117_Text_AnnaRematchNotEnoughMons,Route117_EventScript_RematchAnna,"ANNA: If you want to battle us, bring two POKéMON with you."
+trainer:anna-and-meg-1,intro,Route117_Text_MegIntro,Route117_EventScript_Meg,MEG: I'm going to tag up with my super senior student partner and beat you!
+trainer:anna-and-meg-1,defeat,Route117_Text_MegDefeat,Route117_EventScript_Meg,"MEG: Oh, no! I'm sorry, ANNA! I let you down…"
+trainer:anna-and-meg-1,not_enough_pokemon,Route117_Text_MegNotEnoughMons,Route117_EventScript_Meg,"MEG: Do you only have one POKéMON? We can't battle with you, then.
+
+We want to have a 2-on-2 battle."
+trainer:anna-and-meg-1,intro,Route117_Text_MegRematchIntro,Route117_EventScript_RematchMeg,MEG: I'm going to tag up with my senior partner and win this time!
+trainer:anna-and-meg-1,defeat,Route117_Text_MegRematchDefeat,Route117_EventScript_RematchMeg,MEG: Too strong!
+trainer:anna-and-meg-1,not_enough_pokemon,Route117_Text_MegRematchNotEnoughMons,Route117_EventScript_RematchMeg,"MEG: Do you only have one POKéMON? We can't battle with you, then.
+
+We want to have a 2-on-2 battle."
+trainer:melina,intro,Route117_Text_MelinaIntro,Route117_EventScript_Melina,Isn't it nice? To battle while looking at pretty flowers?
+trainer:melina,defeat,Route117_Text_MelinaDefeat,Route117_EventScript_Melina,"Oh, that's quite impressive!"
+trainer:brandi,intro,Route117_Text_BrandiIntro,Route117_EventScript_Brandi,Let me demonstrate the power hidden within a PSYCHIC POKéMON!
+trainer:brandi,defeat,Route117_Text_BrandiDefeat,Route117_EventScript_Brandi,Astonishing!
+trainer:aisha,intro,Route117_Text_AishaIntro,Route117_EventScript_Aisha,Concentrate on getting the win. That's how I battle!
+trainer:aisha,defeat,Route117_Text_AishaDefeat,Route117_EventScript_Aisha,I don't waste any time being angry over a loss--I would rather train.
+trainer:rose-1,intro,Route118_Text_RoseIntro,Route118_EventScript_Rose,The aroma of flowers has a magical power. It cleanses us body and soul.
+trainer:rose-1,defeat,Route118_Text_RoseDefeat,Route118_EventScript_Rose,"Oh, dear me. I seem to have lost."
+trainer:rose-1,intro,Route118_Text_RoseRematchIntro,Route118_EventScript_RematchRose,Were you drawn here by the sweet aroma?
+trainer:rose-1,defeat,Route118_Text_RoseRematchDefeat,Route118_EventScript_RematchRose,The power of aroma… It didn't seem to do much.
+trainer:barny,intro,Route118_Text_BarnyIntro,Route118_EventScript_Barny,"I'm a FISHERMAN, but also a TRAINER. I'm raising the POKéMON I caught."
+trainer:barny,defeat,Route118_Text_BarnyDefeat,Route118_EventScript_Barny,I thought I was doing okay in my training…
+trainer:wade,intro,Route118_Text_WadeIntro,Route118_EventScript_Wade,"For FISHERMEN, equipment is the key.
+
+But for TRAINERS, the key ingredients are POKéMON and heart, of course!"
+trainer:wade,defeat,Route118_Text_WadeDefeat,Route118_EventScript_Wade,I was beaten in heart?
+trainer:dalton-1,intro,Route118_Text_DaltonIntro,Route118_EventScript_Dalton,Let my melody rock your soul!
+trainer:dalton-1,defeat,Route118_Text_DaltonDefeat,Route118_EventScript_Dalton,La-lalala…
+trainer:dalton-1,intro,Route118_Text_DaltonRematchIntro,Route118_EventScript_RematchDalton,A melody from my POKéMON and me… Let us deliver it to your soul.
+trainer:dalton-1,defeat,Route118_Text_DaltonRematchDefeat,Route118_EventScript_RematchDalton,La-lalala…
+trainer:perry,intro,Route118_Text_PerryIntro,Route118_EventScript_Perry,BIRD POKéMON that FLY elegantly in the sky… They're the best!
+trainer:perry,defeat,Route118_Text_PerryDefeat,Route118_EventScript_Perry,Urgh… I crashed…
+trainer:chester,intro,Route118_Text_ChesterIntro,Route118_EventScript_Chester,Take flight! My BIRD POKéMON!
+trainer:chester,defeat,Route118_Text_ChesterDefeat,Route118_EventScript_Chester,They did take flight…
+trainer:deandre,intro,Route118_Text_DeandreIntro,Route118_EventScript_Deandre,"Go, go, go! POKéMON 1, 2, and 3!"
+trainer:deandre,defeat,Route118_Text_DeandreDefeat,Route118_EventScript_Deandre,"Come in, POKéMON! Are you okay? POKéMON 1, 2, and 3?!"
+trainer:may-route-119-treecko,defeat,Route119_Text_MayDefeat,Route119_EventScript_BattleMayTreecko,"Achah! {PLAYER}{KUN}, you're strong!
+
+I was worried that you might be struggling with your training."
+trainer:may-route-119-torchic,defeat,Route119_Text_MayDefeat,Route119_EventScript_BattleMayTorchic,"Achah! {PLAYER}{KUN}, you're strong!
+
+I was worried that you might be struggling with your training."
+trainer:may-route-119-mudkip,defeat,Route119_Text_MayDefeat,Route119_EventScript_BattleMayMudkip,"Achah! {PLAYER}{KUN}, you're strong!
+
+I was worried that you might be struggling with your training."
+trainer:brendan-route-119-treecko,defeat,Route119_Text_BrendanDefeat,Route119_EventScript_BattleBrendanTreecko,Hmm… You've gotten pretty darn decent.
+trainer:brendan-route-119-torchic,defeat,Route119_Text_BrendanDefeat,Route119_EventScript_BattleBrendanTorchic,Hmm… You've gotten pretty darn decent.
+trainer:brendan-route-119-mudkip,defeat,Route119_Text_BrendanDefeat,Route119_EventScript_BattleBrendanMudkip,Hmm… You've gotten pretty darn decent.
+trainer:brent,intro,Route119_Text_BrentIntro,Route119_EventScript_Brent,We're the MIMIC CIRCLE! We MIMIC what you do!
+trainer:brent,defeat,Route119_Text_BrentDefeat,Route119_EventScript_Brent,Whoopsie! I lost!
+trainer:donald,intro,Route119_Text_DonaldIntro,Route119_EventScript_Donald,"So, we finally meet! My BUG POKéMON will keep you company!"
+trainer:donald,defeat,Route119_Text_DonaldDefeat,Route119_EventScript_Donald,I wish we'd never met…
+trainer:taylor,intro,Route119_Text_TaylorIntro,Route119_EventScript_Taylor,"If you step forward, we step forward.
+
+If you turn right, we turn, too…"
+trainer:taylor,defeat,Route119_Text_TaylorDefeat,Route119_EventScript_Taylor,"But if you win, I lose…"
+trainer:doug,intro,Route119_Text_DougIntro,Route119_EventScript_Doug,"Yep, you've finally caught me! Or were you trying to avoid me?"
+trainer:doug,defeat,Route119_Text_DougDefeat,Route119_EventScript_Doug,"Whoop, that was a great match!"
+trainer:greg,intro,Route119_Text_GregIntro,Route119_EventScript_Greg,"You don't know who I am, do you?
+
+But, I also don't know you. So, we'll battle!"
+trainer:greg,defeat,Route119_Text_GregDefeat,Route119_EventScript_Greg,You're pretty strong!
+trainer:kent,intro,Route119_Text_KentIntro,Route119_EventScript_Kent,"The MIMIC CIRCLE was formed by people who like to MIMIC.
+
+A battle starts the instant we meet!"
+trainer:kent,defeat,Route119_Text_KentDefeat,Route119_EventScript_Kent,I give up!
+trainer:jackson-1,intro,Route119_Text_JacksonIntro,Route119_EventScript_Jackson,"Who has the knowledge and the technique for survival?
+
+POKéMON RANGERS, that's who!"
+trainer:jackson-1,defeat,Route119_Text_JacksonDefeat,Route119_EventScript_Jackson,I didn't have enough POKéMON know-how…
+trainer:jackson-1,intro,Route119_Text_JacksonRematchIntro,Route119_EventScript_RematchJackson,I'm going to regain my wild spirit by being together with POKéMON.
+trainer:jackson-1,defeat,Route119_Text_JacksonRematchDefeat,Route119_EventScript_RematchJackson,You've remained strong!
+trainer:catherine-1,intro,Route119_Text_CatherineIntro,Route119_EventScript_Catherine,"Oh? Look at you.
+
+For someone on an adventure, you're traveling awfully light."
+trainer:catherine-1,defeat,Route119_Text_CatherineDefeat,Route119_EventScript_Catherine,Accidents happen when you're not prepared!
+trainer:catherine-1,intro,Route119_Text_CatherineRematchIntro,Route119_EventScript_RematchCatherine,How's your journey with POKéMON going?
+trainer:catherine-1,defeat,Route119_Text_CatherineRematchDefeat,Route119_EventScript_RematchCatherine,I'm still missing something…
+trainer:hugh,intro,Route119_Text_HughIntro,Route119_EventScript_Hugh,"The vast sky holds untold promise!
+
+Nothing can compare to the sheer exhilaration of flight!"
+trainer:hugh,defeat,Route119_Text_HughDefeat,Route119_EventScript_Hugh,Down and out!
+trainer:phil,intro,Route119_Text_PhilIntro,Route119_EventScript_Phil,I'll show you the true potential of me and my BIRD POKéMON!
+trainer:phil,defeat,Route119_Text_PhilDefeat,Route119_EventScript_Phil,We lacked potential…
+trainer:yasu,intro,Route119_Text_YasuIntro,Route119_EventScript_Yasu,"To lurk in shadows, and live in darkness… That is my destiny.
+
+I emerge to challenge you!"
+trainer:yasu,defeat,Route119_Text_YasuDefeat,Route119_EventScript_Yasu,I admit defeat!
+trainer:takashi,intro,Route119_Text_TakashiIntro,Route119_EventScript_Takashi,"If you're not on your guard, you're in for some pain!"
+trainer:takashi,defeat,Route119_Text_TakashiDefeat,Route119_EventScript_Takashi,You're surprisingly good!
+trainer:hideo,intro,Route119_Text_HideoIntro,Route119_EventScript_Hideo,"To hide a tree, use a forest!"
+trainer:hideo,defeat,Route119_Text_HideoDefeat,Route119_EventScript_Hideo,I bow to your superiority.
+trainer:chris,intro,Route119_Text_ChrisIntro,Route119_EventScript_Chris,"You spoke to me… So you want to challenge me!
+
+Sure! I'll try out the POKéMON I caught while SURFING!"
+trainer:chris,defeat,Route119_Text_ChrisDefeat,Route119_EventScript_Chris,I don't have a clue about what it takes to win.
+trainer:fabian,intro,Route119_Text_FabianIntro,Route119_EventScript_Fabian,"Hit me with a power chord! Victory is mine! It's our time to shine, whoa, yeah!"
+trainer:fabian,defeat,Route119_Text_FabianDefeat,Route119_EventScript_Fabian,"You showed me who's the boss! We'll have to take the loss, oh, no!"
+trainer:dayton,intro,Route119_Text_DaytonIntro,Route119_EventScript_Dayton,Hohoho! I like kid TRAINERS! Let's have a good one!
+trainer:dayton,defeat,Route119_Text_DaytonDefeat,Route119_EventScript_Dayton,You're pretty amazing! Hohoho!
+trainer:rachel,intro,Route119_Text_RachelIntro,Route119_EventScript_Rachel,"Wherever and whenever I may be, I always have my parasol in hand."
+trainer:rachel,defeat,Route119_Text_RachelDefeat,Route119_EventScript_Rachel,"Oh, but… That's not fair."
+trainer:grunt-weather-inst-1,intro,Route119_WeatherInstitute_1F_Text_Grunt1Intro,Route119_WeatherInstitute_1F_EventScript_Grunt1,"The BOSS got interested in the research they have going here, so he sent us out.
+
+You quit meddling!"
+trainer:grunt-weather-inst-1,defeat,Route119_WeatherInstitute_1F_Text_Grunt1Defeat,Route119_WeatherInstitute_1F_EventScript_Grunt1,Blast it… Blasted by a kid…
+trainer:grunt-weather-inst-4,intro,Route119_WeatherInstitute_1F_Text_Grunt4Intro,Route119_WeatherInstitute_1F_EventScript_Grunt4,Huh? What's a kid doing here?
+trainer:grunt-weather-inst-4,defeat,Route119_WeatherInstitute_1F_Text_Grunt4Defeat,Route119_WeatherInstitute_1F_EventScript_Grunt4,Huh? I lost?!
+trainer:grunt-weather-inst-5,intro,Route119_WeatherInstitute_2F_Text_Grunt5Intro,Route119_WeatherInstitute_2F_EventScript_Grunt5,"Don't tell me you're looking for that weather POKéMON, too?
+
+That's a no-no! We were here to get it first!"
+trainer:grunt-weather-inst-5,defeat,Route119_WeatherInstitute_2F_Text_Grunt5Defeat,Route119_WeatherInstitute_2F_EventScript_Grunt5,"Oh, will you look at my POKéMON?"
+trainer:grunt-weather-inst-2,intro,Route119_WeatherInstitute_2F_Text_Grunt2Intro,Route119_WeatherInstitute_2F_EventScript_Grunt2,The INSTITUTE created a type of POKéMON that has something to do with the weather. We're here to take them!
+trainer:grunt-weather-inst-2,defeat,Route119_WeatherInstitute_2F_Text_Grunt2Defeat,Route119_WeatherInstitute_2F_EventScript_Grunt2,Our plan's being spoiled by a kid?
+trainer:grunt-weather-inst-3,intro,Route119_WeatherInstitute_2F_Text_Grunt3Intro,Route119_WeatherInstitute_2F_EventScript_Grunt3,We're TEAM AQUA! We appear wherever anything rare is found!
+trainer:grunt-weather-inst-3,defeat,Route119_WeatherInstitute_2F_Text_Grunt3Defeat,Route119_WeatherInstitute_2F_EventScript_Grunt3,You got me!
+trainer:shelly-weather-institute,intro,Route119_WeatherInstitute_2F_Text_ShellyIntro,Route119_WeatherInstitute_2F_EventScript_Shelly,"Ahahahaha!
+
+You're going to meddle in TEAM AQUA's affairs?
+
+You're either absolutely fearless, simply ignorant, or both!
+
+You're so cute, you're disgusting! I'll put you down, kiddy!"
+trainer:shelly-weather-institute,defeat,Route119_WeatherInstitute_2F_Text_ShellyDefeat,Route119_WeatherInstitute_2F_EventScript_Shelly,Ahahahaha! You're disgustingly strong!
+trainer:colin,intro,Route120_Text_ColinIntro,Route120_EventScript_Colin,Do you have any moves that can strike a flying POKéMON?
+trainer:colin,defeat,Route120_Text_ColinDefeat,Route120_EventScript_Colin,You soared above me!
+trainer:robert-1,intro,Route120_Text_RobertIntro,Route120_EventScript_Robert,My POKéMON is strong! How about yours?
+trainer:robert-1,defeat,Route120_Text_RobertDefeat,Route120_EventScript_Robert,Your POKéMON were stronger…
+trainer:robert-1,intro,Route120_Text_RobertRematchIntro,Route120_EventScript_RematchRobert,A POKéMON that grows steadily is one you can count on.
+trainer:robert-1,defeat,Route120_Text_RobertRematchDefeat,Route120_EventScript_RematchRobert,Your POKéMON are seriously strong.
+trainer:lorenzo,intro,Route120_Text_LorenzoIntro,Route120_EventScript_Lorenzo,I'll check your POKéMON and see if they're fit for the outdoors.
+trainer:lorenzo,defeat,Route120_Text_LorenzoDefeat,Route120_EventScript_Lorenzo,"With POKéMON that strong, you're in no danger of needing rescue!"
+trainer:jenna,intro,Route120_Text_JennaIntro,Route120_EventScript_Jenna,"How's your physical fitness? If you're not fit, you could have a rough time in critical situations."
+trainer:jenna,defeat,Route120_Text_JennaDefeat,Route120_EventScript_Jenna,"I'm totally fit, but…"
+trainer:jeffrey-1,intro,Route120_Text_JeffreyIntro,Route120_EventScript_Jeffrey,… … … … … … … … … … … … Want to battle?
+trainer:jeffrey-1,defeat,Route120_Text_JeffreyDefeat,Route120_EventScript_Jeffrey,Lost it…
+trainer:jeffrey-1,intro,Route120_Text_JeffreyRematchIntro,Route120_EventScript_RematchJeffrey,… … … … … … … … … … … … Want to battle again?
+trainer:jeffrey-1,defeat,Route120_Text_JeffreyRematchDefeat,Route120_EventScript_RematchJeffrey,… … … … … … I lost again…
+trainer:jennifer,intro,Route120_Text_JenniferIntro,Route120_EventScript_Jennifer,"POKéMON have many special abilities. If you want to become a first-class TRAINER, learn about them."
+trainer:jennifer,defeat,Route120_Text_JenniferDefeat,Route120_EventScript_Jennifer,You're obviously thinking.
+trainer:chip,intro,Route120_Text_ChipIntro,Route120_EventScript_Chip,"Who might you be?
+
+Are you perhaps searching for ancient ruins that are rumored to possibly exist according to legend?"
+trainer:chip,defeat,Route120_Text_ChipDefeat,Route120_EventScript_Chip,What a disgraceful setback…
+trainer:clarissa,intro,Route120_Text_ClarissaIntro,Route120_EventScript_Clarissa,"Why am I carrying this parasol?
+
+I'll tell you if you can win against me."
+trainer:clarissa,defeat,Route120_Text_ClarissaDefeat,Route120_EventScript_Clarissa,A parasol can't ward off POKéMON attacks…
+trainer:angelica,intro,Route120_Text_AngelicaIntro,Route120_EventScript_Angelica,"Me, POKéMON, and my parasol…
+
+If any one of them is missing, the picture of beauty will be ruined."
+trainer:angelica,defeat,Route120_Text_AngelicaDefeat,Route120_EventScript_Angelica,You've completely ruined my beauty…
+trainer:keigo,intro,Route120_Text_KeigoIntro,Route120_EventScript_Keigo,I will adopt the movements of POKéMON and create new ninja techniques.
+trainer:keigo,defeat,Route120_Text_KeigoDefeat,Route120_EventScript_Keigo,The creation of new ninja techniques is but a distant dream…
+trainer:riley,intro,Route120_Text_RileyIntro,Route120_EventScript_Riley,We ninja conceal ourselves under our camouflage cloaks. I bet you didn't know where I was!
+trainer:riley,defeat,Route120_Text_RileyDefeat,Route120_EventScript_Riley,I lost! I should camouflage my shame!
+trainer:leonel,intro,Route120_Text_LeonelIntro,Route120_EventScript_Leonel,Your party POKéMON… Do you have different types?
+trainer:leonel,defeat,Route120_Text_LeonelDefeat,Route120_EventScript_Leonel,I've seen your policy in action!
+trainer:callie,intro,Route120_Text_CallieIntro,Route120_EventScript_Callie,"If you don't pay attention, you could get hurt!"
+trainer:callie,defeat,Route120_Text_CallieDefeat,Route120_EventScript_Callie,Ouch! I was the one to get hurt.
+trainer:vanessa,intro,Route121_Text_VanessaIntro,Route121_EventScript_Vanessa,Will you play with my delightfully pretty POKéMON?
+trainer:vanessa,defeat,Route121_Text_VanessaDefeat,Route121_EventScript_Vanessa,This isn't what I meant!
+trainer:walter-1,intro,Route121_Text_WalterIntro,Route121_EventScript_Walter,"With my POKéMON, I have traveled to the world's four corners.
+
+You might say I have some confidence in my abilities."
+trainer:walter-1,defeat,Route121_Text_WalterDefeat,Route121_EventScript_Walter,"Ah, well played."
+trainer:walter-1,intro,Route121_Text_WalterRematchIntro,Route121_EventScript_RematchWalter,"With my POKéMON, I have traveled to the world's four corners.
+
+You might say I have some confidence in my abilities."
+trainer:walter-1,defeat,Route121_Text_WalterRematchDefeat,Route121_EventScript_RematchWalter,"Ah, well played."
+trainer:tammy,intro,Route121_Text_TammyIntro,Route121_EventScript_Tammy,There are powers beyond our understanding in the world…
+trainer:tammy,defeat,Route121_Text_TammyDefeat,Route121_EventScript_Tammy,I have lost…
+trainer:kate-and-joy,intro,Route121_Text_KateIntro,Route121_EventScript_Kate,"KATE: Together, we're fearless! We'll demonstrate how tough we are!"
+trainer:kate-and-joy,defeat,Route121_Text_KateDefeat,Route121_EventScript_Kate,KATE: I blew it in front of my junior student partner…
+trainer:kate-and-joy,not_enough_pokemon,Route121_Text_KateNotEnoughMons,Route121_EventScript_Kate,"KATE: If you've only got one POKéMON, we can't battle with you.
+
+That would be bullying."
+trainer:kate-and-joy,intro,Route121_Text_JoyIntro,Route121_EventScript_Joy,"JOY: Together, we're fearless! We'll demonstrate how tough we are!"
+trainer:kate-and-joy,defeat,Route121_Text_JoyDefeat,Route121_EventScript_Joy,"JOY: Please forgive me, KATE!"
+trainer:kate-and-joy,not_enough_pokemon,Route121_Text_JoyNotEnoughMons,Route121_EventScript_Joy,JOY: You need at least two POKéMON if you're going to challenge us!
+trainer:jessica-1,intro,Route121_Text_JessicaIntro,Route121_EventScript_Jessica,Stop! Have a good look at my precious POKéMON!
+trainer:jessica-1,defeat,Route121_Text_JessicaDefeat,Route121_EventScript_Jessica,"Oh, how dare you! Don't take it so seriously!"
+trainer:jessica-1,intro,Route121_Text_JessicaRematchIntro,Route121_EventScript_RematchJessica,My precious POKéMON grew! Have a good look!
+trainer:jessica-1,defeat,Route121_Text_JessicaRematchDefeat,Route121_EventScript_RematchJessica,"Oh, how dare you! You still won't take it easy!"
+trainer:cale,intro,Route121_Text_CaleIntro,Route121_EventScript_Cale,"Can't you see that I have all this stuff with me?
+
+Despite that, you still insist that we battle?"
+trainer:cale,defeat,Route121_Text_CaleDefeat,Route121_EventScript_Cale,Of course I lost! I'm holding stuff in both hands!
+trainer:myles,intro,Route121_Text_MylesIntro,Route121_EventScript_Myles,There's nothing I love more than checking out other people's POKéMON!
+trainer:myles,defeat,Route121_Text_MylesDefeat,Route121_EventScript_Myles,Super awesome!
+trainer:pat,intro,Route121_Text_PatIntro,Route121_EventScript_Pat,I want everybody to see the POKéMON I've raised!
+trainer:pat,defeat,Route121_Text_PatDefeat,Route121_EventScript_Pat,Wow! Spectacular!
+trainer:marcel,intro,Route121_Text_MarcelIntro,Route121_EventScript_Marcel,"My POKéMON have never tasted defeat! On their next win, I'm entering them in CONTESTS."
+trainer:marcel,defeat,Route121_Text_MarcelDefeat,Route121_EventScript_Marcel,"Oh, now what happened here?"
+trainer:cristin-1,intro,Route121_Text_CristinIntro,Route121_EventScript_Cristin,I have this routine. Defeat five TRAINERS a day. Guess what? You're number five!
+trainer:cristin-1,defeat,Route121_Text_CristinDefeat,Route121_EventScript_Cristin,No! You're horrid!
+trainer:cristin-1,intro,Route121_Text_CristinRematchIntro,Route121_EventScript_RematchCristin,I have this new routine. Defeat ten TRAINERS a day. Guess what? You're number ten!
+trainer:cristin-1,defeat,Route121_Text_CristinRematchDefeat,Route121_EventScript_RematchCristin,Wait! That's nasty! I demand a rematch!
+trainer:wendy,intro,Route123_Text_WendyIntro,Route123_EventScript_Wendy,Want to determine how strong you are? I'll be the test!
+trainer:wendy,defeat,Route123_Text_WendyDefeat,Route123_EventScript_Wendy,You passed with flying colors!
+trainer:braxton,intro,Route123_Text_BraxtonIntro,Route123_EventScript_Braxton,"You seem to have a big collection of GYM BADGES.
+
+Let me see if you're actually worthy of those BADGES!"
+trainer:braxton,defeat,Route123_Text_BraxtonDefeat,Route123_EventScript_Braxton,"Oh, you're worthy, all right!"
+trainer:violet,intro,Route123_Text_VioletIntro,Route123_EventScript_Violet,They say that good times are filled with good aromas.
+trainer:violet,defeat,Route123_Text_VioletDefeat,Route123_EventScript_Violet,Oh… I smell the bitter scent of misery…
+trainer:cameron-1,intro,Route123_Text_CameronIntro,Route123_EventScript_Cameron,"Being a psychic is about willpower.
+
+I've willed myself not to lose to anyone. That makes me strong!"
+trainer:cameron-1,defeat,Route123_Text_CameronDefeat,Route123_EventScript_Cameron,I feel sad…
+trainer:cameron-1,intro,Route123_Text_CameronRematchIntro,Route123_EventScript_RematchCameron,I've convinced myself that I won't lose anymore. That makes me strong!
+trainer:cameron-1,defeat,Route123_Text_CameronRematchDefeat,Route123_EventScript_RematchCameron,I feel sad…
+trainer:jacki-1,intro,Route123_Text_JackiIntro,Route123_EventScript_Jacki,"Don't be too happy if your POKéMON develop psychic powers.
+
+You need to refine those powers to make them really useful."
+trainer:jacki-1,defeat,Route123_Text_JackiDefeat,Route123_EventScript_Jacki,Overwhelmed!
+trainer:jacki-1,intro,Route123_Text_JackiRematchIntro,Route123_EventScript_RematchJacki,Have you awoken the psychic powers within you?
+trainer:jacki-1,defeat,Route123_Text_JackiRematchDefeat,Route123_EventScript_RematchJacki,Astounding!
+trainer:miu-and-yuki,intro,Route123_Text_MiuIntro,Route123_EventScript_Miu,"MIU: Hello, TRAINER. I hope your POKéMON won't cry when they lose."
+trainer:miu-and-yuki,defeat,Route123_Text_MiuDefeat,Route123_EventScript_Miu,"MIU: Uh-oh, we lost."
+trainer:miu-and-yuki,not_enough_pokemon,Route123_Text_MiuNotEnoughMons,Route123_EventScript_Miu,MIU: It's no fun to battle if you don't have two POKéMON.
+trainer:miu-and-yuki,intro,Route123_Text_YukiIntro,Route123_EventScript_Yuki,YUKI: Okay! We're beating the TRAINER's POKéMON!
+trainer:miu-and-yuki,defeat,Route123_Text_YukiDefeat,Route123_EventScript_Yuki,"YUKI: Uh-oh, we lost."
+trainer:miu-and-yuki,not_enough_pokemon,Route123_Text_YukiNotEnoughMons,Route123_EventScript_Yuki,YUKI: It's no fun to battle if you don't have two POKéMON.
+trainer:kindra,intro,Route123_Text_KindraIntro,Route123_EventScript_Kindra,MT. PYRE… Where the spirits of POKéMON sleep… Will your POKéMON sleep?
+trainer:kindra,defeat,Route123_Text_KindraDefeat,Route123_EventScript_Kindra,Overflowing with vitality…
+trainer:fredrick,intro,Route123_Text_FrederickIntro,Route123_EventScript_Frederick,"Hello, child! Can you spare some time?"
+trainer:fredrick,defeat,Route123_Text_FrederickDefeat,Route123_EventScript_Frederick,"Ah, a mighty capable child! Let me contribute to your allowance."
+trainer:alberto,intro,Route123_Text_AlbertoIntro,Route123_EventScript_Alberto,"I have to tell you, BIRD POKéMON are my obsession!
+
+Birds are cool! They're the best!"
+trainer:alberto,defeat,Route123_Text_AlbertoDefeat,Route123_EventScript_Alberto,"Even in defeat, BIRD POKéMON are cool!"
+trainer:ed,intro,Route123_Text_EdIntro,Route123_EventScript_Ed,"When there are no TRAINERS around, I let my POKéMON battle each other. I watch them."
+trainer:ed,defeat,Route123_Text_EdDefeat,Route123_EventScript_Ed,I kind of like your POKéMON.
+trainer:kayley,intro,Route123_Text_KayleyIntro,Route123_EventScript_Kayley,I just bought this parasol. My cuteness should be up by a third!
+trainer:kayley,defeat,Route123_Text_KayleyDefeat,Route123_EventScript_Kayley,You're better than me by about five times!
+trainer:jonas,intro,Route123_Text_JonasIntro,Route123_EventScript_Jonas,"I lay in ambush, and a TRAINER has landed in my trap!"
+trainer:jonas,defeat,Route123_Text_JonasDefeat,Route123_EventScript_Jonas,"If you don't lose, how am I supposed to have fun playing ninja?"
+trainer:jazmyn,intro,Route123_Text_JazmynIntro,Route123_EventScript_Jazmyn,My confidence will get a boost by beating someone obviously strong!
+trainer:jazmyn,defeat,Route123_Text_JazmynDefeat,Route123_EventScript_Jazmyn,There goes my confidence…
+trainer:davis,intro,Route123_Text_DavisIntro,Route123_EventScript_Davis,This is my awesome BUG POKéMON! My big brother got it for me.
+trainer:davis,defeat,Route123_Text_DavisDefeat,Route123_EventScript_Davis,Waaaah! You meanie!
+trainer:fernando-1,intro,Route123_Text_FernandoIntro,Route123_EventScript_Fernando,I'll turn your lights out while I rip through this tune!
+trainer:fernando-1,defeat,Route123_Text_FernandoDefeat,Route123_EventScript_Fernando,"Hey, hold it! I was still playing the intro!"
+trainer:fernando-1,intro,Route123_Text_FernandoRematchIntro,Route123_EventScript_RematchFernando,Today's the day I'm going to do it! I'll turn out your lights before I finish singing my song!
+trainer:fernando-1,defeat,Route123_Text_FernandoRematchDefeat,Route123_EventScript_RematchFernando,"Hey, hold it! I haven't even hit the chorus!"
+trainer:spencer,intro,Route124_Text_SpencerIntro,Route124_EventScript_Spencer,"Hey, are you lost at sea?
+
+If you can beat my POKéMON, I can serve as your pilot."
+trainer:spencer,defeat,Route124_Text_SpencerDefeat,Route124_EventScript_Spencer,I lost my bearings in battle!
+trainer:roland,intro,Route124_Text_RolandIntro,Route124_EventScript_Roland,"Hm! You're riding a POKéMON instead of swimming yourself…
+
+I am envious!"
+trainer:roland,defeat,Route124_Text_RolandDefeat,Route124_EventScript_Roland,Oh! I can't…
+trainer:jenny-1,intro,Route124_Text_JennyIntro,Route124_EventScript_Jenny,"If you just float in the sea like this, POKéMON come around to play."
+trainer:jenny-1,defeat,Route124_Text_JennyDefeat,Route124_EventScript_Jenny,"Oh, darn. I've gone and lost."
+trainer:jenny-1,intro,Route124_Text_JennyRematchIntro,Route124_EventScript_RematchJenny,"If you just float in the sea like this, TRAINERS challenge you!"
+trainer:jenny-1,defeat,Route124_Text_JennyRematchDefeat,Route124_EventScript_RematchJenny,That's strange… I lost again…
+trainer:grace,intro,Route124_Text_GraceIntro,Route124_EventScript_Grace,I'm growing bored of swimming… How about a battle?
+trainer:grace,defeat,Route124_Text_GraceDefeat,Route124_EventScript_Grace,I had no idea that you were this strong!
+trainer:chad,intro,Route124_Text_ChadIntro,Route124_EventScript_Chad,Fufufufu… I dive deep underwater to go deep under cover. Plumbing the depths is where I excel!
+trainer:chad,defeat,Route124_Text_ChadDefeat,Route124_EventScript_Chad,"Glub, glub, glub… I'm sinking…"
+trainer:lila-and-roy-1,intro,Route124_Text_LilaIntro,Route124_EventScript_Lila,"LILA: Sigh…
+
+Here I am in the sea, but who's with me? My little brother!
+
+Let's battle so I won't have to dwell on that!"
+trainer:lila-and-roy-1,defeat,Route124_Text_LilaDefeat,Route124_EventScript_Lila,LILA: ROY! It's your fault we lost! You're in for it later!
+trainer:lila-and-roy-1,not_enough_pokemon,Route124_Text_LilaNotEnoughMons,Route124_EventScript_Lila,LILA: You're planning to battle us? Not unless you have two POKéMON.
+trainer:lila-and-roy-1,intro,Route124_Text_LilaRematchIntro,Route124_EventScript_RematchLila,"LILA: Sigh…
+
+Here I am in the sea, but who's with me? My little brother!
+
+Oh, hi, it's been a while. Let's battle so I won't have to dwell on things!"
+trainer:lila-and-roy-1,defeat,Route124_Text_LilaRematchDefeat,Route124_EventScript_RematchLila,"LILA: ROY! It's your fault we lost again!
+
+We're having a training session later!"
+trainer:lila-and-roy-1,not_enough_pokemon,Route124_Text_LilaRematchNotEnoughMons,Route124_EventScript_RematchLila,LILA: You're planning to battle us? Not unless you have two POKéMON.
+trainer:lila-and-roy-1,intro,Route124_Text_RoyIntro,Route124_EventScript_Roy,"ROY: My big sister is tough at POKéMON!
+
+Don't cry when you lose!"
+trainer:lila-and-roy-1,defeat,Route124_Text_RoyDefeat,Route124_EventScript_Roy,ROY: Uh-oh… My big sister will chew me out…
+trainer:lila-and-roy-1,not_enough_pokemon,Route124_Text_RoyNotEnoughMons,Route124_EventScript_Roy,"ROY: Did you want to battle us? Bring two POKéMON, then."
+trainer:lila-and-roy-1,intro,Route124_Text_RoyRematchIntro,Route124_EventScript_RematchRoy,"ROY: If we lose, I'll catch heck. I'm going to go totally all out!"
+trainer:lila-and-roy-1,defeat,Route124_Text_RoyRematchDefeat,Route124_EventScript_RematchRoy,ROY: Uh-oh… My big sister will chew me out again.
+trainer:lila-and-roy-1,not_enough_pokemon,Route124_Text_RoyRematchNotEnoughMons,Route124_EventScript_RematchRoy,"ROY: Did you want to battle us? Bring two POKéMON, then."
+trainer:declan,intro,Route124_Text_DeclanIntro,Route124_EventScript_Declan,"Here I am swimming by my lonesome on this wide, beautiful sea.
+
+There's no other word for it. This is pathetic!"
+trainer:declan,defeat,Route124_Text_DeclanDefeat,Route124_EventScript_Declan,I'm feeling blue. Blue as the sky…
+trainer:isabella,intro,Route124_Text_IsabellaIntro,Route124_EventScript_Isabella,I'm not going to lose to some surfer TRAINER.
+trainer:isabella,defeat,Route124_Text_IsabellaDefeat,Route124_EventScript_Isabella,I've only got sweat in my eyes! I am not crying!
+trainer:nolen,intro,Route125_Text_NolenIntro,Route125_EventScript_Nolen,"I heard you approaching, so I hung around for you!"
+trainer:nolen,defeat,Route125_Text_NolenDefeat,Route125_EventScript_Nolen,I surrender!
+trainer:stan,intro,Route125_Text_StanIntro,Route125_EventScript_Stan,"Hey, there! Check out my sweet POKéMON!"
+trainer:stan,defeat,Route125_Text_StanDefeat,Route125_EventScript_Stan,I floundered…
+trainer:tanya,intro,Route125_Text_TanyaIntro,Route125_EventScript_Tanya,I'm tired of swimming. Are you up for a battle with me?
+trainer:tanya,defeat,Route125_Text_TanyaDefeat,Route125_EventScript_Tanya,You're too much!
+trainer:sharon,intro,Route125_Text_SharonIntro,Route125_EventScript_Sharon,How would you like to take on the WATER-type POKéMON I raised?
+trainer:sharon,defeat,Route125_Text_SharonDefeat,Route125_EventScript_Sharon,Lost it…
+trainer:ernest-1,intro,Route125_Text_ErnestIntro,Route125_EventScript_Ernest,"Ahoy! I'm a buff, tough SAILOR! I've braved the world's seas!"
+trainer:ernest-1,defeat,Route125_Text_ErnestDefeat,Route125_EventScript_Ernest,Gwrroooar! I couldn't win!
+trainer:ernest-1,intro,Route125_Text_ErnestRematchIntro,Route125_EventScript_RematchErnest,"It's high time I get my payback from you! Come on, we're battling!"
+trainer:ernest-1,defeat,Route125_Text_ErnestRematchDefeat,Route125_EventScript_RematchErnest,I couldn't win! I flat out couldn't win!
+trainer:kim-and-iris,intro,Route125_Text_KimIntro,Route125_EventScript_Kim,"KIM: A funny old man lives in the SHOAL CAVE. Someone told me. Are you going to see him, too?"
+trainer:kim-and-iris,defeat,Route125_Text_KimDefeat,Route125_EventScript_Kim,KIM: I thought we would win.
+trainer:kim-and-iris,not_enough_pokemon,Route125_Text_KimNotEnoughMons,Route125_EventScript_Kim,"KIM: No, no, no! You need two POKéMON, or it's just no good!"
+trainer:kim-and-iris,intro,Route125_Text_IrisIntro,Route125_EventScript_Iris,"IRIS: KIM, can you tell me what we're looking for out here?"
+trainer:kim-and-iris,defeat,Route125_Text_IrisDefeat,Route125_EventScript_Iris,"IRIS: Oh, we came sort of close."
+trainer:kim-and-iris,not_enough_pokemon,Route125_Text_IrisNotEnoughMons,Route125_EventScript_Iris,"IRIS: Oh, we could never, ever do anything like a 2-on-1 battle."
+trainer:presley,intro,Route125_Text_PresleyIntro,Route125_EventScript_Presley,Why would a BIRDKEEPER like me come out to the sea?
+trainer:presley,defeat,Route125_Text_PresleyDefeat,Route125_EventScript_Presley,Okay. I'll tell you why I'm here.
+trainer:auron,intro,Route125_Text_AuronIntro,Route125_EventScript_Auron,Hey! Was it you throwing garbage into the sea?
+trainer:auron,defeat,Route125_Text_AuronDefeat,Route125_EventScript_Auron,"Oh, you weren't throwing trash into the sea."
+trainer:barry,intro,Route126_Text_BarryIntro,Route126_EventScript_Barry,Swimming is a full-body workout! You will get fit!
+trainer:barry,defeat,Route126_Text_BarryDefeat,Route126_EventScript_Barry,I admit it! You win!
+trainer:dean,intro,Route126_Text_DeanIntro,Route126_EventScript_Dean,This towering white mountain of rock is SOOTOPOLIS CITY.
+trainer:dean,defeat,Route126_Text_DeanDefeat,Route126_EventScript_Dean,I was done in?
+trainer:nikki,intro,Route126_Text_NikkiIntro,Route126_EventScript_Nikki,Ufufufufu! I'm a mermaid!
+trainer:nikki,defeat,Route126_Text_NikkiDefeat,Route126_EventScript_Nikki,"My fantasy burst as if it were a bubble! Blub, blub, blub…"
+trainer:brenda,intro,Route126_Text_BrendaIntro,Route126_EventScript_Brenda,"Hello, kiddo! Want a battle with me?"
+trainer:brenda,defeat,Route126_Text_BrendaDefeat,Route126_EventScript_Brenda,"Oh, noooooh!"
+trainer:leonardo,intro,Route126_Text_LeonardoIntro,Route126_EventScript_Leonardo,"I couldn't even swim last year, but now I'm a decent SWIMMER.
+
+I think I'm capable of anything now."
+trainer:leonardo,defeat,Route126_Text_LeonardoDefeat,Route126_EventScript_Leonardo,"Sheesh, getting greedy didn't do a thing for me."
+trainer:isobel,intro,Route126_Text_IsobelIntro,Route126_EventScript_Isobel,"If seawater gets up your nose, doesn't it feel terrible?"
+trainer:isobel,defeat,Route126_Text_IsobelDefeat,Route126_EventScript_Isobel,"Ack! Why, you… Glub!"
+trainer:sienna,intro,Route126_Text_SiennaIntro,Route126_EventScript_Sienna,I'm throwing my whole heart into this!
+trainer:sienna,defeat,Route126_Text_SiennaDefeat,Route126_EventScript_Sienna,You had more heart!
+trainer:pablo-1,intro,Route126_Text_PabloIntro,Route126_EventScript_Pablo,Check out this sculpted body! I'm more cut than a BLACK BELT!
+trainer:pablo-1,defeat,Route126_Text_PabloDefeat,Route126_EventScript_Pablo,Whoops! Too strong! Not bad! Not bad at all!
+trainer:pablo-1,intro,Route126_Text_PabloRematchIntro,Route126_EventScript_RematchPablo,Check out this beautiful body! I'm more shapely than a SWIMMER!
+trainer:pablo-1,defeat,Route126_Text_PabloRematchDefeat,Route126_EventScript_RematchPablo,Whoops! Really too strong! Not bad! Not bad at all!
+trainer:camden,intro,Route127_Text_CamdenIntro,Route127_EventScript_Camden,I can see it in your face. You want to challenge me.
+trainer:camden,defeat,Route127_Text_CamdenDefeat,Route127_EventScript_Camden,Awawawawawa…
+trainer:donny,intro,Route127_Text_DonnyIntro,Route127_EventScript_Donny,Do you have a rival whom you just hate to lose against?
+trainer:donny,defeat,Route127_Text_DonnyDefeat,Route127_EventScript_Donny,Arrrgh! I hate losing!
+trainer:jonah,intro,Route127_Text_JonahIntro,Route127_EventScript_Jonah,"Through fishing, I have attained a state of becalmed serenity…
+
+Please, allow me to demonstrate…"
+trainer:jonah,defeat,Route127_Text_JonahDefeat,Route127_EventScript_Jonah,"Though I have lost, my heart remains calm…"
+trainer:henry,intro,Route127_Text_HenryIntro,Route127_EventScript_Henry,Whoops! Don't tell me I snagged a SURFING POKéMON?
+trainer:henry,defeat,Route127_Text_HenryDefeat,Route127_EventScript_Henry,I can't keep up!
+trainer:roger,intro,Route127_Text_RogerIntro,Route127_EventScript_Roger,"Well, hey! This is a match between a POKéMON fan and a fishing buff!"
+trainer:roger,defeat,Route127_Text_RogerDefeat,Route127_EventScript_Roger,No! My line's all tangled! The party's over!
+trainer:aidan,intro,Route127_Text_AidanIntro,Route127_EventScript_Aidan,BIRD POKéMON have excellent vision. They spot prey from great heights.
+trainer:aidan,defeat,Route127_Text_AidanDefeat,Route127_EventScript_Aidan,Whew… I give up.
+trainer:athena,intro,Route127_Text_AthenaIntro,Route127_EventScript_Athena,We should have a slow and methodical match.
+trainer:athena,defeat,Route127_Text_AthenaDefeat,Route127_EventScript_Athena,You didn't give me the chance to do any strategizing.
+trainer:koji-1,intro,Route127_Text_KojiIntro,Route127_EventScript_Koji,Run in your bare feet. That will toughen up your soles!
+trainer:koji-1,defeat,Route127_Text_KojiDefeat,Route127_EventScript_Koji,Yowch! I got a pebble under a toenail!
+trainer:koji-1,intro,Route127_Text_KojiRematchIntro,Route127_EventScript_RematchKoji,I still run in my bare feet daily. My soles are tough!
+trainer:koji-1,defeat,Route127_Text_KojiRematchDefeat,Route127_EventScript_RematchKoji,Yowch! Pebbles dug into my arches!
+trainer:isaiah-1,intro,Route128_Text_IsaiahIntro,Route128_EventScript_Isaiah,EVER GRANDE CITY is still a long ways away…
+trainer:isaiah-1,defeat,Route128_Text_IsaiahDefeat,Route128_EventScript_Isaiah,"My first victory seems to be far away, too…"
+trainer:isaiah-1,intro,Route128_Text_IsaiahRematchIntro,Route128_EventScript_RematchIsaiah,I'm still feeling good. I'll keep on swimming to EVER GRANDE CITY.
+trainer:isaiah-1,defeat,Route128_Text_IsaiahRematchDefeat,Route128_EventScript_RematchIsaiah,I've yet to taste my first victory…
+trainer:katelyn-1,intro,Route128_Text_KatelynIntro,Route128_EventScript_Katelyn,"You have to swim, cycle, and then run a marathon in a triathlon.
+
+It's a grueling race that consists of three events."
+trainer:katelyn-1,defeat,Route128_Text_KatelynDefeat,Route128_EventScript_Katelyn,"A POKéMON battle is grueling, too…"
+trainer:katelyn-1,intro,Route128_Text_KatelynRematchIntro,Route128_EventScript_RematchKatelyn,A triathlon is long. But I guess the road to become the POKéMON CHAMPION is also a long and grueling one.
+trainer:katelyn-1,defeat,Route128_Text_KatelynRematchDefeat,Route128_EventScript_RematchKatelyn,A POKéMON battle really is harsh and unforgiving…
+trainer:alexa,intro,Route128_Text_AlexaIntro,Route128_EventScript_Alexa,"We've been working so hard to mount a POKéMON LEAGUE challenge…
+
+We can't afford to lose now!"
+trainer:alexa,defeat,Route128_Text_AlexaDefeat,Route128_EventScript_Alexa,Oh! How could this happen?!
+trainer:ruben,intro,Route128_Text_RubenIntro,Route128_EventScript_Ruben,There is no stronger TRAINER than I!
+trainer:ruben,defeat,Route128_Text_RubenDefeat,Route128_EventScript_Ruben,This can't be!
+trainer:wayne,intro,Route128_Text_WayneIntro,Route128_EventScript_Wayne,"I want to visit EVER GRANDE, so I caught myself a POKéMON that knows the move WATERFALL to crest the falls."
+trainer:wayne,defeat,Route128_Text_WayneDefeat,Route128_EventScript_Wayne,I'm crestfallen!
+trainer:harrison,intro,Route128_Text_HarrisonIntro,Route128_EventScript_Harrison,You're looking awfully tough. I wonder if I can win?
+trainer:harrison,defeat,Route128_Text_HarrisonDefeat,Route128_EventScript_Harrison,Ouch! I guess it was impossible to win.
+trainer:carlee,intro,Route128_Text_CarleeIntro,Route128_EventScript_Carlee,The sunlight seems to be more harsh in this area.
+trainer:carlee,defeat,Route128_Text_CarleeDefeat,Route128_EventScript_Carlee,I couldn't see very well because of the sun's glare.
+trainer:chase,intro,Route129_Text_ChaseIntro,Route129_EventScript_Chase,This is my first triathlon. I'm all tense and nervous!
+trainer:chase,defeat,Route129_Text_ChaseDefeat,Route129_EventScript_Chase,Wroooaaar! I failed to win!
+trainer:allison,intro,Route129_Text_AllisonIntro,Route129_EventScript_Allison,"I'm in the middle of a triathlon, but, sure, why don't we battle?"
+trainer:allison,defeat,Route129_Text_AllisonDefeat,Route129_EventScript_Allison,I was sure I'd win!
+trainer:reed,intro,Route129_Text_ReedIntro,Route129_EventScript_Reed,"Say hey, hey! Let's get on with it!"
+trainer:reed,defeat,Route129_Text_ReedDefeat,Route129_EventScript_Reed,"Beat, I'm beaten. That's it, done!"
+trainer:tisha,intro,Route129_Text_TishaIntro,Route129_EventScript_Tisha,What's the hurry? Let's take it slow and easy.
+trainer:tisha,defeat,Route129_Text_TishaDefeat,Route129_EventScript_Tisha,"Oh, my. I wanted to relax a little more…"
+trainer:clarence,intro,Route129_Text_ClarenceIntro,Route129_EventScript_Clarence,"Surfing isn't as easy as it seems, isn't that right?"
+trainer:clarence,defeat,Route129_Text_ClarenceDefeat,Route129_EventScript_Clarence,Winning sure isn't easy.
+trainer:rodney,intro,Route130_Text_RodneyIntro,Route130_EventScript_Rodney,"What a surprise! I didn't expect to see a TRAINER out in the sea.
+
+I think we should battle!"
+trainer:rodney,defeat,Route130_Text_RodneyDefeat,Route130_EventScript_Rodney,This kid's awfully tough…
+trainer:katie,intro,Route130_Text_KatieIntro,Route130_EventScript_Katie,"In the deep blue sea, my shattered blue heart finds comfort among waves."
+trainer:katie,defeat,Route130_Text_KatieDefeat,Route130_EventScript_Katie,"Like the vast blue sea, the world of POKéMON spans depths beyond belief."
+trainer:santiago,intro,Route130_Text_SantiagoIntro,Route130_EventScript_Santiago,Floating on the open sea like this… It's peaceful.
+trainer:santiago,defeat,Route130_Text_SantiagoDefeat,Route130_EventScript_Santiago,I needed to be a little less peaceful!
+trainer:richard,intro,Route131_Text_RichardIntro,Route131_EventScript_Richard,"The sea is teeming with POKéMON. It's not easy swimming, I tell you."
+trainer:richard,defeat,Route131_Text_RichardDefeat,Route131_EventScript_Richard,POKéMON raised by TRAINERS are seriously tough…
+trainer:herman,intro,Route131_Text_HermanIntro,Route131_EventScript_Herman,The sea… The sea… The sea… The sea as far as these eyes can see! I'm sick and tired of the sea!
+trainer:herman,defeat,Route131_Text_HermanDefeat,Route131_EventScript_Herman,Bleah!
+trainer:susie,intro,Route131_Text_SusieIntro,Route131_EventScript_Susie,"Hi, sweetie, wait! We should battle, you and I!"
+trainer:susie,defeat,Route131_Text_SusieDefeat,Route131_EventScript_Susie,You're tough in spite of the way you look!
+trainer:kara,intro,Route131_Text_KaraIntro,Route131_EventScript_Kara,"Why do men love bathing suits so much?
+
+They all ogle me!"
+trainer:kara,defeat,Route131_Text_KaraDefeat,Route131_EventScript_Kara,I'm out of my depth!
+trainer:reli-and-ian,intro,Route131_Text_ReliIntro,Route131_EventScript_Reli,RELI: We'll work together as siblings to take you on!
+trainer:reli-and-ian,defeat,Route131_Text_ReliDefeat,Route131_EventScript_Reli,RELI: We couldn't win even though we worked together…
+trainer:reli-and-ian,not_enough_pokemon,Route131_Text_ReliNotEnoughMons,Route131_EventScript_Reli,"RELI: You don't have two POKéMON? We can't enjoy a battle, then."
+trainer:reli-and-ian,intro,Route131_Text_IanIntro,Route131_EventScript_Ian,IAN: I'm doing my best together with my sis!
+trainer:reli-and-ian,defeat,Route131_Text_IanDefeat,Route131_EventScript_Ian,"IAN: I did my best with my sis, but we still couldn't win…"
+trainer:reli-and-ian,not_enough_pokemon,Route131_Text_IanNotEnoughMons,Route131_EventScript_Ian,"IAN: If you have two POKéMON, we'll take you on!"
+trainer:talia,intro,Route131_Text_TaliaIntro,Route131_EventScript_Talia,"If you can beat me, I'll give you some great information!"
+trainer:talia,defeat,Route131_Text_TaliaDefeat,Route131_EventScript_Talia,Oh? Did I lose?
+trainer:kevin,intro,Route131_Text_KevinIntro,Route131_EventScript_Kevin,"The people of PACIFIDLOG are a peaceful bunch.
+
+They never get angry. That goes for me, too."
+trainer:kevin,defeat,Route131_Text_KevinDefeat,Route131_EventScript_Kevin,Oops!
+trainer:gilbert,intro,Route132_Text_GilbertIntro,Route132_EventScript_Gilbert,"I used to catch colds all the time as a kid, but I became totally fit after I started swimming."
+trainer:gilbert,defeat,Route132_Text_GilbertDefeat,Route132_EventScript_Gilbert,I crave more power…
+trainer:dana,intro,Route132_Text_DanaIntro,Route132_EventScript_Dana,I try not to swim where the currents are too strong.
+trainer:dana,defeat,Route132_Text_DanaDefeat,Route132_EventScript_Dana,"Oh, please, no!"
+trainer:ronald,intro,Route132_Text_RonaldIntro,Route132_EventScript_Ronald,"Win or lose, you'll never know until you try!"
+trainer:ronald,defeat,Route132_Text_RonaldDefeat,Route132_EventScript_Ronald,Waah! I sank in defeat!
+trainer:kiyo,intro,Route132_Text_KiyoIntro,Route132_EventScript_Kiyo,I contemplate POKéMON 24 hours a day. How could you possibly beat me?
+trainer:kiyo,defeat,Route132_Text_KiyoDefeat,Route132_EventScript_Kiyo,I lose. I will concede defeat.
+trainer:paxton,intro,Route132_Text_PaxtonIntro,Route132_EventScript_Paxton,Now where could my wife have gone? I'm always with her. I wonder if I can win on my own.
+trainer:paxton,defeat,Route132_Text_PaxtonDefeat,Route132_EventScript_Paxton,"Ah, I see that I couldn't manage to win on my own after all."
+trainer:darcy,intro,Route132_Text_DarcyIntro,Route132_EventScript_Darcy,I liked training here by myself. It's awful that all these people came!
+trainer:darcy,defeat,Route132_Text_DarcyDefeat,Route132_EventScript_Darcy,Okay! I won't complain about other people being here.
+trainer:jonathan,intro,Route132_Text_JonathanIntro,Route132_EventScript_Jonathan,Someone's been watching me intently. Was it you?
+trainer:jonathan,defeat,Route132_Text_JonathanDefeat,Route132_EventScript_Jonathan,"Wow! That's pretty strong, all right!"
+trainer:makayla,intro,Route132_Text_MakaylaIntro,Route132_EventScript_Makayla,"I'm always with my husband, but I can win even without him."
+trainer:makayla,defeat,Route132_Text_MakaylaDefeat,Route132_EventScript_Makayla,"Oh, I guess I wasn't good enough."
+trainer:franklin,intro,Route133_Text_FranklinIntro,Route133_EventScript_Franklin,"Did the currents carry you here, too? This must have been fated. Let's battle!"
+trainer:franklin,defeat,Route133_Text_FranklinDefeat,Route133_EventScript_Franklin,Strong! Too much so!
+trainer:debra,intro,Route133_Text_DebraIntro,Route133_EventScript_Debra,"I've led a life of woe and misery… I've been cast away, and this is where I've drifted…"
+trainer:debra,defeat,Route133_Text_DebraDefeat,Route133_EventScript_Debra,Another loss…
+trainer:linda,intro,Route133_Text_LindaIntro,Route133_EventScript_Linda,Welcome! I've been expecting you!
+trainer:linda,defeat,Route133_Text_LindaDefeat,Route133_EventScript_Linda,No! Please!
+trainer:warren,intro,Route133_Text_WarrenIntro,Route133_EventScript_Warren,"I want to win like everyone else, but I won't raise POKéMON like everyone else."
+trainer:warren,defeat,Route133_Text_WarrenDefeat,Route133_EventScript_Warren,Darn it! My way is still too slack!
+trainer:beck,intro,Route133_Text_BeckIntro,Route133_EventScript_Beck,I came all the way out here with my BIRD POKéMON.
+trainer:beck,defeat,Route133_Text_BeckDefeat,Route133_EventScript_Beck,You… You're stunningly cool!
+trainer:mollie,intro,Route133_Text_MollieIntro,Route133_EventScript_Mollie,I must have battled thousands of times. I've lost count.
+trainer:mollie,defeat,Route133_Text_MollieDefeat,Route133_EventScript_Mollie,"I may have lost thousands of times, but a loss still stings."
+trainer:conor,intro,Route133_Text_ConorIntro,Route133_EventScript_Conor,Young people are too happy to go with the flow. They're without direction.
+trainer:conor,defeat,Route133_Text_ConorDefeat,Route133_EventScript_Conor,You have a firm sense of purpose.
+trainer:jack,intro,Route134_Text_JackIntro,Route134_EventScript_Jack,Even those POKéMON that can swim are carried along by the rapid currents.
+trainer:jack,defeat,Route134_Text_JackDefeat,Route134_EventScript_Jack,Aiyeeeeh!
+trainer:laurel,intro,Route134_Text_LaurelIntro,Route134_EventScript_Laurel,My LUVDISC are looking for a fun match. Will you join us?
+trainer:laurel,defeat,Route134_Text_LaurelDefeat,Route134_EventScript_Laurel,Oopsie!
+trainer:alex,intro,Route134_Text_AlexIntro,Route134_EventScript_Alex,"Okeydokey! That's enough rest, gang! It's time for a match!"
+trainer:alex,defeat,Route134_Text_AlexDefeat,Route134_EventScript_Alex,Tuckered out again…
+trainer:aaron,intro,Route134_Text_AaronIntro,Route134_EventScript_Aaron,The savage tide in this area serves to make us stronger than ever.
+trainer:aaron,defeat,Route134_Text_AaronDefeat,Route134_EventScript_Aaron,I willingly concede defeat.
+trainer:hitoshi,intro,Route134_Text_HitoshiIntro,Route134_EventScript_Hitoshi,You're a POKéMON TRAINER. No need for words. We battle now.
+trainer:hitoshi,defeat,Route134_Text_HitoshiDefeat,Route134_EventScript_Hitoshi,… … … … … … … … … … … …
+trainer:hudson,intro,Route134_Text_HudsonIntro,Route134_EventScript_Hudson,"Listen, have you seen another SAILOR around here?"
+trainer:hudson,defeat,Route134_Text_HudsonDefeat,Route134_EventScript_Hudson,"Now, that's something!"
+trainer:reyna,intro,Route134_Text_ReynaIntro,Route134_EventScript_Reyna,My POKéMON can't be taken down easily!
+trainer:reyna,defeat,Route134_Text_ReynaDefeat,Route134_EventScript_Reyna,You're kidding! Explain how I lost!
+trainer:marley,intro,Route134_Text_MarleyIntro,Route134_EventScript_Marley,Can your POKéMON dodge our lightning-quick attacks?
+trainer:marley,defeat,Route134_Text_MarleyDefeat,Route134_EventScript_Marley,I never knew such a technique existed! You've defeated us thoroughly.
+trainer:kelvin,intro,Route134_Text_KelvinIntro,Route134_EventScript_Kelvin,O-our boat! The tide carried it away!
+trainer:kelvin,defeat,Route134_Text_KelvinDefeat,Route134_EventScript_Kelvin,"Awawawawah! Please, stop! Please!"
+trainer:may-rustboro-treecko,defeat,RustboroCity_Text_MayDefeat,RustboroCity_EventScript_BattleMayTreecko,Yikes! You're better than I expected!
+trainer:may-rustboro-torchic,defeat,RustboroCity_Text_MayDefeat,RustboroCity_EventScript_BattleMayTorchic,Yikes! You're better than I expected!
+trainer:may-rustboro-mudkip,defeat,RustboroCity_Text_MayDefeat,RustboroCity_EventScript_BattleMayMudkip,Yikes! You're better than I expected!
+trainer:brendan-rustboro-treecko,defeat,RustboroCity_Text_BrendanDefeat,RustboroCity_EventScript_BattleBrendanTreecko,Hmm… You're pretty good.
+trainer:brendan-rustboro-torchic,defeat,RustboroCity_Text_BrendanDefeat,RustboroCity_EventScript_BattleBrendanTorchic,Hmm… You're pretty good.
+trainer:brendan-rustboro-mudkip,defeat,RustboroCity_Text_BrendanDefeat,RustboroCity_EventScript_BattleBrendanMudkip,Hmm… You're pretty good.
+trainer:roxanne-1,intro,RustboroCity_Gym_Text_RoxanneIntro,RustboroCity_Gym_EventScript_Roxanne,"Hello, I am ROXANNE, the RUSTBORO POKéMON GYM LEADER.
+
+I became a GYM LEADER so that I might apply what I learned at the POKéMON TRAINER'S SCHOOL in battle.
+
+Would you kindly demonstrate how you battle, and with which POKéMON?"
+trainer:roxanne-1,defeat,RustboroCity_Gym_Text_RoxanneDefeat,RustboroCity_Gym_EventScript_Roxanne,"So… I lost…
+
+It seems that I still have much more to learn…
+
+I understand.
+
+The POKéMON LEAGUE's rules state that TRAINERS are to be given this if they defeat a GYM LEADER.
+
+Please accept the official POKéMON LEAGUE STONE BADGE."
+trainer:roxanne-1,intro,RustboroCity_Gym_Text_RoxannePreRematch,RustboroCity_Gym_EventScript_RoxanneRematch,"ROXANNE: I'm so glad to see you again. I'm ROXANNE, the GYM LEADER here.
+
+I'm sure we've both experienced many battles since we last met.
+
+I would like to see how much better we've become. Let us battle!"
+trainer:roxanne-1,defeat,RustboroCity_Gym_Text_RoxanneRematchDefeat,RustboroCity_Gym_EventScript_RoxanneRematch,"Grr… Again, I have lost…"
+trainer:roxanne-1,not_enough_pokemon,RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons,RustboroCity_Gym_EventScript_RoxanneRematch,"ROXANNE: I'm so glad to see you again. I'm ROXANNE, the GYM LEADER here.
+
+I'm sure we've both experienced many battles since we last met.
+
+I would like to see how much better we've become…
+
+Oh, no… You only have one POKéMON with you?
+
+Please return with at least one more POKéMON."
+trainer:josh,intro,RustboroCity_Gym_Text_JoshIntro,RustboroCity_Gym_EventScript_Josh,Don't take us GYM TRAINERS lightly! I'll show you why we're better!
+trainer:josh,defeat,RustboroCity_Gym_Text_JoshDefeat,RustboroCity_Gym_EventScript_Josh,You were too good for me…
+trainer:tommy,intro,RustboroCity_Gym_Text_TommyIntro,RustboroCity_Gym_EventScript_Tommy,"If you can't beat me, you won't stand a chance against ROXANNE!"
+trainer:tommy,defeat,RustboroCity_Gym_Text_TommyDefeat,RustboroCity_Gym_EventScript_Tommy,Wow! You've got some potential!
+trainer:marc,intro,RustboroCity_Gym_Text_MarcIntro,RustboroCity_Gym_EventScript_Marc,"We might be in the middle of town, but so what?
+
+My ROCK POKéMON need room to rampage!"
+trainer:marc,defeat,RustboroCity_Gym_Text_MarcDefeat,RustboroCity_Gym_EventScript_Marc,"Oh, man oh man! Our challenger is one feisty customer!"
+trainer:grunt-rusturf-tunnel,defeat,RusturfTunnel_Text_GruntDefeat,RusturfTunnel_EventScript_Grunt,Urrrggh! My career in crime comes to a dead end!
+trainer:mike-2,intro,RusturfTunnel_Text_MikeIntro,RusturfTunnel_EventScript_Mike,"What do you call a wild man up in the mountains? A mountain man, right?
+
+So why don't they call a POKéMON in the mountains a mountain POKéMON?"
+trainer:mike-2,defeat,RusturfTunnel_Text_MikeDefeat,RusturfTunnel_EventScript_Mike,My POKéMON… Ran out of power…
+trainer:phillip,intro,SSTidalLowerDeck_Text_PhillipIntro,SSTidalLowerDeck_EventScript_Phillip,"Arrrgh! I'm fed up and dog-tired of cleaning this huge place!
+
+Let's have a quick battle!"
+trainer:phillip,defeat,SSTidalLowerDeck_Text_PhillipDefeat,SSTidalLowerDeck_EventScript_Phillip,"Little bro, I lost!"
+trainer:leonard,intro,SSTidalLowerDeck_Text_LeonardIntro,SSTidalLowerDeck_EventScript_Leonard,This is the bottom of the ship's hull. There's plenty of room. It'll be alright for a POKéMON battle.
+trainer:leonard,defeat,SSTidalLowerDeck_Text_LeonardDefeat,SSTidalLowerDeck_EventScript_Leonard,"Big bro, I lost!"
+trainer:colton,intro,SSTidalRooms_Text_ColtonIntro,SSTidalRooms_EventScript_Colton,"I often sail to LILYCOVE CITY.
+
+I enjoy attending CONTESTS, you see."
+trainer:colton,defeat,SSTidalRooms_Text_ColtonDefeat,SSTidalRooms_EventScript_Colton,That was an enjoyable match!
+trainer:micah,intro,SSTidalRooms_Text_MicahIntro,SSTidalRooms_EventScript_Micah,Are your friends strong?
+trainer:micah,defeat,SSTidalRooms_Text_MicahDefeat,SSTidalRooms_EventScript_Micah,"Your friends are, indeed, strong."
+trainer:thomas,intro,SSTidalRooms_Text_ThomasIntro,SSTidalRooms_EventScript_Thomas,Child… Did you knock on the door?
+trainer:thomas,defeat,SSTidalRooms_Text_ThomasDefeat,SSTidalRooms_EventScript_Thomas,A loss is to be accepted without haste or panic.
+trainer:lea-and-jed,intro,SSTidalRooms_Text_JedIntro,SSTidalRooms_EventScript_Jed,"JED: I feel a little shy about this, but… We'll show you our lovey-dovey power!"
+trainer:lea-and-jed,defeat,SSTidalRooms_Text_JedDefeat,SSTidalRooms_EventScript_Jed,JED: Sigh…
+trainer:lea-and-jed,not_enough_pokemon,SSTidalRooms_Text_JedNotEnoughMons,SSTidalRooms_EventScript_Jed,JED: You only have one POKéMON? Isn't that just too lonesome?
+trainer:lea-and-jed,intro,SSTidalRooms_Text_LeaIntro,SSTidalRooms_EventScript_Lea,"LEA: I feel a little silly, but… We'll show you our lovey-dovey power!"
+trainer:lea-and-jed,defeat,SSTidalRooms_Text_LeaDefeat,SSTidalRooms_EventScript_Lea,"LEA: Oh, boo!"
+trainer:lea-and-jed,not_enough_pokemon,SSTidalRooms_Text_LeaNotEnoughMons,SSTidalRooms_EventScript_Lea,LEA: I wanted to battle… But you don't even have two POKéMON…
+trainer:garret,intro,SSTidalRooms_Text_GarretIntro,SSTidalRooms_EventScript_Garret,"Ah, you've come just in time.
+
+I'm bored, you see. You may entertain me."
+trainer:garret,defeat,SSTidalRooms_Text_GarretDefeat,SSTidalRooms_EventScript_Garret,…That will do.
+trainer:naomi,intro,SSTidalRooms_Text_NaomiIntro,SSTidalRooms_EventScript_Naomi,"Oh, you're such an adorable TRAINER. Would you like to have tea? Or would you rather battle?"
+trainer:naomi,defeat,SSTidalRooms_Text_NaomiDefeat,SSTidalRooms_EventScript_Naomi,I see. You're the active sort.
+trainer:grunt-seafloor-cavern-1,intro,SeafloorCavern_Room1_Text_Grunt1Intro,SeafloorCavern_Room1_EventScript_Grunt1,We don't need a kid around! Go on home already!
+trainer:grunt-seafloor-cavern-1,defeat,SeafloorCavern_Room1_Text_Grunt1Defeat,SeafloorCavern_Room1_EventScript_Grunt1,I want to go home…
+trainer:grunt-seafloor-cavern-2,intro,SeafloorCavern_Room1_Text_Grunt2Intro,SeafloorCavern_Room1_EventScript_Grunt2,That submarine… It's tiny inside. I'm sore all over!
+trainer:grunt-seafloor-cavern-2,defeat,SeafloorCavern_Room1_Text_Grunt2Defeat,SeafloorCavern_Room1_EventScript_Grunt2,Losing makes me sore!
+trainer:shelly-seafloor-cavern,intro,SeafloorCavern_Room3_Text_ShellyIntro,SeafloorCavern_Room3_EventScript_Shelly,"Ahahahaha!
+
+How did you manage to get here without a submarine? What an impressive child!
+
+But… It won't do to have you meddling about here.
+
+And, I do want payback for what happened at the WEATHER INSTITUTE…
+
+I'm going to give you a little taste of pain! Resign yourself to it!"
+trainer:shelly-seafloor-cavern,defeat,SeafloorCavern_Room3_Text_ShellyDefeat,SeafloorCavern_Room3_EventScript_Shelly,"Ahahahaha!
+
+Ouch!"
+trainer:grunt-seafloor-cavern-5,intro,SeafloorCavern_Room3_Text_Grunt5Intro,SeafloorCavern_Room3_EventScript_Grunt5,"For our dream to become real, we need the power of POKéMON.
+
+But meddlers like you use the power of POKéMON to mess with us even at a place like this!
+
+Life just doesn't work the way we need it to!"
+trainer:grunt-seafloor-cavern-5,defeat,SeafloorCavern_Room3_Text_Grunt5Defeat,SeafloorCavern_Room3_EventScript_Grunt5,Gwah!
+trainer:grunt-seafloor-cavern-3,intro,SeafloorCavern_Room4_Text_Grunt3Intro,SeafloorCavern_Room4_EventScript_Grunt3,Who are you? Where did you come in from?
+trainer:grunt-seafloor-cavern-3,defeat,SeafloorCavern_Room4_Text_Grunt3Defeat,SeafloorCavern_Room4_EventScript_Grunt3,Lost it…
+trainer:grunt-seafloor-cavern-4,intro,SeafloorCavern_Room4_Text_Grunt4Intro,SeafloorCavern_Room4_EventScript_Grunt4,Who are you? Where do you think you're going?
+trainer:grunt-seafloor-cavern-4,defeat,SeafloorCavern_Room4_Text_Grunt4Defeat,SeafloorCavern_Room4_EventScript_Grunt4,I failed to win!
+trainer:archie,defeat,SeafloorCavern_Room9_Text_ArchieDefeat,SeafloorCavern_Room9_EventScript_ArchieAwakenKyogre,What?! I lost to a mere child like you?!
+trainer:grunt-museum-1,defeat,SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat,SlateportCity_OceanicMuseum_2F_EventScript_CaptStern,Awaaaah! A kid beat me!
+trainer:grunt-museum-2,defeat,SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat,SlateportCity_OceanicMuseum_2F_EventScript_CaptStern,"What?! I lost, too!"
+trainer:juan-1,intro,SootopolisCity_Gym_1F_Text_JuanIntro,SootopolisCity_Gym_1F_EventScript_Juan,"Let me ask you. Did you know? Ah, I should not be so coy.
+
+It was I who taught WALLACE everything there is to know about POKéMON.
+
+Once, I had given up my position as the GYM LEADER.
+
+In my place, I had entrusted WALLACE with the GYM.
+
+However, a compelling reason arose for me to make a comeback.
+
+Ah, but enough chatter. Let us begin our match, shall we?
+
+Please, you shall bear witness to our artistry.
+
+A grand illusion of water sculpted by POKéMON and myself!"
+trainer:juan-1,defeat,SootopolisCity_Gym_1F_Text_JuanDefeat,SootopolisCity_Gym_1F_EventScript_Juan,"Ahahaha, excellent! Very well, you are the winner.
+
+From you, I sense the brilliant shine of skill that will overcome all.
+
+However, compared with me or even WALLACE, you are lacking in elegance.
+
+Perhaps I should make you a loan of my outfit?
+
+… … … … … … … … … … … …
+
+Hahaha, I merely jest!
+
+Rather than my clothes, I shall reward you with this, the RAIN BADGE!"
+trainer:juan-1,intro,SootopolisCity_Gym_1F_Text_JuanPreRematch,SootopolisCity_Gym_1F_EventScript_JuanRematch,"JUAN: Ah, this GYM had returned to its usual state of serenity…
+
+But our young typhoon has returned to put us to the test again!
+
+Well, my friend, most certainly!
+
+I shall be delighted to dance with you as often as you wish!"
+trainer:juan-1,defeat,SootopolisCity_Gym_1F_Text_JuanRematchDefeat,SootopolisCity_Gym_1F_EventScript_JuanRematch,"Ahahaha, you are the winner! You have defeated me again!"
+trainer:juan-1,not_enough_pokemon,SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons,SootopolisCity_Gym_1F_EventScript_JuanRematch,"JUAN: Ah, this GYM had returned to its usual state of serenity…
+
+But our young typhoon has returned to put us to the test again!
+
+Well, my friend, most certainly! I shall be delighted to dance with you…
+
+Ah, no, no, no. You have with you but one POKéMON.
+
+I wish that you would return with two, perhaps more, POKéMON, please."
+trainer:andrea,intro,SootopolisCity_Gym_B1F_Text_AndreaIntro,SootopolisCity_Gym_B1F_EventScript_Andrea,I'll show you the sublime techniques I learned from our LEADER JUAN!
+trainer:andrea,defeat,SootopolisCity_Gym_B1F_Text_AndreaDefeat,SootopolisCity_Gym_B1F_EventScript_Andrea,"Please forgive me, JUAN…"
+trainer:crissy,intro,SootopolisCity_Gym_B1F_Text_CrissyIntro,SootopolisCity_Gym_B1F_EventScript_Crissy,"You came all the way here, but you won't get to see JUAN.
+
+Not if you lose to me, you won't!"
+trainer:crissy,defeat,SootopolisCity_Gym_B1F_Text_CrissyDefeat,SootopolisCity_Gym_B1F_EventScript_Crissy,You're strong! I was fooled by your cute looks!
+trainer:brianna,intro,SootopolisCity_Gym_B1F_Text_BriannaIntro,SootopolisCity_Gym_B1F_EventScript_Brianna,Giggle… Your grim look is so charming.
+trainer:brianna,defeat,SootopolisCity_Gym_B1F_Text_BriannaDefeat,SootopolisCity_Gym_B1F_EventScript_Brianna,"Oh, dear. I went much too easy on you."
+trainer:connie,intro,SootopolisCity_Gym_B1F_Text_ConnieIntro,SootopolisCity_Gym_B1F_EventScript_Connie,I should teach you how harsh battles can be.
+trainer:connie,defeat,SootopolisCity_Gym_B1F_Text_ConnieDefeat,SootopolisCity_Gym_B1F_EventScript_Connie,Oh. You're strong.
+trainer:bridget,intro,SootopolisCity_Gym_B1F_Text_BridgetIntro,SootopolisCity_Gym_B1F_EventScript_Bridget,"The POKéMON GYM of the highest level in the HOENN region…
+
+That's the SOOTOPOLIS GYM."
+trainer:bridget,defeat,SootopolisCity_Gym_B1F_Text_BridgetDefeat,SootopolisCity_Gym_B1F_EventScript_Bridget,What a high level you are!
+trainer:olivia,intro,SootopolisCity_Gym_B1F_Text_OliviaIntro,SootopolisCity_Gym_B1F_EventScript_Olivia,"I train my POKéMON together with JUAN.
+
+Don't think I'm a pushover."
+trainer:olivia,defeat,SootopolisCity_Gym_B1F_Text_OliviaDefeat,SootopolisCity_Gym_B1F_EventScript_Olivia,I was beaten…
+trainer:tiffany,intro,SootopolisCity_Gym_B1F_Text_TiffanyIntro,SootopolisCity_Gym_B1F_EventScript_Tiffany,"A graceful glide across the ice while crossing no lines…
+
+A TRAINER putting on that performance would be elegantly beautiful!"
+trainer:tiffany,defeat,SootopolisCity_Gym_B1F_Text_TiffanyDefeat,SootopolisCity_Gym_B1F_EventScript_Tiffany,"Well, excuse me?!"
+trainer:bethany,intro,SootopolisCity_Gym_B1F_Text_BethanyIntro,SootopolisCity_Gym_B1F_EventScript_Bethany,"When I'm with my POKéMON, the time flies by before you can say, “Oops!”"
+trainer:bethany,defeat,SootopolisCity_Gym_B1F_Text_BethanyDefeat,SootopolisCity_Gym_B1F_EventScript_Bethany,Oops!
+trainer:annika,intro,SootopolisCity_Gym_B1F_Text_AnnikaIntro,SootopolisCity_Gym_B1F_EventScript_Annika,I can battle with really rare POKéMON if you'd like.
+trainer:annika,defeat,SootopolisCity_Gym_B1F_Text_AnnikaDefeat,SootopolisCity_Gym_B1F_EventScript_Annika,"Oh, there now! Did you have a good look at my POKéMON?"
+trainer:daphne,intro,SootopolisCity_Gym_B1F_Text_DaphneIntro,SootopolisCity_Gym_B1F_EventScript_Daphne,"The sight of JUAN conducting a battle…
+
+The very beauty of it compelled me to become a TRAINER."
+trainer:daphne,defeat,SootopolisCity_Gym_B1F_Text_DaphneDefeat,SootopolisCity_Gym_B1F_EventScript_Daphne,You battled with more beauty than I could muster…
+trainer:wally-vr-1,defeat,VictoryRoad_1F_Text_WallyEntranceDefeat,VictoryRoad_1F_EventScript_WallyEntranceBattle,"Wow! {PLAYER}, you are strong, after all!"
+trainer:wally-vr-2,intro,VictoryRoad_1F_Text_WallyIntro,VictoryRoad_1F_EventScript_ExitWally,"WALLY: Hi! {PLAYER}!
+
+I've gotten stronger since that last time! I wanted to show you, {PLAYER}!
+
+Okay… Here I come!"
+trainer:wally-vr-2,defeat,VictoryRoad_1F_Text_WallyDefeat,VictoryRoad_1F_EventScript_ExitWally,"Wow! {PLAYER}, you are strong, after all!"
+trainer:wally-vr-2,intro,VictoryRoad_1F_Text_WallyIntro,VictoryRoad_1F_EventScript_RematchWally,"WALLY: Hi! {PLAYER}!
+
+I've gotten stronger since that last time! I wanted to show you, {PLAYER}!
+
+Okay… Here I come!"
+trainer:wally-vr-2,defeat,VictoryRoad_1F_Text_WallyDefeat,VictoryRoad_1F_EventScript_RematchWally,"Wow! {PLAYER}, you are strong, after all!"
+trainer:edgar,intro,VictoryRoad_1F_Text_EdgarIntro,VictoryRoad_1F_EventScript_Edgar,"I've made it this far a couple times, but the last stretch is so long…"
+trainer:edgar,defeat,VictoryRoad_1F_Text_EdgarDefeat,VictoryRoad_1F_EventScript_Edgar,My dream ends here again…
+trainer:albert,intro,VictoryRoad_1F_Text_AlbertIntro,VictoryRoad_1F_EventScript_Albert,I didn't come all this way to lose now. That possibility doesn't exist!
+trainer:albert,defeat,VictoryRoad_1F_Text_AlbertDefeat,VictoryRoad_1F_EventScript_Albert,Impossible… I lost?
+trainer:hope,intro,VictoryRoad_1F_Text_HopeIntro,VictoryRoad_1F_EventScript_Hope,This seemingly infinite and harsh road lives up to its name of VICTORY.
+trainer:hope,defeat,VictoryRoad_1F_Text_HopeDefeat,VictoryRoad_1F_EventScript_Hope,Your battle style is fantastic…
+trainer:quincy,intro,VictoryRoad_1F_Text_QuincyIntro,VictoryRoad_1F_EventScript_Quincy,What is the VICTORY ROAD? I'll tell you if you win!
+trainer:quincy,defeat,VictoryRoad_1F_Text_QuincyDefeat,VictoryRoad_1F_EventScript_Quincy,Okay! Well done!
+trainer:katelynn,intro,VictoryRoad_1F_Text_KatelynnIntro,VictoryRoad_1F_EventScript_Katelynn,I have nothing to say to anyone that's come this far. Come on!
+trainer:katelynn,defeat,VictoryRoad_1F_Text_KatelynnDefeat,VictoryRoad_1F_EventScript_Katelynn,This is a disgrace…
+trainer:samuel,intro,VictoryRoad_B1F_Text_SamuelIntro,VictoryRoad_B1F_EventScript_Samuel,"The thought that I'm getting closer to the POKéMON LEAGUE…
+
+I'm getting stage fright…"
+trainer:samuel,defeat,VictoryRoad_B1F_Text_SamuelDefeat,VictoryRoad_B1F_EventScript_Samuel,I couldn't do a thing…
+trainer:shannon,intro,VictoryRoad_B1F_Text_ShannonIntro,VictoryRoad_B1F_EventScript_Shannon,"To win your way through the POKéMON LEAGUE, you need the trust of your POKéMON."
+trainer:shannon,defeat,VictoryRoad_B1F_Text_ShannonDefeat,VictoryRoad_B1F_EventScript_Shannon,Your relationship is based on solid trust.
+trainer:michelle,intro,VictoryRoad_B1F_Text_MichelleIntro,VictoryRoad_B1F_EventScript_Michelle,This isn't the goal. It's only a place on the way to the POKéMON LEAGUE.
+trainer:michelle,defeat,VictoryRoad_B1F_Text_MichelleDefeat,VictoryRoad_B1F_EventScript_Michelle,That's the way!
+trainer:mitchell,intro,VictoryRoad_B1F_Text_MitchellIntro,VictoryRoad_B1F_EventScript_Mitchell,My POKéMON are cosmically awe inspiring!
+trainer:mitchell,defeat,VictoryRoad_B1F_Text_MitchellDefeat,VictoryRoad_B1F_EventScript_Mitchell,I've never met anyone like you before.
+trainer:halle,intro,VictoryRoad_B1F_Text_HalleIntro,VictoryRoad_B1F_EventScript_Halle,"Okay, no need to get your back up! Relax, let's take it easy!"
+trainer:halle,defeat,VictoryRoad_B1F_Text_HalleDefeat,VictoryRoad_B1F_EventScript_Halle,Whoa! Wonderful!
+trainer:vito,intro,VictoryRoad_B2F_Text_VitoIntro,VictoryRoad_B2F_EventScript_Vito,"I trained together with my whole family, every one of us! I'm not losing to anyone!"
+trainer:vito,defeat,VictoryRoad_B2F_Text_VitoDefeat,VictoryRoad_B2F_EventScript_Vito,Better than my family?! Is that possible?!
+trainer:owen,intro,VictoryRoad_B2F_Text_OwenIntro,VictoryRoad_B2F_EventScript_Owen,I'd heard that there was a tough little kid around. Do they mean you?
+trainer:owen,defeat,VictoryRoad_B2F_Text_OwenDefeat,VictoryRoad_B2F_EventScript_Owen,The little shrimp is tough!
+trainer:caroline,intro,VictoryRoad_B2F_Text_CarolineIntro,VictoryRoad_B2F_EventScript_Caroline,You must be getting a little tired.
+trainer:caroline,defeat,VictoryRoad_B2F_Text_CarolineDefeat,VictoryRoad_B2F_EventScript_Caroline,No signs of tiring at all!
+trainer:julie,intro,VictoryRoad_B2F_Text_JulieIntro,VictoryRoad_B2F_EventScript_Julie,"You shouldn't get complacent just because you have a lot of GYM BADGES.
+
+There's always going to be someone who's better than you!"
+trainer:julie,defeat,VictoryRoad_B2F_Text_JulieDefeat,VictoryRoad_B2F_EventScript_Julie,You're better than me!
+trainer:felix,intro,VictoryRoad_B2F_Text_FelixIntro,VictoryRoad_B2F_EventScript_Felix,"I've come this far, but the tension's giving me awful stomach pain…"
+trainer:felix,defeat,VictoryRoad_B2F_Text_FelixDefeat,VictoryRoad_B2F_EventScript_Felix,Ooh… It hurts…
+trainer:dianne,intro,VictoryRoad_B2F_Text_DianneIntro,VictoryRoad_B2F_EventScript_Dianne,"The elite among the elite gather in this cave.
+
+How are you finding it?"
+trainer:dianne,defeat,VictoryRoad_B2F_Text_DianneDefeat,VictoryRoad_B2F_EventScript_Dianne,Not rattled in the least bit!
+trainer:gabby-and-ty-1,intro,GabbyAndTy_Text_GabbyPreFirstBattle,GabbyAndTy_EventScript_GabbyBattle1,"GABBY: Oh! We've just spotted a tough- looking TRAINER here of all places!
+
+Okay, roll camera! Let's get this interview."
+trainer:gabby-and-ty-1,defeat,GabbyAndTy_Text_GabbyDefeatFirstTime,GabbyAndTy_EventScript_GabbyBattle1,GABBY: My eyes didn't lie! I did discover an astonishing TRAINER!
+trainer:gabby-and-ty-1,not_enough_pokemon,GabbyAndTy_Text_GabbyNotEnoughMons,GabbyAndTy_EventScript_GabbyBattle1,GABBY: Is there a strong TRAINER anywhere with a lot of POKéMON?
+trainer:gabby-and-ty-1,intro,GabbyAndTy_Text_TyPreFirstBattle,GabbyAndTy_EventScript_TyBattle1,"TY: Hey, lookie here! A tough-looking TRAINER here, of all places! Camera's rolling!"
+trainer:gabby-and-ty-1,defeat,GabbyAndTy_Text_TyDefeatFirstTime,GabbyAndTy_EventScript_TyBattle1,"TY: Yep, we sure spotted a hot TRAINER. This is a huge scoop for us!"
+trainer:gabby-and-ty-1,not_enough_pokemon,GabbyAndTy_Text_TyNotEnoughMons,GabbyAndTy_EventScript_TyBattle1,"TY: Do you only have the one POKéMON and that's it?
+
+If you had more POKéMON, it'd make for better footage, but…"
+trainer:gabby-and-ty-2,intro,GabbyAndTy_Text_GabbyIntro,GabbyAndTy_EventScript_GabbyBattle2,"GABBY: Oh! You're {PLAYER}! Hi! Do you remember us from last time?
+
+Can you show us how much stronger you've become? Okay, cue interview!"
+trainer:gabby-and-ty-2,defeat,GabbyAndTy_Text_GabbyDefeat,GabbyAndTy_EventScript_GabbyBattle2,GABBY: That was an intense battle! Did you get all that on camera?
+trainer:gabby-and-ty-2,not_enough_pokemon,GabbyAndTy_Text_GabbyNotEnoughMons,GabbyAndTy_EventScript_GabbyBattle2,GABBY: Is there a strong TRAINER anywhere with a lot of POKéMON?
+trainer:gabby-and-ty-2,intro,GabbyAndTy_Text_TyIntro,GabbyAndTy_EventScript_TyBattle2,"TY: Hey, lookie here! I remember you!
+
+I'll get this battle all on this here camera!"
+trainer:gabby-and-ty-2,defeat,GabbyAndTy_Text_TyDefeat,GabbyAndTy_EventScript_TyBattle2,"TY: Yep, I got it all. That whole battle's on camera."
+trainer:gabby-and-ty-2,not_enough_pokemon,GabbyAndTy_Text_TyNotEnoughMons,GabbyAndTy_EventScript_TyBattle2,"TY: Do you only have the one POKéMON and that's it?
+
+If you had more POKéMON, it'd make for better footage, but…"
+trainer:gabby-and-ty-3,intro,GabbyAndTy_Text_GabbyIntro,GabbyAndTy_EventScript_GabbyBattle3,"GABBY: Oh! You're {PLAYER}! Hi! Do you remember us from last time?
+
+Can you show us how much stronger you've become? Okay, cue interview!"
+trainer:gabby-and-ty-3,defeat,GabbyAndTy_Text_GabbyDefeat,GabbyAndTy_EventScript_GabbyBattle3,GABBY: That was an intense battle! Did you get all that on camera?
+trainer:gabby-and-ty-3,not_enough_pokemon,GabbyAndTy_Text_GabbyNotEnoughMons,GabbyAndTy_EventScript_GabbyBattle3,GABBY: Is there a strong TRAINER anywhere with a lot of POKéMON?
+trainer:gabby-and-ty-3,intro,GabbyAndTy_Text_TyIntro,GabbyAndTy_EventScript_TyBattle3,"TY: Hey, lookie here! I remember you!
+
+I'll get this battle all on this here camera!"
+trainer:gabby-and-ty-3,defeat,GabbyAndTy_Text_TyDefeat,GabbyAndTy_EventScript_TyBattle3,"TY: Yep, I got it all. That whole battle's on camera."
+trainer:gabby-and-ty-3,not_enough_pokemon,GabbyAndTy_Text_TyNotEnoughMons,GabbyAndTy_EventScript_TyBattle3,"TY: Do you only have the one POKéMON and that's it?
+
+If you had more POKéMON, it'd make for better footage, but…"
+trainer:gabby-and-ty-4,intro,GabbyAndTy_Text_GabbyIntro,GabbyAndTy_EventScript_GabbyBattle4,"GABBY: Oh! You're {PLAYER}! Hi! Do you remember us from last time?
+
+Can you show us how much stronger you've become? Okay, cue interview!"
+trainer:gabby-and-ty-4,defeat,GabbyAndTy_Text_GabbyDefeat,GabbyAndTy_EventScript_GabbyBattle4,GABBY: That was an intense battle! Did you get all that on camera?
+trainer:gabby-and-ty-4,not_enough_pokemon,GabbyAndTy_Text_GabbyNotEnoughMons,GabbyAndTy_EventScript_GabbyBattle4,GABBY: Is there a strong TRAINER anywhere with a lot of POKéMON?
+trainer:gabby-and-ty-4,intro,GabbyAndTy_Text_TyIntro,GabbyAndTy_EventScript_TyBattle4,"TY: Hey, lookie here! I remember you!
+
+I'll get this battle all on this here camera!"
+trainer:gabby-and-ty-4,defeat,GabbyAndTy_Text_TyDefeat,GabbyAndTy_EventScript_TyBattle4,"TY: Yep, I got it all. That whole battle's on camera."
+trainer:gabby-and-ty-4,not_enough_pokemon,GabbyAndTy_Text_TyNotEnoughMons,GabbyAndTy_EventScript_TyBattle4,"TY: Do you only have the one POKéMON and that's it?
+
+If you had more POKéMON, it'd make for better footage, but…"
+trainer:gabby-and-ty-5,intro,GabbyAndTy_Text_GabbyIntro,GabbyAndTy_EventScript_GabbyBattle5,"GABBY: Oh! You're {PLAYER}! Hi! Do you remember us from last time?
+
+Can you show us how much stronger you've become? Okay, cue interview!"
+trainer:gabby-and-ty-5,defeat,GabbyAndTy_Text_GabbyDefeat,GabbyAndTy_EventScript_GabbyBattle5,GABBY: That was an intense battle! Did you get all that on camera?
+trainer:gabby-and-ty-5,not_enough_pokemon,GabbyAndTy_Text_GabbyNotEnoughMons,GabbyAndTy_EventScript_GabbyBattle5,GABBY: Is there a strong TRAINER anywhere with a lot of POKéMON?
+trainer:gabby-and-ty-5,intro,GabbyAndTy_Text_TyIntro,GabbyAndTy_EventScript_TyBattle5,"TY: Hey, lookie here! I remember you!
+
+I'll get this battle all on this here camera!"
+trainer:gabby-and-ty-5,defeat,GabbyAndTy_Text_TyDefeat,GabbyAndTy_EventScript_TyBattle5,"TY: Yep, I got it all. That whole battle's on camera."
+trainer:gabby-and-ty-5,not_enough_pokemon,GabbyAndTy_Text_TyNotEnoughMons,GabbyAndTy_EventScript_TyBattle5,"TY: Do you only have the one POKéMON and that's it?
+
+If you had more POKéMON, it'd make for better footage, but…"
+trainer:gabby-and-ty-6,intro,GabbyAndTy_Text_GabbyIntro,GabbyAndTy_EventScript_GabbyBattle6,"GABBY: Oh! You're {PLAYER}! Hi! Do you remember us from last time?
+
+Can you show us how much stronger you've become? Okay, cue interview!"
+trainer:gabby-and-ty-6,defeat,GabbyAndTy_Text_GabbyDefeat,GabbyAndTy_EventScript_GabbyBattle6,GABBY: That was an intense battle! Did you get all that on camera?
+trainer:gabby-and-ty-6,not_enough_pokemon,GabbyAndTy_Text_GabbyNotEnoughMons,GabbyAndTy_EventScript_GabbyBattle6,GABBY: Is there a strong TRAINER anywhere with a lot of POKéMON?
+trainer:gabby-and-ty-6,intro,GabbyAndTy_Text_TyIntro,GabbyAndTy_EventScript_TyBattle6,"TY: Hey, lookie here! I remember you!
+
+I'll get this battle all on this here camera!"
+trainer:gabby-and-ty-6,defeat,GabbyAndTy_Text_TyDefeat,GabbyAndTy_EventScript_TyBattle6,"TY: Yep, I got it all. That whole battle's on camera."
+trainer:gabby-and-ty-6,not_enough_pokemon,GabbyAndTy_Text_TyNotEnoughMons,GabbyAndTy_EventScript_TyBattle6,"TY: Do you only have the one POKéMON and that's it?
+
+If you had more POKéMON, it'd make for better footage, but…"
+trainer:phillip,defeat,BattleFacility_TrainerBattle_PlaceholderText,TrainerHill_EventScript_TrainerBattle,This is a sample message.
